@@ -4,6 +4,18 @@
 
 > Vendors, prices and documents are fabricated. Every AI read, check and answer runs on real models: GPT-6.1 Sol reads, Claude Opus 5.5 audits photos and answers questions.
 
+Prabhanjan Kulkarni · October 2026
+
+| What | Where |
+|---|---|
+| Live prototype | [aerchain-pm-submission.vercel.app](https://aerchain-pm-submission.vercel.app) (the AI passcode is in my email) |
+| Loom walkthrough (about 5 minutes) | [Watch on Loom](https://www.loom.com/share/032b5aab46b6427aa17225794838eaf3) |
+| One-page note | [docs/one-page-note.md](docs/one-page-note.md) |
+| Decision record | [docs/decision-record.md](docs/decision-record.md) |
+| Eval battery | [docs/evals/eval-battery.md](docs/evals/eval-battery.md) |
+| Live-upload test (4 unseen replies) | [docs/evals/live-upload-test.md](docs/evals/live-upload-test.md) |
+| Advanced evals (error discovery) | [docs/evals/advanced-evals.md](docs/evals/advanced-evals.md) |
+
 ## The one rule
 
 **Every number is a claim with evidence.** The reader must quote where each price came from. Code then checks each claim independently, and the buyer checks only what could change the award.
