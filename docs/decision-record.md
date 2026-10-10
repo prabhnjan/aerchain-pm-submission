@@ -1,8 +1,8 @@
-# Decision record (current)
+# Decision Record
 
 **This file is the current truth.** Created 2026-10-09 in response to an external design review. Every row matches the running prototype.
 
-## 1. Product decisions
+## 1. Product Decisions
 
 | Decision | Chosen | Why | Evidence | Limitation |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@
 | Main canvas and Ask | A request list on the left and Aera, the copilot, always on the right. The buyer drafts the RFx by talking, sends it (simulated), replies arrive, then the comparison, checks and award options open inside the same request; detail opens in place or in a centred dialog | The conversation is the product; the buyer never loses their place (user feedback, 10 Oct) | `components/Workspace.tsx`, `components/canvas/Canvas.tsx`, `components/chat/Chat.tsx` | Single demo request; earlier requests are illustrative |
 | Email | Outbound is simulated (send confirmation, no email leaves the app); inbound is the 5 prepared replies or a live upload | Brief: "Fake the SMTP server if you like" | Send confirmation dialog; "+" Add a reply | No real inbox |
 
-## 2. The award contract (audit F05, F08)
+## 2. The Award Contract (audit F05, F08)
 
 All award maths is code (`lib/scenario/index.ts`), never the model.
 
@@ -45,7 +45,7 @@ All award maths is code (`lib/scenario/index.ts`), never the model.
 | Proof | Probe: making A fail only the food-safe declaration moves exactly A's 5 food lines and keeps its 6 non-food wins (`scripts/audit-probes.ts`) |
 | Not modelled | Capacity per line (it's per vendor, in tonnes/month) |
 
-## 4. Uncertainty policy (audit F07, F14, F22)
+## 4. Uncertainty Policy (audit F07, F14, F22)
 
 | Reason a value is uncertain | Plausible range used in robustness |
 |---|---|
@@ -58,10 +58,10 @@ All award maths is code (`lib/scenario/index.ts`), never the model.
 | Rate given for a group, not certain it covers this line | **Unbounded: "can't establish"**. Counts against "decision holds" |
 | Anything else flagged | ±15% |
 
-## 5. What makes a cell quiet (audit F04)
+## 5. What Makes a Cell Quiet (audit F04)
 
 A cell is shown as **"Checks passed"** (not "verified") only if every check that applies passed: the quote is found in the file; the Excel cell holds the value; the line match holds (no other item code or size next to the price); the price appears inside the vendor text quoted for it (catches shifted rows, audit F15; for photos, the source panel highlights the row the reader says it used, enlarges it, and shows a pixel box where local OCR, which isn't AI, reads the same digits); the price is physically plausible (₹30–90/kg from the spec) and in line with the other vendors; it's within the drift band vs last year; the second read agrees (photos); no inferred unit, group scope, spec deviation or legibility issue. "Checks passed" is still a machine reading. It isn't a human confirmation, and the label says so.
 
-## 6. Deliberately out of scope
+## 6. Deliberately Out of Scope
 
 Real email in or out; login; database; ERP; negotiation; multi-plant freight; scaling beyond 5 vendors × 30 lines in the UI.

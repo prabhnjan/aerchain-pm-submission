@@ -1,4 +1,4 @@
-# Kill the Quote Spreadsheet: what I decided, and what I left out
+# Kill the Quote Spreadsheet: What I Decided, and What I Left Out
 
 *Suppliers, prices and documents are fabricated. Every AI read, check and answer is real; only sending is simulated. Results: `docs/evals/` in the repo.*
 

@@ -1,4 +1,4 @@
-# The product in one minute
+# The Product in One Minute
 
 **Links.** Live prototype: https://aerchain-pm-submission.vercel.app (the AI passcode is in my email). Code: https://github.com/prabhnjan/aerchain-pm-submission. A built-in **Take a Tour** button walks the whole flow.
 
@@ -20,7 +20,7 @@
 | Conversions, checks, award scenarios, the "holds if wrong" test (code) | Each browser keeps its own state (no database) |
 
 
-# Evidence: what was tested, and where it fell short
+# Evidence: What Was Tested, and Where It Fell Short
 
 | Test | Result | Where it fell short |
 |---|---|---|
@@ -35,7 +35,7 @@
 The last row followed Hamel Husain and Shreya Shankar's error-discovery method. The pass/fail labels are mine (AI-proposed), not human-reviewed. Full reports: [evals/](evals/).
 
 
-# Decisions worth defending
+# Decisions Worth Defending
 
 | Decision | Why |
 |---|---|
