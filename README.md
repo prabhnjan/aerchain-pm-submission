@@ -46,7 +46,7 @@ npm run dev                  # http://localhost:3000
 | `npm run pipeline` | Real AI extraction of all replies (about $0.80) → `data/runs/latest.json` |
 | `npm run pipeline:cached` | Re-run only the code stages on the stored extraction (free) |
 | `npm run eval:cells` · `npx tsx evals/traps.eval.ts` · `npx tsx evals/heldout.eval.ts --id=G` | The evals |
-| `npx tsx scripts/audit-probes.ts` | Probes from the Codex audit (wrong-line value, discount-aware search, food-line gate, capacity, MOQ) |
+| `npx tsx scripts/audit-probes.ts` | Probes from an external design review of the prototype (wrong-line value, discount-aware search, food-line gate, capacity, MOQ) |
 
 ## Licence
 

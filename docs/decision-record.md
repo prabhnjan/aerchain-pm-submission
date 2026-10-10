@@ -1,22 +1,22 @@
 # Decision record (current)
 
-**This file is the current truth.** Older working notes (`open-decisions-and-assumptions.md`, `assumptions-register.md`, `architecture/*`) keep their history with strikethroughs. Where they disagree with this file, this file wins. Created 2026-10-09 in response to the Codex audit (F05, F06, F08, F25, F26). Every row matches the running prototype.
+**This file is the current truth.** Created 2026-10-09 in response to an external design review. Every row matches the running prototype.
 
 ## 1. Product decisions
 
 | Decision | Chosen | Why | Evidence | Limitation |
 |---|---|---|---|---|
-| Category | Corrugated packaging, 30 lines, 5 vendors | The brief's own examples (per kg, 5-ply, freight extra) are corrugated | `research/domain-corrugated.md` | Data is fabricated; quantities scaled to ≈ ₹4 crore |
+| Category | Corrugated packaging, 30 lines, 5 vendors | The brief's own examples (per kg, 5-ply, freight extra) are corrugated | Domain research (corrugated board, per-kg pricing) | Data is fabricated; quantities scaled to ≈ ₹4 crore |
 | Core bet | **Decision-aware verification**: every number is a claim with evidence; the buyer checks only what could change the award | The brief's sharpest test is "what does it show when it isn't sure" | Latest run (`data/runs/latest.json`): 45 of 150 cells need attention = 36 flagged (35 needs review + 1 carried) + 9 not quoted; Review shows which can change the VP's award (none) | A tested hypothesis, not a claim about what Aerchain's product lacks |
-| Reader / auditor | GPT-6.1 Sol reads every file; Claude Opus 5.5 re-reads photos on enlarged crops and judges the questionnaire; Opus 5.5 is the analyst | Different providers are less likely to share a misreading | Run logs in `prototype/data/runs/latest.json` | Agreement isn't proof: two models can share a mistake (audit F15) |
-| Persistence | No database. Seeded run in the repo; overrides and live re-reads live in each browser | Session isolation for a public demo; nothing to pause before the live demo | `prototype/components/WorkspaceContext.tsx` | Nothing is shared between users; reload loses live re-reads; "Reset demo" restores the start |
+| Reader / auditor | GPT-6.1 Sol reads every file; Claude Opus 5.5 re-reads photos on enlarged crops and judges the questionnaire; Opus 5.5 is the analyst | Different providers are less likely to share a misreading | Run logs in `data/runs/latest.json` | Agreement isn't proof: two models can share a mistake (audit F15) |
+| Persistence | No database. Seeded run in the repo; overrides and live re-reads live in each browser | Session isolation for a public demo; nothing to pause before the live demo | `components/WorkspaceContext.tsx` | Nothing is shared between users; reload loses live re-reads; "Reset demo" restores the start |
 | Live vs stored | The tour uses a **stored run** produced by the real models on 9 Oct; any supplier can be re-read live and any new reply uploaded (the "+" on the comparison) through the same code path | Speed for the tour, honesty about provenance (audit F02) | ~~Responses tab labels~~ The responses card says the prepared replies were read by real models on the stored date and new uploads are read live; each supplier's detail says "Stored run…" or "Read live…" | A live photo read takes up to ~2 minutes |
 | Main canvas and Ask | ~~The app opens on Compare with a decision strip and an Ask bar on every tab~~ **As built (10 Oct):** a request list on the left and Aera, the copilot, always on the right. The buyer drafts the RFx by talking, sends it (simulated), replies arrive, then the comparison, checks and award options open inside the same request; detail opens in place or in a centred dialog | The conversation is the product; the buyer never loses their place (user feedback, 10 Oct) | `components/Workspace.tsx`, `components/canvas/Canvas.tsx`, `components/chat/Chat.tsx` | Single demo request; earlier requests are illustrative |
 | Email | Outbound is simulated (send confirmation, no email leaves the app); inbound is the 5 prepared replies or a live upload | Brief: "Fake the SMTP server if you like" | Send confirmation dialog; "+" Add a reply | No real inbox |
 
 ## 2. The award contract (audit F05, F08)
 
-All award maths is code (`prototype/lib/scenario/index.ts`), never the model.
+All award maths is code (`lib/scenario/index.ts`), never the model.
 
 | Item | Rule |
 |---|---|
@@ -41,7 +41,7 @@ All award maths is code (`prototype/lib/scenario/index.ts`), never the model.
 | Capacity | ~~Judged against the full annual volume~~ **As built: enforced in the award** (audit F06/F21). Awardable tonnes/month = spare capacity (from the vendor's own answer) ÷ 1.5. Over the limit → the lines cheapest to move go to the next vendor with room; a capacity that isn't stated excludes the vendor under a quality rule. Probe: capping Kaveri at 20 t/month moves 9 lines to A under the VP rule |
 | Evidence | Answers plus attachments (e.g. the ISO certificate's expiry date). The judge must quote its evidence |
 | Unknown | "Unclear" or "not answered" on any must-have = **does not clear**. Unknown never quietly passes |
-| Rules frozen | The pass rules are part of the RFx (`prototype/data/rfx.ts`), set before bids arrive |
+| Rules frozen | The pass rules are part of the RFx (`data/rfx.ts`), set before bids arrive |
 | Proof | Probe: making A fail only the food-safe declaration moves exactly A's 5 food lines and keeps its 6 non-food wins (`scripts/audit-probes.ts`) |
 | Not modelled | Capacity per line (it's per vendor, in tonnes/month) |
 

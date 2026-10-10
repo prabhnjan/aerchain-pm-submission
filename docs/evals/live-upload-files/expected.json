@@ -1,0 +1,20 @@
+{
+  "_note": "Answer key for the live-upload test, written before any upload. Values are ex-GST INR per piece. null = not quoted (must show as not quoted, never 0).",
+  "csv": { "file": "Lakshmi_quotation.csv", "vendor": "Lakshmi Corrugated Works", "lines": {
+    "PK-SHP-001": 43.85, "PK-SHP-002": 39.10, "PK-SHP-004": 35.60, "PK-SHP-005": 30.75, "PK-SHP-007": 22.90,
+    "PK-SHP-009": 26.40, "PK-SHP-010": 32.40, "PK-SHP-014": null, "PK-PAD-028": 2.45, "PK-SHP-030": 8.20 },
+    "traps": ["own item names, no buyer codes (match by size and ply)", "rates per 100 pcs", "'Regret' on one line", "freight Rs 1.80/kg extra, ex-works"] },
+  "image": { "file": "Vasavi_quotation.png", "vendor": "Vasavi Packaging LLP", "lines": {
+    "PK-SHP-011": 24.60, "PK-SHP-012": 10.40, "PK-SHP-013": 33.20, "PK-SHP-015": 33.10, "PK-SHP-016": 16.90,
+    "PK-SHP-017": 26.80, "PK-SHP-018": 10.70, "PK-SHP-006": null, "PK-DCT-024": 7.60, "PK-PRT-025": 6.80 },
+    "traps": ["image of a table (no text layer)", "2.5% discount footnote conditional on annual value > Rs 60 lakh", "GST 5% extra", "7-ply line marked not manufactured"] },
+  "photo": { "file": "SreeBalaji_ratecard_photo.jpg", "vendor": "Sree Balaji Box Makers", "lines": {
+    "PK-SHP-001": 44.10, "PK-SHP-002": 39.40, "PK-SHP-003": 23.30, "PK-SHP-019": 56.80, "PK-SHP-020": 70.20,
+    "PK-PAD-029": 48.50, "PK-PRT-027": 9.40, "PK-DCT-022": 6.70 },
+    "traps": ["angled phone photo with shadow and blur", "codes on some rows only", "delivered Hosur, GST extra"] },
+  "email": { "file": "Mahalaxmi_reply.eml", "vendor": "Mahalaxmi Cartons", "lines": {
+    "PK-SHP-001": 42.38, "PK-SHP-002": 37.86, "PK-SHP-003": 22.00, "PK-SHP-007": 21.71, "PK-SHP-008": 24.95,
+    "PK-PRT-025": 6.57, "PK-PRT-026": 3.76 },
+    "as_written": { "PK-SHP-001": 44.50, "PK-SHP-002": 39.75, "PK-SHP-003": 23.10, "PK-SHP-007": 22.80, "PK-SHP-008": 26.20, "PK-PRT-025": 6.90, "PK-PRT-026": 3.95 },
+    "traps": ["prices in prose, no codes", "inclusive of 5% GST (expected = written / 1.05)", "freight extra at actuals (amount unknown)", "validity 15 days", "trays 'not in our range'"] }
+}

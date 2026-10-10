@@ -169,7 +169,7 @@ async function renderD(page: import("playwright").Page) {
 
 // ---------------- emails ----------------
 function emailD() {
-  return `From: Shree Ambika Cartons <ambikacartons.dbs@gmail.com>
+  return `From: Shree Ambika Cartons <sales@ambikacartons.example>
 To: packaging.buyer@sahyadri-consumer.example
 Date: Tue, 29 Sep 2026 18:42 +0530
 Subject: Re: ${BUYER.rfxId} - rates
