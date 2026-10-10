@@ -1,4 +1,4 @@
-# Eval battery: beyond the brief's named edges
+# Eval Battery: Beyond the Brief's Named Edges
 
 **Run:** 10 Oct 2026 (AI-assisted), on the current prototype.
 **Purpose:** check that the prototype holds up when someone else drives it: files we've never seen, questions we didn't suggest, broken inputs and attempts to make it bend the rules.

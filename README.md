@@ -4,14 +4,14 @@ Prabhanjan Kulkarni · Product Manager take-home for Aerchain · October 2026
 
 | What | Where |
 |---|---|
-| **Live prototype** | [aerchain-pm-submission.vercel.app](https://aerchain-pm-submission.vercel.app). The AI features are **passcode-protected**; the passcode is in my email |
-| **Loom walkthrough** (about 5 min) | [Watch on Loom](https://www.loom.com/share/032b5aab46b6427aa17225794838eaf3) |
-| One-page note | [docs/one-page-note.md](docs/one-page-note.md) |
-| Details: the product in one minute, evidence, decisions and what's next | [docs/details.md](docs/details.md) |
-| Decision record (every rule and why) | [docs/decision-record.md](docs/decision-record.md) |
-| Eval battery | [docs/evals/eval-battery.md](docs/evals/eval-battery.md) |
-| Live-upload test (4 unseen replies) | [docs/evals/live-upload-test.md](docs/evals/live-upload-test.md) |
-| Advanced evals (error discovery on the analyst) | [docs/evals/advanced-evals.md](docs/evals/advanced-evals.md) |
+| **Live Prototype** | [aerchain-pm-submission.vercel.app](https://aerchain-pm-submission.vercel.app). The AI features are **passcode-protected**; the passcode is in my email |
+| **Loom Walkthrough** (about 5 min) | [Watch on Loom](https://www.loom.com/share/032b5aab46b6427aa17225794838eaf3) |
+| One-Page Note | [docs/one-page-note.md](docs/one-page-note.md) |
+| Details: the product in one minute, evidence and decisions | [docs/details.md](docs/details.md) |
+| Decision Record (every rule and why) | [docs/decision-record.md](docs/decision-record.md) |
+| Eval Battery | [docs/evals/eval-battery.md](docs/evals/eval-battery.md) |
+| Live-Upload Test (4 unseen replies) | [docs/evals/live-upload-test.md](docs/evals/live-upload-test.md) |
+| Advanced Evals (error discovery on the analyst) | [docs/evals/advanced-evals.md](docs/evals/advanced-evals.md) |
 
 ## In one paragraph
 

@@ -1,4 +1,4 @@
-# Live-upload test: 4 unseen supplier replies
+# Live-Upload Test: 4 Unseen Supplier Replies
 
 **Run:** 10 Oct 2026 (AI-assisted), against the prototype's real upload path.
 **Why:** a live demo can include files the system has never seen. This test uploads 4 new replies in different formats and scores every price against an answer key written before any upload.

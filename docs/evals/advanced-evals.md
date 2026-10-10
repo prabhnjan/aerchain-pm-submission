@@ -1,4 +1,4 @@
-# Advanced evals: error discovery on the analyst
+# Advanced Evals: Error Discovery on the Analyst
 
 **Method:** Hamel Husain and Shreya Shankar, *Advanced evals: how to find (and fix) hidden AI failures* (Lenny's Newsletter, 22 Sep 2026). Read real outputs first to find the failures worth measuring, then turn them into checks and priorities.
 **Run:** 10 Oct 2026 (AI-assisted). 22 analyst traces: 9 from synthetic queries generated from dimensions, plus 13 hand-written questions. The article recommends about 100; read the counts as signals, not rates.
