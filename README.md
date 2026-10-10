@@ -7,6 +7,7 @@ Prabhanjan Kulkarni · Product Manager take-home for Aerchain · October 2026
 | **Live prototype** | [aerchain-pm-submission.vercel.app](https://aerchain-pm-submission.vercel.app). The AI features are **passcode-protected**; the passcode is in my email |
 | **Loom walkthrough** (about 5 min) | [Watch on Loom](https://www.loom.com/share/032b5aab46b6427aa17225794838eaf3) |
 | One-page note | [docs/one-page-note.md](docs/one-page-note.md) |
+| Details: the product in one minute, evidence, decisions and what's next | [docs/details.md](docs/details.md) |
 | Decision record (every rule and why) | [docs/decision-record.md](docs/decision-record.md) |
 | Eval battery | [docs/evals/eval-battery.md](docs/evals/eval-battery.md) |
 | Live-upload test (4 unseen replies) | [docs/evals/live-upload-test.md](docs/evals/live-upload-test.md) |
@@ -64,7 +65,7 @@ Suppliers, prices and documents are fabricated. Every AI read, check and answer 
 | `evals/` | Eval code and stored results: cells, traps, held-out |
 | `scripts/` | Pipeline runner and small probes |
 | `public/replies/` | The same supplier files, downloadable from the app |
-| `docs/` | The note, the decision record, eval reports, and the test files used in them |
+| `docs/` | The one-page note, the details, the decision record, eval reports, and the test files used in them |
 
 ## Run it locally
 
