@@ -1,0 +1,320 @@
+{
+  "fx": {
+    "usdInr": 88.4,
+    "date": "2026-09-30",
+    "source": "Assumed demo rate, fixed at bid close (not a real RBI reference rate)"
+  },
+  "freightLaneInrPerKg": [
+    1.5,
+    3
+  ],
+  "history": [
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-001",
+      "inrPerPiece": 42.62,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-002",
+      "inrPerPiece": 38.08,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-003",
+      "inrPerPiece": 22.68,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-004",
+      "inrPerPiece": 35.06,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-005",
+      "inrPerPiece": 30.24,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-006",
+      "inrPerPiece": 63.23,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-007",
+      "inrPerPiece": 22.31,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-008",
+      "inrPerPiece": 25.95,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-009",
+      "inrPerPiece": 26.08,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-010",
+      "inrPerPiece": 31.8,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-011",
+      "inrPerPiece": 24.93,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-012",
+      "inrPerPiece": 10.73,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-013",
+      "inrPerPiece": 34.5,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-014",
+      "inrPerPiece": 30.25,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-015",
+      "inrPerPiece": 33.53,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-016",
+      "inrPerPiece": 17.72,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-017",
+      "inrPerPiece": 27.33,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-018",
+      "inrPerPiece": 10.98,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-019",
+      "inrPerPiece": 55.27,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-020",
+      "inrPerPiece": 68.48,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-DCT-024",
+      "inrPerPiece": 7.52,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-PRT-025",
+      "inrPerPiece": 6.72,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-PRT-026",
+      "inrPerPiece": 3.74,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-PRT-027",
+      "inrPerPiece": 9.18,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-PAD-028",
+      "inrPerPiece": 2.41,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-PAD-029",
+      "inrPerPiece": 47.62,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-030",
+      "inrPerPiece": 8.15,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-006",
+      "inrPerPiece": 63.88,
+      "ref": "PO-2025-131 (FY 2025-26)"
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-DCT-022",
+      "inrPerPiece": 6.51,
+      "ref": "PO-2025-131 (FY 2025-26)"
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-DCT-024",
+      "inrPerPiece": 7.54,
+      "ref": "PO-2025-131 (FY 2025-26)"
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-PAD-028",
+      "inrPerPiece": 2.34,
+      "ref": "PO-2025-131 (FY 2025-26)"
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-001",
+      "inrPerPiece": 40.99,
+      "ref": "PO-2025-131 (FY 2025-26)"
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-002",
+      "inrPerPiece": 36,
+      "ref": "PO-2025-131 (FY 2025-26)"
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-003",
+      "inrPerPiece": 22.29,
+      "ref": "PO-2025-131 (FY 2025-26)"
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-004",
+      "inrPerPiece": 33.7,
+      "ref": "PO-2025-131 (FY 2025-26)"
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-005",
+      "inrPerPiece": 28.09,
+      "ref": "PO-2025-131 (FY 2025-26)"
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-007",
+      "inrPerPiece": 20.33,
+      "ref": "PO-2025-131 (FY 2025-26)"
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-008",
+      "inrPerPiece": 24.83,
+      "ref": "PO-2025-131 (FY 2025-26)"
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-009",
+      "inrPerPiece": 24.87,
+      "ref": "PO-2025-131 (FY 2025-26)"
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-010",
+      "inrPerPiece": 31.33,
+      "ref": "PO-2025-131 (FY 2025-26)"
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-011",
+      "inrPerPiece": 23.52,
+      "ref": "PO-2025-131 (FY 2025-26)"
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-012",
+      "inrPerPiece": 10.17,
+      "ref": "PO-2025-131 (FY 2025-26)"
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-013",
+      "inrPerPiece": 31.37,
+      "ref": "PO-2025-131 (FY 2025-26)"
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-014",
+      "inrPerPiece": 29.07,
+      "ref": "PO-2025-131 (FY 2025-26)"
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-015",
+      "inrPerPiece": 32.49,
+      "ref": "PO-2025-131 (FY 2025-26)"
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-016",
+      "inrPerPiece": 15.87,
+      "ref": "PO-2025-131 (FY 2025-26)"
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-017",
+      "inrPerPiece": 24.48,
+      "ref": "PO-2025-131 (FY 2025-26)"
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-018",
+      "inrPerPiece": 10.54,
+      "ref": "PO-2025-131 (FY 2025-26)"
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-019",
+      "inrPerPiece": 51.12,
+      "ref": "PO-2025-131 (FY 2025-26)"
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-020",
+      "inrPerPiece": 62.98,
+      "ref": "PO-2025-131 (FY 2025-26)"
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-030",
+      "inrPerPiece": 7.95,
+      "ref": "PO-2025-131 (FY 2025-26)"
+    }
+  ],
+  "gstRateBoxes": 5
+}

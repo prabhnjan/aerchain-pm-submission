@@ -1,0 +1,1495 @@
+{
+  "ranAt": "2026-10-09T15:09:01.327Z",
+  "extraction": {
+    "vendor_name": "Ganesh Kraft Packers",
+    "lines": [
+      {
+        "rfx_line_id": "PK-SHP-001",
+        "source_ref": "F_GaneshKraft_email.txt L10-L11",
+        "source_quote": "SNo | Item | Size (cm) | Ply | Rate (Rs)\n1 | Detergent 1kg shipper | 41 x 31 x 26 | 5 | 44.90",
+        "vendor_item_text": "Detergent 1kg shipper",
+        "match_basis": "dimensions_and_ply",
+        "scope": "explicit_line",
+        "price_status": "read_clearly",
+        "price_text": "44.90",
+        "price_value": 44.9,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "INR",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-002",
+        "source_ref": "F_GaneshKraft_email.txt L10, L12",
+        "source_quote": "SNo | Item | Size (cm) | Ply | Rate (Rs)\n2 | Detergent 500g shipper | 42 x 30 x 24 | 5 | 40.20",
+        "vendor_item_text": "Detergent 500g shipper",
+        "match_basis": "dimensions_and_ply",
+        "scope": "explicit_line",
+        "price_status": "read_clearly",
+        "price_text": "40.20",
+        "price_value": 40.2,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "INR",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-003",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-004",
+        "source_ref": "F_GaneshKraft_email.txt L10, L13",
+        "source_quote": "SNo | Item | Size (cm) | Ply | Rate (Rs)\n3 | Dishwash shipper | 40 x 27 x 23 | 5 | 36.80",
+        "vendor_item_text": "Dishwash shipper",
+        "match_basis": "dimensions_and_ply",
+        "scope": "explicit_line",
+        "price_status": "read_clearly",
+        "price_text": "36.80",
+        "price_value": 36.8,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "INR",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-005",
+        "source_ref": "F_GaneshKraft_email.txt L10, L14",
+        "source_quote": "SNo | Item | Size (cm) | Ply | Rate (Rs)\n4 | Oil pouch shipper | 33 x 25 x 23 | 5 | 30.95",
+        "vendor_item_text": "Oil pouch shipper",
+        "match_basis": "dimensions_and_ply",
+        "scope": "explicit_line",
+        "price_status": "read_clearly",
+        "price_text": "30.95",
+        "price_value": 30.95,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "INR",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-006",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-007",
+        "source_ref": "F_GaneshKraft_email.txt L10, L15, L24",
+        "source_quote": "SNo | Item | Size (cm) | Ply | Rate (Rs)\n5 | Biscuit shipper | 44 x 30 x 25 | 3 | 22.80\nNote: rate for Sl no 5 is revised, pls read as 23.10 (typing mistake above).",
+        "vendor_item_text": "Biscuit shipper",
+        "match_basis": "dimensions_and_ply",
+        "scope": "explicit_line",
+        "price_status": "read_clearly",
+        "price_text": "23.10",
+        "price_value": 23.1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "INR",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-008",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-009",
+        "source_ref": "F_GaneshKraft_email.txt L10, L16",
+        "source_quote": "SNo | Item | Size (cm) | Ply | Rate (Rs)\n6 | Noodles shipper | 45 x 33 x 30 | 3 | 27.40",
+        "vendor_item_text": "Noodles shipper",
+        "match_basis": "dimensions_and_ply",
+        "scope": "explicit_line",
+        "price_status": "read_clearly",
+        "price_text": "27.40",
+        "price_value": 27.4,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "INR",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-010",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-011",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-012",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-013",
+        "source_ref": "F_GaneshKraft_email.txt L10, L17",
+        "source_quote": "SNo | Item | Size (cm) | Ply | Rate (Rs)\n7 | Toothpaste shipper | 42 x 32 x 22 | 5 | 33.90",
+        "vendor_item_text": "Toothpaste shipper",
+        "match_basis": "dimensions_and_ply",
+        "scope": "explicit_line",
+        "price_status": "read_clearly",
+        "price_text": "33.90",
+        "price_value": 33.9,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "INR",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-014",
+        "source_ref": "F_GaneshKraft_email.txt L10, L18",
+        "source_quote": "SNo | Item | Size (cm) | Ply | Rate (Rs)\n8 | Soap shipper | 40 x 30 x 23 | 5 | 31.60",
+        "vendor_item_text": "Soap shipper",
+        "match_basis": "dimensions_and_ply",
+        "scope": "explicit_line",
+        "price_status": "read_clearly",
+        "price_text": "31.60",
+        "price_value": 31.6,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "INR",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-015",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-016",
+        "source_ref": "F_GaneshKraft_email.txt L10, L22",
+        "source_quote": "SNo | Item | Size (cm) | Ply | Rate (Rs)\n12 | Masala shipper | 38 x 28 x 20 | 3 | 16.90",
+        "vendor_item_text": "Masala shipper",
+        "match_basis": "dimensions_and_ply",
+        "scope": "explicit_line",
+        "price_status": "read_clearly",
+        "price_text": "16.90",
+        "price_value": 16.9,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "INR",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-017",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-018",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-019",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-020",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-DCT-021",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-DCT-022",
+        "source_ref": "F_GaneshKraft_email.txt L10, L20",
+        "source_quote": "SNo | Item | Size (cm) | Ply | Rate (Rs)\n10 | Juice tray | 38 x 26 x 7 | 3 | 6.70",
+        "vendor_item_text": "Juice tray",
+        "match_basis": "dimensions_and_ply",
+        "scope": "explicit_line",
+        "price_status": "read_clearly",
+        "price_text": "6.70",
+        "price_value": 6.7,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "INR",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-DCT-023",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-DCT-024",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-PRT-025",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-PRT-026",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-PRT-027",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-PAD-028",
+        "source_ref": "F_GaneshKraft_email.txt L10, L19",
+        "source_quote": "SNo | Item | Size (cm) | Ply | Rate (Rs)\n9 | Layer pad | 40 x 30 | 3 | 2450 per 1000 nos",
+        "vendor_item_text": "Layer pad",
+        "match_basis": "dimensions_and_ply",
+        "scope": "explicit_line",
+        "price_status": "read_clearly",
+        "price_text": "2450 per 1000 nos",
+        "price_value": 2450,
+        "unit_basis": "per_1000",
+        "unit_inferred": false,
+        "currency": "INR",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-PAD-029",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-030",
+        "source_ref": "F_GaneshKraft_email.txt L10, L21",
+        "source_quote": "SNo | Item | Size (cm) | Ply | Rate (Rs)\n11 | Sample carton | 25 x 20 x 15 | 3 | 8.70",
+        "vendor_item_text": "Sample carton",
+        "match_basis": "dimensions_and_ply",
+        "scope": "explicit_line",
+        "price_status": "read_clearly",
+        "price_text": "8.70",
+        "price_value": 8.7,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "INR",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      }
+    ],
+    "conditions": [
+      {
+        "kind": "freight",
+        "source_ref": "F_GaneshKraft_email.txt L8",
+        "source_quote": "Rates are ex-factory Hosur. Transport extra @ Rs 1.80 per kg.",
+        "summary": "Ex-factory Hosur; transport charged extra at Rs 1.80 per kg.",
+        "percent": -1,
+        "amount_inr": 1.8,
+        "amount_basis": "per_kg",
+        "days": -1,
+        "condition": "",
+        "gst_basis": "not_about_gst",
+        "freight_basis": "extra_amount_stated"
+      },
+      {
+        "kind": "gst",
+        "source_ref": "F_GaneshKraft_email.txt L8",
+        "source_quote": "GST 5% extra.",
+        "summary": "Quoted rates exclude GST; 5% GST extra.",
+        "percent": 5,
+        "amount_inr": -1,
+        "amount_basis": "not_applicable",
+        "days": -1,
+        "condition": "",
+        "gst_basis": "prices_exclude_gst",
+        "freight_basis": "not_about_freight"
+      },
+      {
+        "kind": "validity",
+        "source_ref": "F_GaneshKraft_email.txt L8",
+        "source_quote": "Rates valid 15 days from today.",
+        "summary": "Rates valid for 15 days from the email date, 1 October 2026.",
+        "percent": -1,
+        "amount_inr": -1,
+        "amount_basis": "not_applicable",
+        "days": 15,
+        "condition": "",
+        "gst_basis": "not_about_gst",
+        "freight_basis": "not_about_freight"
+      },
+      {
+        "kind": "other",
+        "source_ref": "F_GaneshKraft_email.txt L24",
+        "source_quote": "Note: rate for Sl no 5 is revised, pls read as 23.10 (typing mistake above).",
+        "summary": "Vendor corrects the biscuit shipper rate from 22.80 to 23.10.",
+        "percent": -1,
+        "amount_inr": 23.1,
+        "amount_basis": "not_applicable",
+        "days": -1,
+        "condition": "Sl no 5, Biscuit shipper",
+        "gst_basis": "not_about_gst",
+        "freight_basis": "not_about_freight"
+      },
+      {
+        "kind": "other",
+        "source_ref": "F_GaneshKraft_email.txt L25",
+        "source_quote": "Other items we will send separately.",
+        "summary": "Quotation for other items to be sent separately.",
+        "percent": -1,
+        "amount_inr": -1,
+        "amount_basis": "not_applicable",
+        "days": -1,
+        "condition": "Other items",
+        "gst_basis": "not_about_gst",
+        "freight_basis": "not_about_freight"
+      }
+    ],
+    "answers": [
+      {
+        "question_id": "Q01",
+        "answer_text": "",
+        "source_quote": ""
+      },
+      {
+        "question_id": "Q02",
+        "answer_text": "",
+        "source_quote": ""
+      },
+      {
+        "question_id": "Q03",
+        "answer_text": "",
+        "source_quote": ""
+      },
+      {
+        "question_id": "Q04",
+        "answer_text": "",
+        "source_quote": ""
+      },
+      {
+        "question_id": "Q05",
+        "answer_text": "",
+        "source_quote": ""
+      },
+      {
+        "question_id": "Q06",
+        "answer_text": "",
+        "source_quote": ""
+      },
+      {
+        "question_id": "Q07",
+        "answer_text": "",
+        "source_quote": ""
+      },
+      {
+        "question_id": "Q08",
+        "answer_text": "",
+        "source_quote": ""
+      },
+      {
+        "question_id": "Q09",
+        "answer_text": "",
+        "source_quote": ""
+      },
+      {
+        "question_id": "Q10",
+        "answer_text": "",
+        "source_quote": ""
+      }
+    ],
+    "attachments_mentioned": []
+  },
+  "cells": [
+    {
+      "vendorId": "F",
+      "lineId": "PK-SHP-001",
+      "status": "verified",
+      "inrPerPiece": 44.9,
+      "landedPerPiece": 46.35,
+      "conversion": [],
+      "checks": [
+        {
+          "id": "grounded",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "quote_value",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "line_match",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "magnitude",
+          "ok": true,
+          "reason": ""
+        }
+      ],
+      "reasons": [],
+      "source": {
+        "file": "F_GaneshKraft_email.txt",
+        "ref": "F_GaneshKraft_email.txt L10-L11",
+        "quote": "SNo | Item | Size (cm) | Ply | Rate (Rs)\n1 | Detergent 1kg shipper | 41 x 31 x 26 | 5 | 44.90",
+        "asWritten": "44.90"
+      }
+    },
+    {
+      "vendorId": "F",
+      "lineId": "PK-SHP-002",
+      "status": "verified",
+      "inrPerPiece": 40.2,
+      "landedPerPiece": 41.52,
+      "conversion": [],
+      "checks": [
+        {
+          "id": "grounded",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "quote_value",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "line_match",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "magnitude",
+          "ok": true,
+          "reason": ""
+        }
+      ],
+      "reasons": [],
+      "source": {
+        "file": "F_GaneshKraft_email.txt",
+        "ref": "F_GaneshKraft_email.txt L10, L12",
+        "quote": "SNo | Item | Size (cm) | Ply | Rate (Rs)\n2 | Detergent 500g shipper | 42 x 30 x 24 | 5 | 40.20",
+        "asWritten": "40.20"
+      }
+    },
+    {
+      "vendorId": "F",
+      "lineId": "PK-SHP-003",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "F_GaneshKraft_email.txt",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "F",
+      "lineId": "PK-SHP-004",
+      "status": "verified",
+      "inrPerPiece": 36.8,
+      "landedPerPiece": 37.99,
+      "conversion": [],
+      "checks": [
+        {
+          "id": "grounded",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "quote_value",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "line_match",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "magnitude",
+          "ok": true,
+          "reason": ""
+        }
+      ],
+      "reasons": [],
+      "source": {
+        "file": "F_GaneshKraft_email.txt",
+        "ref": "F_GaneshKraft_email.txt L10, L13",
+        "quote": "SNo | Item | Size (cm) | Ply | Rate (Rs)\n3 | Dishwash shipper | 40 x 27 x 23 | 5 | 36.80",
+        "asWritten": "36.80"
+      }
+    },
+    {
+      "vendorId": "F",
+      "lineId": "PK-SHP-005",
+      "status": "verified",
+      "inrPerPiece": 30.95,
+      "landedPerPiece": 31.95,
+      "conversion": [],
+      "checks": [
+        {
+          "id": "grounded",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "quote_value",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "line_match",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "magnitude",
+          "ok": true,
+          "reason": ""
+        }
+      ],
+      "reasons": [],
+      "source": {
+        "file": "F_GaneshKraft_email.txt",
+        "ref": "F_GaneshKraft_email.txt L10, L14",
+        "quote": "SNo | Item | Size (cm) | Ply | Rate (Rs)\n4 | Oil pouch shipper | 33 x 25 x 23 | 5 | 30.95",
+        "asWritten": "30.95"
+      }
+    },
+    {
+      "vendorId": "F",
+      "lineId": "PK-SHP-006",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "F_GaneshKraft_email.txt",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "F",
+      "lineId": "PK-SHP-007",
+      "status": "verified",
+      "inrPerPiece": 23.1,
+      "landedPerPiece": 23.82,
+      "conversion": [],
+      "checks": [
+        {
+          "id": "grounded",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "quote_value",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "line_match",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "magnitude",
+          "ok": true,
+          "reason": ""
+        }
+      ],
+      "reasons": [],
+      "source": {
+        "file": "F_GaneshKraft_email.txt",
+        "ref": "F_GaneshKraft_email.txt L10, L15, L24",
+        "quote": "SNo | Item | Size (cm) | Ply | Rate (Rs)\n5 | Biscuit shipper | 44 x 30 x 25 | 3 | 22.80\nNote: rate for Sl no 5 is revised, pls read as 23.10 (typing mistake above).",
+        "asWritten": "23.10"
+      }
+    },
+    {
+      "vendorId": "F",
+      "lineId": "PK-SHP-008",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "F_GaneshKraft_email.txt",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "F",
+      "lineId": "PK-SHP-009",
+      "status": "verified",
+      "inrPerPiece": 27.4,
+      "landedPerPiece": 28.28,
+      "conversion": [],
+      "checks": [
+        {
+          "id": "grounded",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "quote_value",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "line_match",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "magnitude",
+          "ok": true,
+          "reason": ""
+        }
+      ],
+      "reasons": [],
+      "source": {
+        "file": "F_GaneshKraft_email.txt",
+        "ref": "F_GaneshKraft_email.txt L10, L16",
+        "quote": "SNo | Item | Size (cm) | Ply | Rate (Rs)\n6 | Noodles shipper | 45 x 33 x 30 | 3 | 27.40",
+        "asWritten": "27.40"
+      }
+    },
+    {
+      "vendorId": "F",
+      "lineId": "PK-SHP-010",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "F_GaneshKraft_email.txt",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "F",
+      "lineId": "PK-SHP-011",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "F_GaneshKraft_email.txt",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "F",
+      "lineId": "PK-SHP-012",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "F_GaneshKraft_email.txt",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "F",
+      "lineId": "PK-SHP-013",
+      "status": "verified",
+      "inrPerPiece": 33.9,
+      "landedPerPiece": 35.05,
+      "conversion": [],
+      "checks": [
+        {
+          "id": "grounded",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "quote_value",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "line_match",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "magnitude",
+          "ok": true,
+          "reason": ""
+        }
+      ],
+      "reasons": [],
+      "source": {
+        "file": "F_GaneshKraft_email.txt",
+        "ref": "F_GaneshKraft_email.txt L10, L17",
+        "quote": "SNo | Item | Size (cm) | Ply | Rate (Rs)\n7 | Toothpaste shipper | 42 x 32 x 22 | 5 | 33.90",
+        "asWritten": "33.90"
+      }
+    },
+    {
+      "vendorId": "F",
+      "lineId": "PK-SHP-014",
+      "status": "verified",
+      "inrPerPiece": 31.6,
+      "landedPerPiece": 32.67,
+      "conversion": [],
+      "checks": [
+        {
+          "id": "grounded",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "quote_value",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "line_match",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "magnitude",
+          "ok": true,
+          "reason": ""
+        }
+      ],
+      "reasons": [],
+      "source": {
+        "file": "F_GaneshKraft_email.txt",
+        "ref": "F_GaneshKraft_email.txt L10, L18",
+        "quote": "SNo | Item | Size (cm) | Ply | Rate (Rs)\n8 | Soap shipper | 40 x 30 x 23 | 5 | 31.60",
+        "asWritten": "31.60"
+      }
+    },
+    {
+      "vendorId": "F",
+      "lineId": "PK-SHP-015",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "F_GaneshKraft_email.txt",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "F",
+      "lineId": "PK-SHP-016",
+      "status": "verified",
+      "inrPerPiece": 16.9,
+      "landedPerPiece": 17.46,
+      "conversion": [],
+      "checks": [
+        {
+          "id": "grounded",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "quote_value",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "line_match",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "magnitude",
+          "ok": true,
+          "reason": ""
+        }
+      ],
+      "reasons": [],
+      "source": {
+        "file": "F_GaneshKraft_email.txt",
+        "ref": "F_GaneshKraft_email.txt L10, L22",
+        "quote": "SNo | Item | Size (cm) | Ply | Rate (Rs)\n12 | Masala shipper | 38 x 28 x 20 | 3 | 16.90",
+        "asWritten": "16.90"
+      }
+    },
+    {
+      "vendorId": "F",
+      "lineId": "PK-SHP-017",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "F_GaneshKraft_email.txt",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "F",
+      "lineId": "PK-SHP-018",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "F_GaneshKraft_email.txt",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "F",
+      "lineId": "PK-SHP-019",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "F_GaneshKraft_email.txt",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "F",
+      "lineId": "PK-SHP-020",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "F_GaneshKraft_email.txt",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "F",
+      "lineId": "PK-DCT-021",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "F_GaneshKraft_email.txt",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "F",
+      "lineId": "PK-DCT-022",
+      "status": "verified",
+      "inrPerPiece": 6.7,
+      "landedPerPiece": 6.89,
+      "conversion": [],
+      "checks": [
+        {
+          "id": "grounded",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "quote_value",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "line_match",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "magnitude",
+          "ok": true,
+          "reason": ""
+        }
+      ],
+      "reasons": [],
+      "source": {
+        "file": "F_GaneshKraft_email.txt",
+        "ref": "F_GaneshKraft_email.txt L10, L20",
+        "quote": "SNo | Item | Size (cm) | Ply | Rate (Rs)\n10 | Juice tray | 38 x 26 x 7 | 3 | 6.70",
+        "asWritten": "6.70"
+      }
+    },
+    {
+      "vendorId": "F",
+      "lineId": "PK-DCT-023",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "F_GaneshKraft_email.txt",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "F",
+      "lineId": "PK-DCT-024",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "F_GaneshKraft_email.txt",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "F",
+      "lineId": "PK-PRT-025",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "F_GaneshKraft_email.txt",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "F",
+      "lineId": "PK-PRT-026",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "F_GaneshKraft_email.txt",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "F",
+      "lineId": "PK-PRT-027",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "F_GaneshKraft_email.txt",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "F",
+      "lineId": "PK-PAD-028",
+      "status": "converted",
+      "inrPerPiece": 2.45,
+      "landedPerPiece": 2.53,
+      "conversion": [
+        "÷ 1000 (quoted per 1000)"
+      ],
+      "checks": [
+        {
+          "id": "grounded",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "quote_value",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "line_match",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "magnitude",
+          "ok": true,
+          "reason": ""
+        }
+      ],
+      "reasons": [],
+      "source": {
+        "file": "F_GaneshKraft_email.txt",
+        "ref": "F_GaneshKraft_email.txt L10, L19",
+        "quote": "SNo | Item | Size (cm) | Ply | Rate (Rs)\n9 | Layer pad | 40 x 30 | 3 | 2450 per 1000 nos",
+        "asWritten": "2450 per 1000 nos"
+      }
+    },
+    {
+      "vendorId": "F",
+      "lineId": "PK-PAD-029",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "F_GaneshKraft_email.txt",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "F",
+      "lineId": "PK-SHP-030",
+      "status": "verified",
+      "inrPerPiece": 8.7,
+      "landedPerPiece": 8.97,
+      "conversion": [],
+      "checks": [
+        {
+          "id": "grounded",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "quote_value",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "line_match",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "magnitude",
+          "ok": true,
+          "reason": ""
+        }
+      ],
+      "reasons": [],
+      "source": {
+        "file": "F_GaneshKraft_email.txt",
+        "ref": "F_GaneshKraft_email.txt L10, L21",
+        "quote": "SNo | Item | Size (cm) | Ply | Rate (Rs)\n11 | Sample carton | 25 x 20 x 15 | 3 | 8.70",
+        "asWritten": "8.70"
+      }
+    }
+  ],
+  "terms": {
+    "vendorId": "F",
+    "freight": {
+      "kind": "extra_stated",
+      "inrPerKg": 1.8,
+      "quote": "Rates are ex-factory Hosur. Transport extra @ Rs 1.80 per kg."
+    },
+    "tooling": {},
+    "discounts": [],
+    "gst": {
+      "basis": "exclusive",
+      "rate": 5,
+      "quote": "GST 5% extra."
+    },
+    "flags": [],
+    "conditions": [
+      {
+        "kind": "freight",
+        "source_ref": "F_GaneshKraft_email.txt L8",
+        "source_quote": "Rates are ex-factory Hosur. Transport extra @ Rs 1.80 per kg.",
+        "summary": "Ex-factory Hosur; transport charged extra at Rs 1.80 per kg.",
+        "percent": -1,
+        "amount_inr": 1.8,
+        "amount_basis": "per_kg",
+        "days": -1,
+        "condition": "",
+        "gst_basis": "not_about_gst",
+        "freight_basis": "extra_amount_stated"
+      },
+      {
+        "kind": "gst",
+        "source_ref": "F_GaneshKraft_email.txt L8",
+        "source_quote": "GST 5% extra.",
+        "summary": "Quoted rates exclude GST; 5% GST extra.",
+        "percent": 5,
+        "amount_inr": -1,
+        "amount_basis": "not_applicable",
+        "days": -1,
+        "condition": "",
+        "gst_basis": "prices_exclude_gst",
+        "freight_basis": "not_about_freight"
+      },
+      {
+        "kind": "validity",
+        "source_ref": "F_GaneshKraft_email.txt L8",
+        "source_quote": "Rates valid 15 days from today.",
+        "summary": "Rates valid for 15 days from the email date, 1 October 2026.",
+        "percent": -1,
+        "amount_inr": -1,
+        "amount_basis": "not_applicable",
+        "days": 15,
+        "condition": "",
+        "gst_basis": "not_about_gst",
+        "freight_basis": "not_about_freight"
+      },
+      {
+        "kind": "other",
+        "source_ref": "F_GaneshKraft_email.txt L24",
+        "source_quote": "Note: rate for Sl no 5 is revised, pls read as 23.10 (typing mistake above).",
+        "summary": "Vendor corrects the biscuit shipper rate from 22.80 to 23.10.",
+        "percent": -1,
+        "amount_inr": 23.1,
+        "amount_basis": "not_applicable",
+        "days": -1,
+        "condition": "Sl no 5, Biscuit shipper",
+        "gst_basis": "not_about_gst",
+        "freight_basis": "not_about_freight"
+      },
+      {
+        "kind": "other",
+        "source_ref": "F_GaneshKraft_email.txt L25",
+        "source_quote": "Other items we will send separately.",
+        "summary": "Quotation for other items to be sent separately.",
+        "percent": -1,
+        "amount_inr": -1,
+        "amount_basis": "not_applicable",
+        "days": -1,
+        "condition": "Other items",
+        "gst_basis": "not_about_gst",
+        "freight_basis": "not_about_freight"
+      }
+    ],
+    "validityDays": 15
+  },
+  "aiCalls": []
+}

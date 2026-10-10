@@ -1,0 +1,255 @@
+{
+  "summary": {
+    "cells": 30,
+    "quoted_in_truth": 7,
+    "quiet_and_right": 3,
+    "flags_on_right_values": 3,
+    "missing_shown_correctly": 22,
+    "wrong_but_caught": 2,
+    "SILENT_ERRORS": 0,
+    "freight_read": true,
+    "validity_read": true
+  },
+  "rows": [
+    {
+      "line": "PK-SHP-001",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "bucket": "justified_flag",
+      "why": "Not quoted"
+    },
+    {
+      "line": "PK-SHP-002",
+      "truth": 39.8,
+      "got": 39.8,
+      "status": "verified",
+      "bucket": "quiet_right",
+      "why": ""
+    },
+    {
+      "line": "PK-SHP-003",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "bucket": "justified_flag",
+      "why": "Not quoted"
+    },
+    {
+      "line": "PK-SHP-004",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "bucket": "justified_flag",
+      "why": "Not quoted"
+    },
+    {
+      "line": "PK-SHP-005",
+      "truth": 30.4,
+      "got": 30.4,
+      "status": "verified",
+      "bucket": "quiet_right",
+      "why": ""
+    },
+    {
+      "line": "PK-SHP-006",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "bucket": "justified_flag",
+      "why": "Not quoted"
+    },
+    {
+      "line": "PK-SHP-007",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "bucket": "justified_flag",
+      "why": "Not quoted"
+    },
+    {
+      "line": "PK-SHP-008",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "bucket": "justified_flag",
+      "why": "Not quoted"
+    },
+    {
+      "line": "PK-SHP-009",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "bucket": "justified_flag",
+      "why": "Not quoted"
+    },
+    {
+      "line": "PK-SHP-010",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "bucket": "justified_flag",
+      "why": "Not quoted"
+    },
+    {
+      "line": "PK-SHP-011",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "bucket": "justified_flag",
+      "why": "Not quoted"
+    },
+    {
+      "line": "PK-SHP-012",
+      "truth": null,
+      "got": 31.9,
+      "status": "needs_review",
+      "bucket": "caught",
+      "why": "Spec deviation: Vendor assigns PK-SHP-012 to 'Soap 100g x 144 shipper', with dimensions 400x300x230 mm and 5 ply; RFQ PK-SHP-012 is shampoo sachet strips x 20, 300x220x180 mm, 3-ply B.; Works out to ₹160/kg for this box; plausible range is ₹30–90/kg"
+    },
+    {
+      "line": "PK-SHP-013",
+      "truth": 34.1,
+      "got": 34.1,
+      "status": "needs_review",
+      "bucket": "flag_on_right",
+      "why": "In the reply, this price sits next to PK-SHP-002, not PK-SHP-013"
+    },
+    {
+      "line": "PK-SHP-014",
+      "truth": 31.9,
+      "got": null,
+      "status": "missing",
+      "bucket": "caught",
+      "why": "Not quoted"
+    },
+    {
+      "line": "PK-SHP-015",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "bucket": "justified_flag",
+      "why": "Not quoted"
+    },
+    {
+      "line": "PK-SHP-016",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "bucket": "justified_flag",
+      "why": "Not quoted"
+    },
+    {
+      "line": "PK-SHP-017",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "bucket": "justified_flag",
+      "why": "Not quoted"
+    },
+    {
+      "line": "PK-SHP-018",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "bucket": "justified_flag",
+      "why": "Not quoted"
+    },
+    {
+      "line": "PK-SHP-019",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "bucket": "justified_flag",
+      "why": "Not quoted"
+    },
+    {
+      "line": "PK-SHP-020",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "bucket": "justified_flag",
+      "why": "Not quoted"
+    },
+    {
+      "line": "PK-DCT-021",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "bucket": "justified_flag",
+      "why": "Not quoted"
+    },
+    {
+      "line": "PK-DCT-022",
+      "truth": 6.85,
+      "got": 6.85,
+      "status": "needs_review",
+      "bucket": "flag_on_right",
+      "why": "In the reply, this price sits next to PK-PAD-029, not PK-DCT-022"
+    },
+    {
+      "line": "PK-DCT-023",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "bucket": "justified_flag",
+      "why": "Not quoted"
+    },
+    {
+      "line": "PK-DCT-024",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "bucket": "justified_flag",
+      "why": "Not quoted"
+    },
+    {
+      "line": "PK-PRT-025",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "bucket": "justified_flag",
+      "why": "Not quoted"
+    },
+    {
+      "line": "PK-PRT-026",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "bucket": "justified_flag",
+      "why": "Not quoted"
+    },
+    {
+      "line": "PK-PRT-027",
+      "truth": 9.6,
+      "got": 9.6,
+      "status": "needs_review",
+      "bucket": "flag_on_right",
+      "why": "In the reply, this price sits next to PK-SHP-005, not PK-PRT-027"
+    },
+    {
+      "line": "PK-PAD-028",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "bucket": "justified_flag",
+      "why": "Not quoted"
+    },
+    {
+      "line": "PK-PAD-029",
+      "truth": 47.5,
+      "got": 47.5,
+      "status": "verified",
+      "bucket": "quiet_right",
+      "why": ""
+    },
+    {
+      "line": "PK-SHP-030",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "bucket": "justified_flag",
+      "why": "Not quoted"
+    }
+  ]
+}

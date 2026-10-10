@@ -1,0 +1,1365 @@
+{
+  "summary": {
+    "ranAt": "2026-10-09T15:08:17.842Z",
+    "cells": 150,
+    "quiet_and_right": 105,
+    "flagged_justified": 35,
+    "false_alarms": 0,
+    "wrong_values": 10,
+    "wrong_but_caught": 10,
+    "SILENT_ERRORS": 0,
+    "flagged_total": 45
+  },
+  "rows": [
+    {
+      "vendor": "A",
+      "line": "PK-SHP-001",
+      "bucket": "quiet_right",
+      "truth": 44.4,
+      "got": 44.4,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "A",
+      "line": "PK-SHP-002",
+      "bucket": "quiet_right",
+      "truth": 39.67,
+      "got": 39.67,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "A",
+      "line": "PK-SHP-003",
+      "bucket": "quiet_right",
+      "truth": 23.63,
+      "got": 23.63,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "A",
+      "line": "PK-SHP-004",
+      "bucket": "quiet_right",
+      "truth": 36.52,
+      "got": 36.52,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "A",
+      "line": "PK-SHP-005",
+      "bucket": "quiet_right",
+      "truth": 31.5,
+      "got": 31.5,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "A",
+      "line": "PK-SHP-006",
+      "bucket": "quiet_right",
+      "truth": 65.86,
+      "got": 65.86,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "A",
+      "line": "PK-SHP-007",
+      "bucket": "quiet_right",
+      "truth": 23.24,
+      "got": 23.24,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "A",
+      "line": "PK-SHP-008",
+      "bucket": "quiet_right",
+      "truth": 27.03,
+      "got": 27.03,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "A",
+      "line": "PK-SHP-009",
+      "bucket": "quiet_right",
+      "truth": 27.17,
+      "got": 27.17,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "A",
+      "line": "PK-SHP-010",
+      "bucket": "quiet_right",
+      "truth": 33.12,
+      "got": 33.12,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "A",
+      "line": "PK-SHP-011",
+      "bucket": "quiet_right",
+      "truth": 25.97,
+      "got": 25.97,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "A",
+      "line": "PK-SHP-012",
+      "bucket": "quiet_right",
+      "truth": 11.18,
+      "got": 11.18,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "A",
+      "line": "PK-SHP-013",
+      "bucket": "quiet_right",
+      "truth": 35.94,
+      "got": 35.94,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "A",
+      "line": "PK-SHP-014",
+      "bucket": "quiet_right",
+      "truth": 31.51,
+      "got": 31.51,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "A",
+      "line": "PK-SHP-015",
+      "bucket": "quiet_right",
+      "truth": 34.93,
+      "got": 34.93,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "A",
+      "line": "PK-SHP-016",
+      "bucket": "quiet_right",
+      "truth": 18.46,
+      "got": 18.46,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "A",
+      "line": "PK-SHP-017",
+      "bucket": "quiet_right",
+      "truth": 28.47,
+      "got": 28.47,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "A",
+      "line": "PK-SHP-018",
+      "bucket": "quiet_right",
+      "truth": 11.44,
+      "got": 11.44,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "A",
+      "line": "PK-SHP-019",
+      "bucket": "quiet_right",
+      "truth": 57.57,
+      "got": 57.57,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "A",
+      "line": "PK-SHP-020",
+      "bucket": "quiet_right",
+      "truth": 71.33,
+      "got": 71.33,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "A",
+      "line": "PK-DCT-021",
+      "bucket": "justified_flag",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "why": "Not quoted"
+    },
+    {
+      "vendor": "A",
+      "line": "PK-DCT-022",
+      "bucket": "justified_flag",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "why": "Not quoted"
+    },
+    {
+      "vendor": "A",
+      "line": "PK-DCT-023",
+      "bucket": "justified_flag",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "why": "Not quoted"
+    },
+    {
+      "vendor": "A",
+      "line": "PK-DCT-024",
+      "bucket": "quiet_right",
+      "truth": 7.83,
+      "got": 7.83,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "A",
+      "line": "PK-PRT-025",
+      "bucket": "quiet_right",
+      "truth": 7,
+      "got": 7,
+      "status": "converted",
+      "why": ""
+    },
+    {
+      "vendor": "A",
+      "line": "PK-PRT-026",
+      "bucket": "quiet_right",
+      "truth": 3.9,
+      "got": 3.9,
+      "status": "converted",
+      "why": ""
+    },
+    {
+      "vendor": "A",
+      "line": "PK-PRT-027",
+      "bucket": "quiet_right",
+      "truth": 9.56,
+      "got": 9.56,
+      "status": "converted",
+      "why": ""
+    },
+    {
+      "vendor": "A",
+      "line": "PK-PAD-028",
+      "bucket": "caught",
+      "truth": 2.51,
+      "got": 251,
+      "status": "needs_review",
+      "why": "+10315% vs this vendor's last-year price (₹2.41); Works out to ₹5578/kg, about 100× a normal box price: looks like a per-100 price read as per piece"
+    },
+    {
+      "vendor": "A",
+      "line": "PK-PAD-029",
+      "bucket": "quiet_right",
+      "truth": 49.6,
+      "got": 49.6,
+      "status": "converted",
+      "why": ""
+    },
+    {
+      "vendor": "A",
+      "line": "PK-SHP-030",
+      "bucket": "quiet_right",
+      "truth": 8.49,
+      "got": 8.49,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "B",
+      "line": "PK-SHP-001",
+      "bucket": "quiet_right",
+      "truth": 44.55,
+      "got": 44.55,
+      "status": "converted",
+      "why": ""
+    },
+    {
+      "vendor": "B",
+      "line": "PK-SHP-002",
+      "bucket": "quiet_right",
+      "truth": 40.05,
+      "got": 40.05,
+      "status": "converted",
+      "why": ""
+    },
+    {
+      "vendor": "B",
+      "line": "PK-SHP-003",
+      "bucket": "quiet_right",
+      "truth": 24.93,
+      "got": 24.93,
+      "status": "converted",
+      "why": ""
+    },
+    {
+      "vendor": "B",
+      "line": "PK-SHP-004",
+      "bucket": "quiet_right",
+      "truth": 36.51,
+      "got": 36.51,
+      "status": "converted",
+      "why": ""
+    },
+    {
+      "vendor": "B",
+      "line": "PK-SHP-005",
+      "bucket": "quiet_right",
+      "truth": 30.06,
+      "got": 30.06,
+      "status": "converted",
+      "why": ""
+    },
+    {
+      "vendor": "B",
+      "line": "PK-SHP-006",
+      "bucket": "quiet_right",
+      "truth": 69.48,
+      "got": 69.48,
+      "status": "converted",
+      "why": ""
+    },
+    {
+      "vendor": "B",
+      "line": "PK-SHP-007",
+      "bucket": "quiet_right",
+      "truth": 21.57,
+      "got": 21.57,
+      "status": "converted",
+      "why": ""
+    },
+    {
+      "vendor": "B",
+      "line": "PK-SHP-008",
+      "bucket": "quiet_right",
+      "truth": 27.49,
+      "got": 27.49,
+      "status": "converted",
+      "why": ""
+    },
+    {
+      "vendor": "B",
+      "line": "PK-SHP-009",
+      "bucket": "quiet_right",
+      "truth": 28.11,
+      "got": 28.11,
+      "status": "converted",
+      "why": ""
+    },
+    {
+      "vendor": "B",
+      "line": "PK-SHP-010",
+      "bucket": "quiet_right",
+      "truth": 35.01,
+      "got": 35.01,
+      "status": "converted",
+      "why": ""
+    },
+    {
+      "vendor": "B",
+      "line": "PK-SHP-011",
+      "bucket": "quiet_right",
+      "truth": 25.55,
+      "got": 25.55,
+      "status": "converted",
+      "why": ""
+    },
+    {
+      "vendor": "B",
+      "line": "PK-SHP-012",
+      "bucket": "quiet_right",
+      "truth": 11.23,
+      "got": 11.23,
+      "status": "converted",
+      "why": ""
+    },
+    {
+      "vendor": "B",
+      "line": "PK-SHP-013",
+      "bucket": "quiet_right",
+      "truth": 34.3,
+      "got": 34.3,
+      "status": "converted",
+      "why": ""
+    },
+    {
+      "vendor": "B",
+      "line": "PK-SHP-014",
+      "bucket": "quiet_right",
+      "truth": 32.18,
+      "got": 32.18,
+      "status": "converted",
+      "why": ""
+    },
+    {
+      "vendor": "B",
+      "line": "PK-SHP-015",
+      "bucket": "quiet_right",
+      "truth": 34.56,
+      "got": 34.56,
+      "status": "converted",
+      "why": ""
+    },
+    {
+      "vendor": "B",
+      "line": "PK-SHP-016",
+      "bucket": "quiet_right",
+      "truth": 17.24,
+      "got": 17.24,
+      "status": "converted",
+      "why": ""
+    },
+    {
+      "vendor": "B",
+      "line": "PK-SHP-017",
+      "bucket": "quiet_right",
+      "truth": 26.87,
+      "got": 26.87,
+      "status": "converted",
+      "why": ""
+    },
+    {
+      "vendor": "B",
+      "line": "PK-SHP-018",
+      "bucket": "quiet_right",
+      "truth": 11.4,
+      "got": 11.4,
+      "status": "converted",
+      "why": ""
+    },
+    {
+      "vendor": "B",
+      "line": "PK-SHP-019",
+      "bucket": "quiet_right",
+      "truth": 54.45,
+      "got": 54.45,
+      "status": "converted",
+      "why": ""
+    },
+    {
+      "vendor": "B",
+      "line": "PK-SHP-020",
+      "bucket": "quiet_right",
+      "truth": 66.39,
+      "got": 66.39,
+      "status": "converted",
+      "why": ""
+    },
+    {
+      "vendor": "B",
+      "line": "PK-DCT-021",
+      "bucket": "quiet_right",
+      "truth": 9.64,
+      "got": 9.64,
+      "status": "converted",
+      "why": ""
+    },
+    {
+      "vendor": "B",
+      "line": "PK-DCT-022",
+      "bucket": "quiet_right",
+      "truth": 6.98,
+      "got": 6.98,
+      "status": "converted",
+      "why": ""
+    },
+    {
+      "vendor": "B",
+      "line": "PK-DCT-023",
+      "bucket": "quiet_right",
+      "truth": 11.49,
+      "got": 11.49,
+      "status": "converted",
+      "why": ""
+    },
+    {
+      "vendor": "B",
+      "line": "PK-DCT-024",
+      "bucket": "quiet_right",
+      "truth": 7.69,
+      "got": 7.69,
+      "status": "converted",
+      "why": ""
+    },
+    {
+      "vendor": "B",
+      "line": "PK-PRT-025",
+      "bucket": "quiet_right",
+      "truth": 7.07,
+      "got": 7.07,
+      "status": "converted",
+      "why": ""
+    },
+    {
+      "vendor": "B",
+      "line": "PK-PRT-026",
+      "bucket": "quiet_right",
+      "truth": 3.8,
+      "got": 3.8,
+      "status": "converted",
+      "why": ""
+    },
+    {
+      "vendor": "B",
+      "line": "PK-PRT-027",
+      "bucket": "quiet_right",
+      "truth": 9.19,
+      "got": 9.19,
+      "status": "converted",
+      "why": ""
+    },
+    {
+      "vendor": "B",
+      "line": "PK-PAD-028",
+      "bucket": "quiet_right",
+      "truth": 2.48,
+      "got": 2.48,
+      "status": "converted",
+      "why": ""
+    },
+    {
+      "vendor": "B",
+      "line": "PK-PAD-029",
+      "bucket": "quiet_right",
+      "truth": 49.77,
+      "got": 49.77,
+      "status": "converted",
+      "why": ""
+    },
+    {
+      "vendor": "B",
+      "line": "PK-SHP-030",
+      "bucket": "quiet_right",
+      "truth": 8.4,
+      "got": 8.4,
+      "status": "converted",
+      "why": ""
+    },
+    {
+      "vendor": "C",
+      "line": "PK-SHP-001",
+      "bucket": "justified_flag",
+      "truth": 43.61,
+      "got": 43.61,
+      "status": "needs_review",
+      "why": "Spec deviation: ¶102: Top and bottom liner of 150 GSM instead of 180 GSM; bursting strength will be maintained as per requirement."
+    },
+    {
+      "vendor": "C",
+      "line": "PK-SHP-002",
+      "bucket": "quiet_right",
+      "truth": 36.78,
+      "got": 36.78,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "C",
+      "line": "PK-SHP-003",
+      "bucket": "quiet_right",
+      "truth": 24.27,
+      "got": 24.27,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "C",
+      "line": "PK-SHP-004",
+      "bucket": "justified_flag",
+      "truth": 36.71,
+      "got": 36.71,
+      "status": "needs_review",
+      "why": "Spec deviation: ¶102: Top and bottom liner of 150 GSM instead of 180 GSM; bursting strength will be maintained as per requirement."
+    },
+    {
+      "vendor": "C",
+      "line": "PK-SHP-005",
+      "bucket": "quiet_right",
+      "truth": 30.13,
+      "got": 30.13,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "C",
+      "line": "PK-SHP-006",
+      "bucket": "quiet_right",
+      "truth": 67.92,
+      "got": 67.92,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "C",
+      "line": "PK-SHP-007",
+      "bucket": "quiet_right",
+      "truth": 22.41,
+      "got": 22.41,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "C",
+      "line": "PK-SHP-008",
+      "bucket": "quiet_right",
+      "truth": 25.93,
+      "got": 25.93,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "C",
+      "line": "PK-SHP-009",
+      "bucket": "quiet_right",
+      "truth": 26.55,
+      "got": 26.55,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "C",
+      "line": "PK-SHP-010",
+      "bucket": "quiet_right",
+      "truth": 31.85,
+      "got": 31.85,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "C",
+      "line": "PK-SHP-011",
+      "bucket": "quiet_right",
+      "truth": 24.99,
+      "got": 24.99,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "C",
+      "line": "PK-SHP-012",
+      "bucket": "quiet_right",
+      "truth": 10.55,
+      "got": 10.55,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "C",
+      "line": "PK-SHP-013",
+      "bucket": "quiet_right",
+      "truth": 32.83,
+      "got": 32.83,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "C",
+      "line": "PK-SHP-014",
+      "bucket": "quiet_right",
+      "truth": 29.26,
+      "got": 29.26,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "C",
+      "line": "PK-SHP-015",
+      "bucket": "quiet_right",
+      "truth": 33.55,
+      "got": 33.55,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "C",
+      "line": "PK-SHP-016",
+      "bucket": "quiet_right",
+      "truth": 16.65,
+      "got": 16.65,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "C",
+      "line": "PK-SHP-017",
+      "bucket": "quiet_right",
+      "truth": 25.49,
+      "got": 25.49,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "C",
+      "line": "PK-SHP-018",
+      "bucket": "quiet_right",
+      "truth": 11.51,
+      "got": 11.51,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "C",
+      "line": "PK-SHP-019",
+      "bucket": "quiet_right",
+      "truth": 52.98,
+      "got": 52.98,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "C",
+      "line": "PK-SHP-020",
+      "bucket": "justified_flag",
+      "truth": 84.76,
+      "got": 84.76,
+      "status": "needs_review",
+      "why": "29% above the other vendors' median (₹65.71)"
+    },
+    {
+      "vendor": "C",
+      "line": "PK-DCT-021",
+      "bucket": "quiet_right",
+      "truth": 9.27,
+      "got": 9.27,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "C",
+      "line": "PK-DCT-022",
+      "bucket": "quiet_right",
+      "truth": 6.51,
+      "got": 6.51,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "C",
+      "line": "PK-DCT-023",
+      "bucket": "quiet_right",
+      "truth": 10.81,
+      "got": 10.81,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "C",
+      "line": "PK-DCT-024",
+      "bucket": "quiet_right",
+      "truth": 7.47,
+      "got": 7.47,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "C",
+      "line": "PK-PRT-025",
+      "bucket": "quiet_right",
+      "truth": 6.93,
+      "got": 6.93,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "C",
+      "line": "PK-PRT-026",
+      "bucket": "quiet_right",
+      "truth": 3.81,
+      "got": 3.81,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "C",
+      "line": "PK-PRT-027",
+      "bucket": "quiet_right",
+      "truth": 9.27,
+      "got": 9.27,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "C",
+      "line": "PK-PAD-028",
+      "bucket": "quiet_right",
+      "truth": 2.35,
+      "got": 2.35,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "C",
+      "line": "PK-PAD-029",
+      "bucket": "quiet_right",
+      "truth": 48.58,
+      "got": 48.58,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "C",
+      "line": "PK-SHP-030",
+      "bucket": "quiet_right",
+      "truth": 8.81,
+      "got": 8.81,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "D",
+      "line": "PK-SHP-001",
+      "bucket": "quiet_right",
+      "truth": 43.32,
+      "got": 43.32,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "D",
+      "line": "PK-SHP-002",
+      "bucket": "quiet_right",
+      "truth": 37.54,
+      "got": 37.54,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "D",
+      "line": "PK-SHP-003",
+      "bucket": "quiet_right",
+      "truth": 23.74,
+      "got": 23.74,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "D",
+      "line": "PK-SHP-004",
+      "bucket": "quiet_right",
+      "truth": 35.71,
+      "got": 35.71,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "D",
+      "line": "PK-SHP-005",
+      "bucket": "quiet_right",
+      "truth": 30.29,
+      "got": 30.29,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "D",
+      "line": "PK-SHP-006",
+      "bucket": "quiet_right",
+      "truth": 63.23,
+      "got": 63.23,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "D",
+      "line": "PK-SHP-007",
+      "bucket": "quiet_right",
+      "truth": 21.11,
+      "got": 21.11,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "D",
+      "line": "PK-SHP-008",
+      "bucket": "quiet_right",
+      "truth": 26.59,
+      "got": 26.59,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "D",
+      "line": "PK-SHP-009",
+      "bucket": "justified_flag",
+      "truth": 25.43,
+      "got": 25.43,
+      "status": "needs_review",
+      "why": "Hard to read: \"25.43\""
+    },
+    {
+      "vendor": "D",
+      "line": "PK-SHP-010",
+      "bucket": "quiet_right",
+      "truth": 32.86,
+      "got": 32.86,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "D",
+      "line": "PK-SHP-011",
+      "bucket": "quiet_right",
+      "truth": 24.19,
+      "got": 24.19,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "D",
+      "line": "PK-SHP-012",
+      "bucket": "quiet_right",
+      "truth": 10.67,
+      "got": 10.67,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "D",
+      "line": "PK-SHP-013",
+      "bucket": "quiet_right",
+      "truth": 33.26,
+      "got": 33.26,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "D",
+      "line": "PK-SHP-014",
+      "bucket": "justified_flag",
+      "truth": 29.83,
+      "got": 29.88,
+      "status": "needs_review",
+      "why": "Two independent reads disagree: 29.88 vs 29.8? (last digit smudged); Hard to read: \"29.88\""
+    },
+    {
+      "vendor": "D",
+      "line": "PK-SHP-015",
+      "bucket": "quiet_right",
+      "truth": 35.12,
+      "got": 35.12,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "D",
+      "line": "PK-SHP-016",
+      "bucket": "quiet_right",
+      "truth": 16.47,
+      "got": 16.47,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "D",
+      "line": "PK-SHP-017",
+      "bucket": "quiet_right",
+      "truth": 26.13,
+      "got": 26.13,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "D",
+      "line": "PK-SHP-018",
+      "bucket": "quiet_right",
+      "truth": 10.92,
+      "got": 10.92,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "D",
+      "line": "PK-SHP-019",
+      "bucket": "quiet_right",
+      "truth": 53.57,
+      "got": 53.57,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "D",
+      "line": "PK-SHP-020",
+      "bucket": "quiet_right",
+      "truth": 65.03,
+      "got": 65.03,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "D",
+      "line": "PK-DCT-021",
+      "bucket": "quiet_right",
+      "truth": 9.14,
+      "got": 9.14,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "D",
+      "line": "PK-DCT-022",
+      "bucket": "quiet_right",
+      "truth": 6.65,
+      "got": 6.65,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "D",
+      "line": "PK-DCT-023",
+      "bucket": "justified_flag",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "why": "Not quoted"
+    },
+    {
+      "vendor": "D",
+      "line": "PK-DCT-024",
+      "bucket": "quiet_right",
+      "truth": 7.33,
+      "got": 7.33,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "D",
+      "line": "PK-PRT-025",
+      "bucket": "justified_flag",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "why": "Not quoted"
+    },
+    {
+      "vendor": "D",
+      "line": "PK-PRT-026",
+      "bucket": "justified_flag",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "why": "Not quoted"
+    },
+    {
+      "vendor": "D",
+      "line": "PK-PRT-027",
+      "bucket": "justified_flag",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "why": "Not quoted"
+    },
+    {
+      "vendor": "D",
+      "line": "PK-PAD-028",
+      "bucket": "justified_flag",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "why": "Not quoted"
+    },
+    {
+      "vendor": "D",
+      "line": "PK-PAD-029",
+      "bucket": "justified_flag",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "why": "Not quoted"
+    },
+    {
+      "vendor": "D",
+      "line": "PK-SHP-030",
+      "bucket": "quiet_right",
+      "truth": 8.58,
+      "got": 8.58,
+      "status": "verified",
+      "why": ""
+    },
+    {
+      "vendor": "E",
+      "line": "PK-SHP-001",
+      "bucket": "justified_flag",
+      "truth": 33.93,
+      "got": 33.93,
+      "status": "needs_review",
+      "why": "Quoted per kg; converted using your spec's box weight, which assumes the vendor's board matches spec; -17% vs this vendor's last-year price (₹40.99); 23% below the other vendors' median (₹44.01)"
+    },
+    {
+      "vendor": "E",
+      "line": "PK-SHP-002",
+      "bucket": "justified_flag",
+      "truth": 30.88,
+      "got": 30.88,
+      "status": "needs_review",
+      "why": "Quoted per kg; converted using your spec's box weight, which assumes the vendor's board matches spec; -14% vs this vendor's last-year price (₹36); 20% below the other vendors' median (₹38.61)"
+    },
+    {
+      "vendor": "E",
+      "line": "PK-SHP-003",
+      "bucket": "justified_flag",
+      "truth": 19.14,
+      "got": 19.14,
+      "status": "needs_review",
+      "why": "Quoted per kg; converted using your spec's box weight, which assumes the vendor's board matches spec; -14% vs this vendor's last-year price (₹22.29); 20% below the other vendors' median (₹24.01)"
+    },
+    {
+      "vendor": "E",
+      "line": "PK-SHP-004",
+      "bucket": "justified_flag",
+      "truth": 27.86,
+      "got": 27.86,
+      "status": "needs_review",
+      "why": "Quoted per kg; converted using your spec's box weight, which assumes the vendor's board matches spec; -17% vs this vendor's last-year price (₹33.7); 24% below the other vendors' median (₹36.52)"
+    },
+    {
+      "vendor": "E",
+      "line": "PK-SHP-005",
+      "bucket": "justified_flag",
+      "truth": 23.3,
+      "got": 23.3,
+      "status": "needs_review",
+      "why": "Quoted per kg; converted using your spec's box weight, which assumes the vendor's board matches spec; -17% vs this vendor's last-year price (₹28.09); 23% below the other vendors' median (₹30.21)"
+    },
+    {
+      "vendor": "E",
+      "line": "PK-SHP-006",
+      "bucket": "justified_flag",
+      "truth": 63.88,
+      "got": 63.88,
+      "status": "carried",
+      "why": "Filled from last year's price (\"₹42/kg for the 5-ply, 38 for the 3-ply, rest same as last year, freight extra.\"). Confirm it still stands."
+    },
+    {
+      "vendor": "E",
+      "line": "PK-SHP-007",
+      "bucket": "justified_flag",
+      "truth": 15.13,
+      "got": 15.13,
+      "status": "needs_review",
+      "why": "Unit not written next to the price; taken from the same sentence (\"₹42/kg for the 5-ply, 38 for the 3-ply, rest same as last year, freight extra.\"); Quoted per kg; converted using your spec's box weight, which assumes the vendor's board matches spec; -26% vs this vendor's last-year price (₹20.33); 31% below the other vendors' median (₹21.99)"
+    },
+    {
+      "vendor": "E",
+      "line": "PK-SHP-008",
+      "bucket": "justified_flag",
+      "truth": 18.52,
+      "got": 18.52,
+      "status": "needs_review",
+      "why": "Unit not written next to the price; taken from the same sentence (\"₹42/kg for the 5-ply, 38 for the 3-ply, rest same as last year, freight extra.\"); Quoted per kg; converted using your spec's box weight, which assumes the vendor's board matches spec; -25% vs this vendor's last-year price (₹24.83); 31% below the other vendors' median (₹26.81)"
+    },
+    {
+      "vendor": "E",
+      "line": "PK-SHP-009",
+      "bucket": "justified_flag",
+      "truth": 18.65,
+      "got": 18.65,
+      "status": "needs_review",
+      "why": "Unit not written next to the price; taken from the same sentence (\"₹42/kg for the 5-ply, 38 for the 3-ply, rest same as last year, freight extra.\"); Quoted per kg; converted using your spec's box weight, which assumes the vendor's board matches spec; -25% vs this vendor's last-year price (₹24.87); 31% below the other vendors' median (₹26.86)"
+    },
+    {
+      "vendor": "E",
+      "line": "PK-SHP-010",
+      "bucket": "justified_flag",
+      "truth": 26.84,
+      "got": 26.84,
+      "status": "needs_review",
+      "why": "Quoted per kg; converted using your spec's box weight, which assumes the vendor's board matches spec; -14% vs this vendor's last-year price (₹31.33)"
+    },
+    {
+      "vendor": "E",
+      "line": "PK-SHP-011",
+      "bucket": "justified_flag",
+      "truth": 20.1,
+      "got": 20.1,
+      "status": "needs_review",
+      "why": "Quoted per kg; converted using your spec's box weight, which assumes the vendor's board matches spec; -15% vs this vendor's last-year price (₹23.52); 20% below the other vendors' median (₹25.27)"
+    },
+    {
+      "vendor": "E",
+      "line": "PK-SHP-012",
+      "bucket": "justified_flag",
+      "truth": 7.56,
+      "got": 7.56,
+      "status": "needs_review",
+      "why": "Unit not written next to the price; taken from the same sentence (\"₹42/kg for the 5-ply, 38 for the 3-ply, rest same as last year, freight extra.\"); Quoted per kg; converted using your spec's box weight, which assumes the vendor's board matches spec; -26% vs this vendor's last-year price (₹10.17); 31% below the other vendors' median (₹10.93)"
+    },
+    {
+      "vendor": "E",
+      "line": "PK-SHP-013",
+      "bucket": "justified_flag",
+      "truth": 26.87,
+      "got": 26.87,
+      "status": "needs_review",
+      "why": "Quoted per kg; converted using your spec's box weight, which assumes the vendor's board matches spec; -14% vs this vendor's last-year price (₹31.37); 20% below the other vendors' median (₹33.78)"
+    },
+    {
+      "vendor": "E",
+      "line": "PK-SHP-014",
+      "bucket": "justified_flag",
+      "truth": 25.01,
+      "got": 25.01,
+      "status": "needs_review",
+      "why": "Quoted per kg; converted using your spec's box weight, which assumes the vendor's board matches spec; -14% vs this vendor's last-year price (₹29.07)"
+    },
+    {
+      "vendor": "E",
+      "line": "PK-SHP-015",
+      "bucket": "justified_flag",
+      "truth": 26.85,
+      "got": 26.85,
+      "status": "needs_review",
+      "why": "Quoted per kg; converted using your spec's box weight, which assumes the vendor's board matches spec; -17% vs this vendor's last-year price (₹32.49); 23% below the other vendors' median (₹34.75)"
+    },
+    {
+      "vendor": "E",
+      "line": "PK-SHP-016",
+      "bucket": "justified_flag",
+      "truth": 11.86,
+      "got": 11.86,
+      "status": "needs_review",
+      "why": "Unit not written next to the price; taken from the same sentence (\"₹42/kg for the 5-ply, 38 for the 3-ply, rest same as last year, freight extra.\"); Quoted per kg; converted using your spec's box weight, which assumes the vendor's board matches spec; -25% vs this vendor's last-year price (₹15.87); 30% below the other vendors' median (₹16.95)"
+    },
+    {
+      "vendor": "E",
+      "line": "PK-SHP-017",
+      "bucket": "justified_flag",
+      "truth": 20.18,
+      "got": 20.18,
+      "status": "needs_review",
+      "why": "Quoted per kg; converted using your spec's box weight, which assumes the vendor's board matches spec; -18% vs this vendor's last-year price (₹24.48); 24% below the other vendors' median (₹26.5)"
+    },
+    {
+      "vendor": "E",
+      "line": "PK-SHP-018",
+      "bucket": "justified_flag",
+      "truth": 7.54,
+      "got": 7.54,
+      "status": "needs_review",
+      "why": "Unit not written next to the price; taken from the same sentence (\"₹42/kg for the 5-ply, 38 for the 3-ply, rest same as last year, freight extra.\"); Quoted per kg; converted using your spec's box weight, which assumes the vendor's board matches spec; -28% vs this vendor's last-year price (₹10.54); 34% below the other vendors' median (₹11.42)"
+    },
+    {
+      "vendor": "E",
+      "line": "PK-SHP-019",
+      "bucket": "justified_flag",
+      "truth": 39.55,
+      "got": 39.55,
+      "status": "needs_review",
+      "why": "Quoted per kg; converted using your spec's box weight, which assumes the vendor's board matches spec; -23% vs this vendor's last-year price (₹51.12); 27% below the other vendors' median (₹54.01)"
+    },
+    {
+      "vendor": "E",
+      "line": "PK-SHP-020",
+      "bucket": "justified_flag",
+      "truth": 52.26,
+      "got": 52.26,
+      "status": "needs_review",
+      "why": "Quoted per kg; converted using your spec's box weight, which assumes the vendor's board matches spec; -17% vs this vendor's last-year price (₹62.98); 24% below the other vendors' median (₹68.86)"
+    },
+    {
+      "vendor": "E",
+      "line": "PK-DCT-021",
+      "bucket": "caught",
+      "truth": null,
+      "got": 5.46,
+      "status": "needs_review",
+      "why": "Rate given for a group (\"₹42/kg for the 5-ply, 38 for the 3-ply, rest same as last year, freight extra.\"); not certain it covers this line; Unit not written next to the price; taken from the same sentence (\"₹42/kg for the 5-ply, 38 for the 3-ply, rest same as last year, freight extra.\"); Quoted per kg; converted using your spec's box weight, which assumes the vendor's board matches spec; 41% below the other vendors' median (₹9.27)"
+    },
+    {
+      "vendor": "E",
+      "line": "PK-DCT-022",
+      "bucket": "caught",
+      "truth": 6.51,
+      "got": 3.97,
+      "status": "needs_review",
+      "why": "Rate given for a group (\"₹42/kg for the 5-ply, 38 for the 3-ply, rest same as last year, freight extra.\"); not certain it covers this line; Unit not written next to the price; taken from the same sentence (\"₹42/kg for the 5-ply, 38 for the 3-ply, rest same as last year, freight extra.\"); Quoted per kg; converted using your spec's box weight, which assumes the vendor's board matches spec; -39% vs this vendor's last-year price (₹6.51); 40% below the other vendors' median (₹6.65)"
+    },
+    {
+      "vendor": "E",
+      "line": "PK-DCT-023",
+      "bucket": "caught",
+      "truth": null,
+      "got": 6.99,
+      "status": "needs_review",
+      "why": "Rate given for a group (\"₹42/kg for the 5-ply, 38 for the 3-ply, rest same as last year, freight extra.\"); not certain it covers this line; Unit not written next to the price; taken from the same sentence (\"₹42/kg for the 5-ply, 38 for the 3-ply, rest same as last year, freight extra.\"); Quoted per kg; converted using your spec's box weight, which assumes the vendor's board matches spec; 37% below the other vendors' median (₹11.15)"
+    },
+    {
+      "vendor": "E",
+      "line": "PK-DCT-024",
+      "bucket": "caught",
+      "truth": 7.54,
+      "got": 4.72,
+      "status": "needs_review",
+      "why": "Rate given for a group (\"₹42/kg for the 5-ply, 38 for the 3-ply, rest same as last year, freight extra.\"); not certain it covers this line; Unit not written next to the price; taken from the same sentence (\"₹42/kg for the 5-ply, 38 for the 3-ply, rest same as last year, freight extra.\"); Quoted per kg; converted using your spec's box weight, which assumes the vendor's board matches spec; -37% vs this vendor's last-year price (₹7.54); 38% below the other vendors' median (₹7.58)"
+    },
+    {
+      "vendor": "E",
+      "line": "PK-PRT-025",
+      "bucket": "caught",
+      "truth": null,
+      "got": 4.99,
+      "status": "needs_review",
+      "why": "Rate given for a group (\"₹42/kg for the 5-ply, 38 for the 3-ply, rest same as last year, freight extra.\"); not certain it covers this line; Unit not written next to the price; taken from the same sentence (\"₹42/kg for the 5-ply, 38 for the 3-ply, rest same as last year, freight extra.\"); Quoted per kg; converted using your spec's box weight, which assumes the vendor's board matches spec; 29% below the other vendors' median (₹7)"
+    },
+    {
+      "vendor": "E",
+      "line": "PK-PRT-026",
+      "bucket": "caught",
+      "truth": null,
+      "got": 2.69,
+      "status": "needs_review",
+      "why": "Rate given for a group (\"₹42/kg for the 5-ply, 38 for the 3-ply, rest same as last year, freight extra.\"); not certain it covers this line; Unit not written next to the price; taken from the same sentence (\"₹42/kg for the 5-ply, 38 for the 3-ply, rest same as last year, freight extra.\"); Quoted per kg; converted using your spec's box weight, which assumes the vendor's board matches spec; 29% below the other vendors' median (₹3.81)"
+    },
+    {
+      "vendor": "E",
+      "line": "PK-PRT-027",
+      "bucket": "caught",
+      "truth": null,
+      "got": 6.36,
+      "status": "needs_review",
+      "why": "Rate given for a group (\"₹42/kg for the 5-ply, 38 for the 3-ply, rest same as last year, freight extra.\"); not certain it covers this line; Unit not written next to the price; taken from the same sentence (\"₹42/kg for the 5-ply, 38 for the 3-ply, rest same as last year, freight extra.\"); Quoted per kg; converted using your spec's box weight, which assumes the vendor's board matches spec; 31% below the other vendors' median (₹9.27)"
+    },
+    {
+      "vendor": "E",
+      "line": "PK-PAD-028",
+      "bucket": "caught",
+      "truth": 2.34,
+      "got": 1.71,
+      "status": "needs_review",
+      "why": "Rate given for a group (\"₹42/kg for the 5-ply, 38 for the 3-ply, rest same as last year, freight extra.\"); not certain it covers this line; Unit not written next to the price; taken from the same sentence (\"₹42/kg for the 5-ply, 38 for the 3-ply, rest same as last year, freight extra.\"); Quoted per kg; converted using your spec's box weight, which assumes the vendor's board matches spec; -27% vs this vendor's last-year price (₹2.34); 29% below the other vendors' median (₹2.42)"
+    },
+    {
+      "vendor": "E",
+      "line": "PK-PAD-029",
+      "bucket": "caught",
+      "truth": null,
+      "got": 38.1,
+      "status": "needs_review",
+      "why": "Rate given for a group (\"₹42/kg for the 5-ply, 38 for the 3-ply, rest same as last year, freight extra.\"); not certain it covers this line; Quoted per kg; converted using your spec's box weight, which assumes the vendor's board matches spec; 23% below the other vendors' median (₹49.6)"
+    },
+    {
+      "vendor": "E",
+      "line": "PK-SHP-030",
+      "bucket": "justified_flag",
+      "truth": 5.79,
+      "got": 5.79,
+      "status": "needs_review",
+      "why": "Unit not written next to the price; taken from the same sentence (\"₹42/kg for the 5-ply, 38 for the 3-ply, rest same as last year, freight extra.\"); Quoted per kg; converted using your spec's box weight, which assumes the vendor's board matches spec; -27% vs this vendor's last-year price (₹7.95); 32% below the other vendors' median (₹8.54)"
+    }
+  ]
+}

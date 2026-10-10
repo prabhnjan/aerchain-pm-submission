@@ -1,0 +1,22 @@
+From: Shree Ambika Cartons <ambikacartons.dbs@gmail.com>
+To: packaging.buyer@sahyadri-consumer.example
+Date: Tue, 29 Sep 2026 18:42 +0530
+Subject: Re: RFQ-PKG-2026-014 - rates
+Attachments: rate_list.jpg, ISO_certificate.pdf
+
+Sir, PFA our rate list photo. Printer not working so took photo.
+
+Your questions:
+- Valid GSTIN and PAN: 29AGHPA6620R1Z4
+- ISO 9001:2015 certified? Certificate expiry date: Yes (certificate attached)
+- In-house lab tests: bursting strength, ECT, BCT, GSM, moisture, cobb: Bursting, GSM, moisture
+- Certificate of Analysis (COA) with every lot?: Yes
+- Installed capacity and current utilisation (tonnes/month): 300 t/month, 55% utilised
+- Corrugator type: automatic or semi-automatic: Semi-automatic
+- Standard lead time from PO to dispatch (days): 10 days
+- FSC chain-of-custody certificate: No
+- Food-safe inks and adhesives declaration for food lines: Yes
+- Rejection rate (PPM) last 12 months: -
+
+Regards
+Ravi, Shree Ambika Cartons

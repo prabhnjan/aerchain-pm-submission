@@ -1,0 +1,3623 @@
+{
+  "generatedAt": "2026-10-09T11:02:50.491Z",
+  "fx": {
+    "usdInr": 88.4,
+    "date": "2026-09-30",
+    "source": "Assumed demo rate, fixed at bid close (not a real RBI reference rate)"
+  },
+  "vendors": [
+    {
+      "id": "A",
+      "name": "Sri Venkatesha Corrugators Pvt Ltd",
+      "location": "Bommasandra, Bengaluru",
+      "format": "xlsx",
+      "replyDay": 3,
+      "terms": {
+        "freight": "delivered",
+        "paymentDays": 45,
+        "validityDays": 30,
+        "gstStated": "GST 12% extra",
+        "currency": "INR"
+      },
+      "answers": [
+        {
+          "questionId": "Q01",
+          "answer": "29AAKCS4471M1Z2",
+          "pass": true
+        },
+        {
+          "questionId": "Q02",
+          "answer": "Yes, valid till 31-08-2027",
+          "pass": true
+        },
+        {
+          "questionId": "Q03",
+          "answer": "Bursting, ECT, GSM, moisture, cobb",
+          "pass": true
+        },
+        {
+          "questionId": "Q04",
+          "answer": "Yes",
+          "pass": true
+        },
+        {
+          "questionId": "Q05",
+          "answer": "450 t/month, 70% utilised",
+          "pass": true,
+          "note": "Spare 135 t vs 89 t needed for full volume"
+        },
+        {
+          "questionId": "Q06",
+          "answer": "Automatic 5-ply line",
+          "pass": null
+        },
+        {
+          "questionId": "Q07",
+          "answer": "8 days",
+          "pass": true
+        },
+        {
+          "questionId": "Q08",
+          "answer": "No",
+          "pass": null
+        },
+        {
+          "questionId": "Q09",
+          "answer": "Yes",
+          "pass": true
+        },
+        {
+          "questionId": "Q10",
+          "answer": "850",
+          "pass": null
+        }
+      ],
+      "clearsQuestionnaire": true
+    },
+    {
+      "id": "B",
+      "name": "Kaveri Packtech LLP (export-oriented unit)",
+      "location": "Hosur, Tamil Nadu",
+      "format": "pdf",
+      "replyDay": 5,
+      "terms": {
+        "freight": "delivered",
+        "paymentDays": 60,
+        "validityDays": 30,
+        "gstStated": "GST 5% extra as applicable",
+        "discount": {
+          "percent": 3,
+          "condition": "Monthly offtake above 5 MT",
+          "appliesTo": "all"
+        },
+        "currency": "USD"
+      },
+      "answers": [
+        {
+          "questionId": "Q01",
+          "answer": "33AAJFK2208P1ZB",
+          "pass": true
+        },
+        {
+          "questionId": "Q02",
+          "answer": "Yes, valid till 15-01-2028",
+          "pass": true
+        },
+        {
+          "questionId": "Q03",
+          "answer": "Full lab: bursting, ECT, BCT, GSM, moisture, cobb",
+          "pass": true
+        },
+        {
+          "questionId": "Q04",
+          "answer": "Yes",
+          "pass": true
+        },
+        {
+          "questionId": "Q05",
+          "answer": "600 t/month, 65% utilised",
+          "pass": true
+        },
+        {
+          "questionId": "Q06",
+          "answer": "Automatic",
+          "pass": null
+        },
+        {
+          "questionId": "Q07",
+          "answer": "7 days",
+          "pass": true
+        },
+        {
+          "questionId": "Q08",
+          "answer": "Yes",
+          "pass": null
+        },
+        {
+          "questionId": "Q09",
+          "answer": "Yes",
+          "pass": true
+        },
+        {
+          "questionId": "Q10",
+          "answer": "400",
+          "pass": null
+        }
+      ],
+      "clearsQuestionnaire": true
+    },
+    {
+      "id": "C",
+      "name": "Meenakshi Box Industries",
+      "location": "Peenya, Bengaluru",
+      "format": "docx",
+      "replyDay": 6,
+      "terms": {
+        "freight": "ex_works_stated",
+        "freightInrPerKg": 2.1,
+        "paymentDays": 30,
+        "validityDays": 7,
+        "gstStated": "GST extra",
+        "tooling": {
+          "platePerColourInr": 4500,
+          "diePerItemInr": 18000
+        },
+        "currency": "INR"
+      },
+      "answers": [
+        {
+          "questionId": "Q01",
+          "answer": "29ABMPM9013K1Z7",
+          "pass": true
+        },
+        {
+          "questionId": "Q02",
+          "answer": "Yes, valid till 30-03-2027",
+          "pass": true
+        },
+        {
+          "questionId": "Q03",
+          "answer": "GSM and moisture in-house; bursting at outside lab",
+          "pass": false
+        },
+        {
+          "questionId": "Q04",
+          "answer": "On request",
+          "pass": false
+        },
+        {
+          "questionId": "Q05",
+          "answer": "120 t/month, 85% utilised",
+          "pass": false,
+          "note": "Spare 18 t"
+        },
+        {
+          "questionId": "Q06",
+          "answer": "Semi-automatic",
+          "pass": null
+        },
+        {
+          "questionId": "Q07",
+          "answer": "12 days",
+          "pass": false
+        },
+        {
+          "questionId": "Q08",
+          "answer": "No",
+          "pass": null
+        },
+        {
+          "questionId": "Q09",
+          "answer": "Yes",
+          "pass": true
+        },
+        {
+          "questionId": "Q10",
+          "answer": null,
+          "pass": null
+        }
+      ],
+      "clearsQuestionnaire": false
+    },
+    {
+      "id": "D",
+      "name": "Shree Ambika Cartons",
+      "location": "Dabaspet, Bengaluru Rural",
+      "format": "photo",
+      "replyDay": 8,
+      "terms": {
+        "freight": "delivered",
+        "gstStated": "GST extra",
+        "currency": "INR"
+      },
+      "answers": [
+        {
+          "questionId": "Q01",
+          "answer": "29AGHPA6620R1Z4",
+          "pass": true
+        },
+        {
+          "questionId": "Q02",
+          "answer": "Yes (certificate attached)",
+          "pass": false,
+          "note": "Attached certificate expired 31-03-2026"
+        },
+        {
+          "questionId": "Q03",
+          "answer": "Bursting, GSM, moisture",
+          "pass": true
+        },
+        {
+          "questionId": "Q04",
+          "answer": "Yes",
+          "pass": true
+        },
+        {
+          "questionId": "Q05",
+          "answer": "300 t/month, 55% utilised",
+          "pass": true
+        },
+        {
+          "questionId": "Q06",
+          "answer": "Semi-automatic",
+          "pass": null
+        },
+        {
+          "questionId": "Q07",
+          "answer": "10 days",
+          "pass": true
+        },
+        {
+          "questionId": "Q08",
+          "answer": "No",
+          "pass": null
+        },
+        {
+          "questionId": "Q09",
+          "answer": "Yes",
+          "pass": true
+        },
+        {
+          "questionId": "Q10",
+          "answer": null,
+          "pass": null
+        }
+      ],
+      "clearsQuestionnaire": false
+    },
+    {
+      "id": "E",
+      "name": "Navkar Packaging Solutions",
+      "location": "Jigani, Bengaluru",
+      "format": "email",
+      "replyDay": 9,
+      "terms": {
+        "freight": "ex_works_unknown",
+        "currency": "INR"
+      },
+      "answers": [],
+      "clearsQuestionnaire": null
+    }
+  ],
+  "cells": [
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-001",
+      "state": "quoted",
+      "vendorLineName": "Shipper, detergent powder 1kg x 12",
+      "native": {
+        "value": 44.4,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "44.40",
+      "inrPerPiece": 44.4,
+      "landedPerPiece": 44.4,
+      "trapIds": []
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-002",
+      "state": "quoted",
+      "vendorLineName": "Shipper, detergent powder 500g x 24",
+      "native": {
+        "value": 39.67,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "39.67",
+      "inrPerPiece": 39.67,
+      "landedPerPiece": 39.67,
+      "trapIds": []
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-003",
+      "state": "quoted",
+      "vendorLineName": "Shipper, detergent bar 150g x 72",
+      "native": {
+        "value": 23.63,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "23.63",
+      "inrPerPiece": 23.63,
+      "landedPerPiece": 23.63,
+      "trapIds": []
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-004",
+      "state": "quoted",
+      "vendorLineName": "Shipper, dishwash liquid 500ml x 24",
+      "native": {
+        "value": 36.52,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "36.52",
+      "inrPerPiece": 36.52,
+      "landedPerPiece": 36.52,
+      "trapIds": []
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-005",
+      "state": "quoted",
+      "vendorLineName": "Shipper, edible oil 1L pouch x 12",
+      "native": {
+        "value": 31.5,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "31.50",
+      "inrPerPiece": 31.5,
+      "landedPerPiece": 31.5,
+      "trapIds": []
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-006",
+      "state": "quoted",
+      "vendorLineName": "Shipper, edible oil 5L jar x 4",
+      "native": {
+        "value": 65.86,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "65.86",
+      "inrPerPiece": 65.86,
+      "landedPerPiece": 65.86,
+      "trapIds": []
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-007",
+      "state": "quoted",
+      "vendorLineName": "Shipper, biscuits 100g x 48",
+      "native": {
+        "value": 23.24,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "23.24",
+      "inrPerPiece": 23.24,
+      "landedPerPiece": 23.24,
+      "trapIds": []
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-008",
+      "state": "quoted",
+      "vendorLineName": "Shipper, biscuits family pack x 24",
+      "native": {
+        "value": 27.03,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "27.03",
+      "inrPerPiece": 27.03,
+      "landedPerPiece": 27.03,
+      "trapIds": []
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-009",
+      "state": "quoted",
+      "vendorLineName": "Shipper, noodles 70g x 96",
+      "native": {
+        "value": 27.17,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "27.17",
+      "inrPerPiece": 27.17,
+      "landedPerPiece": 27.17,
+      "trapIds": []
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-010",
+      "state": "quoted",
+      "vendorLineName": "Shipper, tea 250g carton x 40",
+      "native": {
+        "value": 33.12,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "33.12",
+      "inrPerPiece": 33.12,
+      "landedPerPiece": 33.12,
+      "trapIds": []
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-011",
+      "state": "quoted",
+      "vendorLineName": "Shipper, shampoo 180ml bottle x 36",
+      "native": {
+        "value": 25.97,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "25.97",
+      "inrPerPiece": 25.97,
+      "landedPerPiece": 25.97,
+      "trapIds": []
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-012",
+      "state": "quoted",
+      "vendorLineName": "Shipper, shampoo sachet strips x 20",
+      "native": {
+        "value": 11.18,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "11.18",
+      "inrPerPiece": 11.18,
+      "landedPerPiece": 11.18,
+      "trapIds": []
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-013",
+      "state": "quoted",
+      "vendorLineName": "Shipper, toothpaste 150g x 72",
+      "native": {
+        "value": 35.94,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "35.94",
+      "inrPerPiece": 35.94,
+      "landedPerPiece": 35.94,
+      "trapIds": []
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-014",
+      "state": "quoted",
+      "vendorLineName": "Shipper, soap 100g x 144",
+      "native": {
+        "value": 31.51,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "31.51",
+      "inrPerPiece": 31.51,
+      "landedPerPiece": 31.51,
+      "trapIds": []
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-015",
+      "state": "quoted",
+      "vendorLineName": "Shipper, ketchup 1kg bottle x 12",
+      "native": {
+        "value": 34.93,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "34.93",
+      "inrPerPiece": 34.93,
+      "landedPerPiece": 34.93,
+      "trapIds": []
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-016",
+      "state": "quoted",
+      "vendorLineName": "Shipper, spice powder 100g x 60",
+      "native": {
+        "value": 18.46,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "18.46",
+      "inrPerPiece": 18.46,
+      "landedPerPiece": 18.46,
+      "trapIds": []
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-017",
+      "state": "quoted",
+      "vendorLineName": "Shipper, juice 1L carton x 12",
+      "native": {
+        "value": 28.47,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "28.47",
+      "inrPerPiece": 28.47,
+      "landedPerPiece": 28.47,
+      "trapIds": []
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-018",
+      "state": "quoted",
+      "vendorLineName": "E-com mailer, 3 SKU combo",
+      "native": {
+        "value": 11.44,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "11.44",
+      "inrPerPiece": 11.44,
+      "landedPerPiece": 11.44,
+      "trapIds": []
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-019",
+      "state": "quoted",
+      "vendorLineName": "Export shipper, detergent 1kg x 12 (high BCT)",
+      "native": {
+        "value": 57.57,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "57.57",
+      "inrPerPiece": 57.57,
+      "landedPerPiece": 57.57,
+      "trapIds": []
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-020",
+      "state": "quoted",
+      "vendorLineName": "Club-store multipack shipper",
+      "native": {
+        "value": 71.33,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "71.33",
+      "inrPerPiece": 71.33,
+      "landedPerPiece": 71.33,
+      "trapIds": []
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-DCT-021",
+      "state": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "trapIds": [
+        "T03"
+      ]
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-DCT-022",
+      "state": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "trapIds": [
+        "T03"
+      ]
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-DCT-023",
+      "state": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "trapIds": [
+        "T03"
+      ]
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-DCT-024",
+      "state": "quoted",
+      "vendorLineName": "Wrap-around tray, oil 1L x 12",
+      "native": {
+        "value": 7.83,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "7.83",
+      "inrPerPiece": 7.83,
+      "landedPerPiece": 7.83,
+      "trapIds": []
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-PRT-025",
+      "state": "quoted",
+      "vendorLineName": "Partition set 3x4, ketchup bottles",
+      "native": {
+        "value": 700,
+        "basis": "per_100",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "700 per 100 nos",
+      "inrPerPiece": 7,
+      "landedPerPiece": 7,
+      "trapIds": [
+        "T01"
+      ]
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-PRT-026",
+      "state": "quoted",
+      "vendorLineName": "Partition set 2x2, oil jar 5L",
+      "native": {
+        "value": 390,
+        "basis": "per_100",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "390 per 100 nos",
+      "inrPerPiece": 3.9,
+      "landedPerPiece": 3.9,
+      "trapIds": [
+        "T01"
+      ]
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-PRT-027",
+      "state": "quoted",
+      "vendorLineName": "Partition set 4x6, shampoo bottles",
+      "native": {
+        "value": 956,
+        "basis": "per_100",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "956 per 100 nos",
+      "inrPerPiece": 9.56,
+      "landedPerPiece": 9.56,
+      "trapIds": [
+        "T01"
+      ]
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-PAD-028",
+      "state": "quoted",
+      "vendorLineName": "Layer pad 400x300, biscuits shipper",
+      "native": {
+        "value": 251,
+        "basis": "per_100",
+        "currency": "INR",
+        "basisStated": false
+      },
+      "asWritten": "251",
+      "inrPerPiece": 2.51,
+      "landedPerPiece": 2.51,
+      "trapIds": [
+        "T02"
+      ]
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-PAD-029",
+      "state": "quoted",
+      "vendorLineName": "Pallet tier sheet 1200x1000",
+      "native": {
+        "value": 4960,
+        "basis": "per_100",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "4960 per 100 nos",
+      "inrPerPiece": 49.6,
+      "landedPerPiece": 49.6,
+      "trapIds": [
+        "T01"
+      ]
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-030",
+      "state": "quoted",
+      "vendorLineName": "Trade-promo sample carton",
+      "native": {
+        "value": 8.49,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "8.49",
+      "inrPerPiece": 8.49,
+      "landedPerPiece": 8.49,
+      "trapIds": []
+    },
+    {
+      "vendorId": "B",
+      "lineId": "PK-SHP-001",
+      "state": "quoted",
+      "vendorLineName": "Shipper, detergent powder 1kg x 12",
+      "native": {
+        "value": 0.504,
+        "basis": "per_piece",
+        "currency": "USD",
+        "basisStated": true
+      },
+      "asWritten": "USD 0.504",
+      "inrPerPiece": 44.55,
+      "landedPerPiece": 44.55,
+      "trapIds": [
+        "T05"
+      ]
+    },
+    {
+      "vendorId": "B",
+      "lineId": "PK-SHP-002",
+      "state": "quoted",
+      "vendorLineName": "Shipper, detergent powder 500g x 24",
+      "native": {
+        "value": 0.453,
+        "basis": "per_piece",
+        "currency": "USD",
+        "basisStated": true
+      },
+      "asWritten": "USD 0.453",
+      "inrPerPiece": 40.05,
+      "landedPerPiece": 40.05,
+      "trapIds": [
+        "T05"
+      ]
+    },
+    {
+      "vendorId": "B",
+      "lineId": "PK-SHP-003",
+      "state": "quoted",
+      "vendorLineName": "Shipper, detergent bar 150g x 72",
+      "native": {
+        "value": 0.282,
+        "basis": "per_piece",
+        "currency": "USD",
+        "basisStated": true
+      },
+      "asWritten": "USD 0.282",
+      "inrPerPiece": 24.93,
+      "landedPerPiece": 24.93,
+      "trapIds": [
+        "T05"
+      ]
+    },
+    {
+      "vendorId": "B",
+      "lineId": "PK-SHP-004",
+      "state": "quoted",
+      "vendorLineName": "Shipper, dishwash liquid 500ml x 24",
+      "native": {
+        "value": 0.413,
+        "basis": "per_piece",
+        "currency": "USD",
+        "basisStated": true
+      },
+      "asWritten": "USD 0.413",
+      "inrPerPiece": 36.51,
+      "landedPerPiece": 36.51,
+      "trapIds": [
+        "T05"
+      ]
+    },
+    {
+      "vendorId": "B",
+      "lineId": "PK-SHP-005",
+      "state": "quoted",
+      "vendorLineName": "Shipper, edible oil 1L pouch x 12",
+      "native": {
+        "value": 0.34,
+        "basis": "per_piece",
+        "currency": "USD",
+        "basisStated": true
+      },
+      "asWritten": "USD 0.340",
+      "inrPerPiece": 30.06,
+      "landedPerPiece": 30.06,
+      "trapIds": [
+        "T05"
+      ]
+    },
+    {
+      "vendorId": "B",
+      "lineId": "PK-SHP-006",
+      "state": "quoted",
+      "vendorLineName": "Shipper, edible oil 5L jar x 4",
+      "native": {
+        "value": 0.786,
+        "basis": "per_piece",
+        "currency": "USD",
+        "basisStated": true
+      },
+      "asWritten": "USD 0.786",
+      "inrPerPiece": 69.48,
+      "landedPerPiece": 69.48,
+      "trapIds": [
+        "T05"
+      ]
+    },
+    {
+      "vendorId": "B",
+      "lineId": "PK-SHP-007",
+      "state": "quoted",
+      "vendorLineName": "Shipper, biscuits 100g x 48",
+      "native": {
+        "value": 0.244,
+        "basis": "per_piece",
+        "currency": "USD",
+        "basisStated": true
+      },
+      "asWritten": "USD 0.244",
+      "inrPerPiece": 21.57,
+      "landedPerPiece": 21.57,
+      "trapIds": [
+        "T05"
+      ]
+    },
+    {
+      "vendorId": "B",
+      "lineId": "PK-SHP-008",
+      "state": "quoted",
+      "vendorLineName": "Shipper, biscuits family pack x 24",
+      "native": {
+        "value": 0.311,
+        "basis": "per_piece",
+        "currency": "USD",
+        "basisStated": true
+      },
+      "asWritten": "USD 0.311",
+      "inrPerPiece": 27.49,
+      "landedPerPiece": 27.49,
+      "trapIds": [
+        "T05"
+      ]
+    },
+    {
+      "vendorId": "B",
+      "lineId": "PK-SHP-009",
+      "state": "quoted",
+      "vendorLineName": "Shipper, noodles 70g x 96",
+      "native": {
+        "value": 0.318,
+        "basis": "per_piece",
+        "currency": "USD",
+        "basisStated": true
+      },
+      "asWritten": "USD 0.318",
+      "inrPerPiece": 28.11,
+      "landedPerPiece": 28.11,
+      "trapIds": [
+        "T05"
+      ]
+    },
+    {
+      "vendorId": "B",
+      "lineId": "PK-SHP-010",
+      "state": "quoted",
+      "vendorLineName": "Shipper, tea 250g carton x 40",
+      "native": {
+        "value": 0.396,
+        "basis": "per_piece",
+        "currency": "USD",
+        "basisStated": true
+      },
+      "asWritten": "USD 0.396",
+      "inrPerPiece": 35.01,
+      "landedPerPiece": 35.01,
+      "trapIds": [
+        "T05"
+      ]
+    },
+    {
+      "vendorId": "B",
+      "lineId": "PK-SHP-011",
+      "state": "quoted",
+      "vendorLineName": "Shipper, shampoo 180ml bottle x 36",
+      "native": {
+        "value": 0.289,
+        "basis": "per_piece",
+        "currency": "USD",
+        "basisStated": true
+      },
+      "asWritten": "USD 0.289",
+      "inrPerPiece": 25.55,
+      "landedPerPiece": 25.55,
+      "trapIds": [
+        "T05"
+      ]
+    },
+    {
+      "vendorId": "B",
+      "lineId": "PK-SHP-012",
+      "state": "quoted",
+      "vendorLineName": "Shipper, shampoo sachet strips x 20",
+      "native": {
+        "value": 0.127,
+        "basis": "per_piece",
+        "currency": "USD",
+        "basisStated": true
+      },
+      "asWritten": "USD 0.127",
+      "inrPerPiece": 11.23,
+      "landedPerPiece": 11.23,
+      "trapIds": [
+        "T05"
+      ]
+    },
+    {
+      "vendorId": "B",
+      "lineId": "PK-SHP-013",
+      "state": "quoted",
+      "vendorLineName": "Shipper, toothpaste 150g x 72",
+      "native": {
+        "value": 0.388,
+        "basis": "per_piece",
+        "currency": "USD",
+        "basisStated": true
+      },
+      "asWritten": "USD 0.388",
+      "inrPerPiece": 34.3,
+      "landedPerPiece": 34.3,
+      "trapIds": [
+        "T05"
+      ]
+    },
+    {
+      "vendorId": "B",
+      "lineId": "PK-SHP-014",
+      "state": "quoted",
+      "vendorLineName": "Shipper, soap 100g x 144",
+      "native": {
+        "value": 0.364,
+        "basis": "per_piece",
+        "currency": "USD",
+        "basisStated": true
+      },
+      "asWritten": "USD 0.364",
+      "inrPerPiece": 32.18,
+      "landedPerPiece": 32.18,
+      "trapIds": [
+        "T05"
+      ]
+    },
+    {
+      "vendorId": "B",
+      "lineId": "PK-SHP-015",
+      "state": "quoted",
+      "vendorLineName": "Shipper, ketchup 1kg bottle x 12",
+      "native": {
+        "value": 0.391,
+        "basis": "per_piece",
+        "currency": "USD",
+        "basisStated": true
+      },
+      "asWritten": "USD 0.391",
+      "inrPerPiece": 34.56,
+      "landedPerPiece": 34.56,
+      "trapIds": [
+        "T05"
+      ]
+    },
+    {
+      "vendorId": "B",
+      "lineId": "PK-SHP-016",
+      "state": "quoted",
+      "vendorLineName": "Shipper, spice powder 100g x 60",
+      "native": {
+        "value": 0.195,
+        "basis": "per_piece",
+        "currency": "USD",
+        "basisStated": true
+      },
+      "asWritten": "USD 0.195",
+      "inrPerPiece": 17.24,
+      "landedPerPiece": 17.24,
+      "trapIds": [
+        "T05"
+      ]
+    },
+    {
+      "vendorId": "B",
+      "lineId": "PK-SHP-017",
+      "state": "quoted",
+      "vendorLineName": "Shipper, juice 1L carton x 12",
+      "native": {
+        "value": 0.304,
+        "basis": "per_piece",
+        "currency": "USD",
+        "basisStated": true
+      },
+      "asWritten": "USD 0.304",
+      "inrPerPiece": 26.87,
+      "landedPerPiece": 26.87,
+      "trapIds": [
+        "T05"
+      ]
+    },
+    {
+      "vendorId": "B",
+      "lineId": "PK-SHP-018",
+      "state": "quoted",
+      "vendorLineName": "E-com mailer, 3 SKU combo",
+      "native": {
+        "value": 0.129,
+        "basis": "per_piece",
+        "currency": "USD",
+        "basisStated": true
+      },
+      "asWritten": "USD 0.129",
+      "inrPerPiece": 11.4,
+      "landedPerPiece": 11.4,
+      "trapIds": [
+        "T05"
+      ]
+    },
+    {
+      "vendorId": "B",
+      "lineId": "PK-SHP-019",
+      "state": "quoted",
+      "vendorLineName": "Export shipper, detergent 1kg x 12 (high BCT)",
+      "native": {
+        "value": 0.616,
+        "basis": "per_piece",
+        "currency": "USD",
+        "basisStated": true
+      },
+      "asWritten": "USD 0.616",
+      "inrPerPiece": 54.45,
+      "landedPerPiece": 54.45,
+      "trapIds": [
+        "T05"
+      ]
+    },
+    {
+      "vendorId": "B",
+      "lineId": "PK-SHP-020",
+      "state": "quoted",
+      "vendorLineName": "Club-store multipack shipper",
+      "native": {
+        "value": 0.751,
+        "basis": "per_piece",
+        "currency": "USD",
+        "basisStated": true
+      },
+      "asWritten": "USD 0.751",
+      "inrPerPiece": 66.39,
+      "landedPerPiece": 66.39,
+      "trapIds": [
+        "T05"
+      ]
+    },
+    {
+      "vendorId": "B",
+      "lineId": "PK-DCT-021",
+      "state": "quoted",
+      "vendorLineName": "Die-cut display tray, biscuits (PDQ)",
+      "native": {
+        "value": 0.109,
+        "basis": "per_piece",
+        "currency": "USD",
+        "basisStated": true
+      },
+      "asWritten": "USD 0.109",
+      "inrPerPiece": 9.64,
+      "landedPerPiece": 9.64,
+      "trapIds": [
+        "T05"
+      ]
+    },
+    {
+      "vendorId": "B",
+      "lineId": "PK-DCT-022",
+      "state": "quoted",
+      "vendorLineName": "Shrink-wrap tray, juice 200ml x 27",
+      "native": {
+        "value": 0.079,
+        "basis": "per_piece",
+        "currency": "USD",
+        "basisStated": true
+      },
+      "asWritten": "USD 0.079",
+      "inrPerPiece": 6.98,
+      "landedPerPiece": 6.98,
+      "trapIds": [
+        "T05"
+      ]
+    },
+    {
+      "vendorId": "B",
+      "lineId": "PK-DCT-023",
+      "state": "quoted",
+      "vendorLineName": "Crash-lock gift box",
+      "native": {
+        "value": 0.13,
+        "basis": "per_piece",
+        "currency": "USD",
+        "basisStated": true
+      },
+      "asWritten": "USD 0.130",
+      "inrPerPiece": 11.49,
+      "landedPerPiece": 11.49,
+      "trapIds": [
+        "T05"
+      ]
+    },
+    {
+      "vendorId": "B",
+      "lineId": "PK-DCT-024",
+      "state": "quoted",
+      "vendorLineName": "Wrap-around tray, oil 1L x 12",
+      "native": {
+        "value": 0.087,
+        "basis": "per_piece",
+        "currency": "USD",
+        "basisStated": true
+      },
+      "asWritten": "USD 0.087",
+      "inrPerPiece": 7.69,
+      "landedPerPiece": 7.69,
+      "trapIds": [
+        "T05"
+      ]
+    },
+    {
+      "vendorId": "B",
+      "lineId": "PK-PRT-025",
+      "state": "quoted",
+      "vendorLineName": "Partition set 3x4, ketchup bottles",
+      "native": {
+        "value": 0.08,
+        "basis": "per_piece",
+        "currency": "USD",
+        "basisStated": true
+      },
+      "asWritten": "USD 0.080",
+      "inrPerPiece": 7.07,
+      "landedPerPiece": 7.07,
+      "trapIds": [
+        "T05"
+      ]
+    },
+    {
+      "vendorId": "B",
+      "lineId": "PK-PRT-026",
+      "state": "quoted",
+      "vendorLineName": "Partition set 2x2, oil jar 5L",
+      "native": {
+        "value": 0.043,
+        "basis": "per_piece",
+        "currency": "USD",
+        "basisStated": true
+      },
+      "asWritten": "USD 0.043",
+      "inrPerPiece": 3.8,
+      "landedPerPiece": 3.8,
+      "trapIds": [
+        "T05"
+      ]
+    },
+    {
+      "vendorId": "B",
+      "lineId": "PK-PRT-027",
+      "state": "quoted",
+      "vendorLineName": "Partition set 4x6, shampoo bottles",
+      "native": {
+        "value": 0.104,
+        "basis": "per_piece",
+        "currency": "USD",
+        "basisStated": true
+      },
+      "asWritten": "USD 0.104",
+      "inrPerPiece": 9.19,
+      "landedPerPiece": 9.19,
+      "trapIds": [
+        "T05"
+      ]
+    },
+    {
+      "vendorId": "B",
+      "lineId": "PK-PAD-028",
+      "state": "quoted",
+      "vendorLineName": "Layer pad 400x300, biscuits shipper",
+      "native": {
+        "value": 0.028,
+        "basis": "per_piece",
+        "currency": "USD",
+        "basisStated": true
+      },
+      "asWritten": "USD 0.028",
+      "inrPerPiece": 2.48,
+      "landedPerPiece": 2.48,
+      "trapIds": [
+        "T05"
+      ]
+    },
+    {
+      "vendorId": "B",
+      "lineId": "PK-PAD-029",
+      "state": "quoted",
+      "vendorLineName": "Pallet tier sheet 1200x1000",
+      "native": {
+        "value": 0.563,
+        "basis": "per_piece",
+        "currency": "USD",
+        "basisStated": true
+      },
+      "asWritten": "USD 0.563",
+      "inrPerPiece": 49.77,
+      "landedPerPiece": 49.77,
+      "trapIds": [
+        "T05"
+      ]
+    },
+    {
+      "vendorId": "B",
+      "lineId": "PK-SHP-030",
+      "state": "quoted",
+      "vendorLineName": "Trade-promo sample carton",
+      "native": {
+        "value": 0.095,
+        "basis": "per_piece",
+        "currency": "USD",
+        "basisStated": true
+      },
+      "asWritten": "USD 0.095",
+      "inrPerPiece": 8.4,
+      "landedPerPiece": 8.4,
+      "trapIds": [
+        "T05"
+      ]
+    },
+    {
+      "vendorId": "C",
+      "lineId": "PK-SHP-001",
+      "state": "quoted",
+      "vendorLineName": "Shipper, detergent powder 1kg x 12",
+      "native": {
+        "value": 43.61,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "Rs. 43.61",
+      "inrPerPiece": 43.61,
+      "landedPerPiece": 45.42,
+      "specDeviation": "Top and bottom liner 150 GSM instead of 180 GSM",
+      "trapIds": [
+        "T07",
+        "T08",
+        "T09"
+      ]
+    },
+    {
+      "vendorId": "C",
+      "lineId": "PK-SHP-002",
+      "state": "quoted",
+      "vendorLineName": "Shipper, detergent powder 500g x 24",
+      "native": {
+        "value": 36.78,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "Rs. 36.78",
+      "inrPerPiece": 36.78,
+      "landedPerPiece": 38.45,
+      "trapIds": [
+        "T07",
+        "T08"
+      ]
+    },
+    {
+      "vendorId": "C",
+      "lineId": "PK-SHP-003",
+      "state": "quoted",
+      "vendorLineName": "Shipper, detergent bar 150g x 72",
+      "native": {
+        "value": 24.27,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "Rs. 24.27",
+      "inrPerPiece": 24.27,
+      "landedPerPiece": 25.3,
+      "trapIds": [
+        "T07",
+        "T08"
+      ]
+    },
+    {
+      "vendorId": "C",
+      "lineId": "PK-SHP-004",
+      "state": "quoted",
+      "vendorLineName": "Shipper, dishwash liquid 500ml x 24",
+      "native": {
+        "value": 36.71,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "Rs. 36.71",
+      "inrPerPiece": 36.71,
+      "landedPerPiece": 38.28,
+      "specDeviation": "Top and bottom liner 150 GSM instead of 180 GSM",
+      "trapIds": [
+        "T07",
+        "T08",
+        "T09"
+      ]
+    },
+    {
+      "vendorId": "C",
+      "lineId": "PK-SHP-005",
+      "state": "quoted",
+      "vendorLineName": "Shipper, edible oil 1L pouch x 12",
+      "native": {
+        "value": 30.13,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "Rs. 30.13",
+      "inrPerPiece": 30.13,
+      "landedPerPiece": 31.34,
+      "trapIds": [
+        "T07",
+        "T08"
+      ]
+    },
+    {
+      "vendorId": "C",
+      "lineId": "PK-SHP-006",
+      "state": "quoted",
+      "vendorLineName": "Shipper, edible oil 5L jar x 4",
+      "native": {
+        "value": 67.92,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "Rs. 67.92",
+      "inrPerPiece": 67.92,
+      "landedPerPiece": 70.8,
+      "trapIds": [
+        "T07",
+        "T08"
+      ]
+    },
+    {
+      "vendorId": "C",
+      "lineId": "PK-SHP-007",
+      "state": "quoted",
+      "vendorLineName": "Shipper, biscuits 100g x 48",
+      "native": {
+        "value": 22.41,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "Rs. 22.41",
+      "inrPerPiece": 22.41,
+      "landedPerPiece": 23.31,
+      "trapIds": [
+        "T07",
+        "T08"
+      ]
+    },
+    {
+      "vendorId": "C",
+      "lineId": "PK-SHP-008",
+      "state": "quoted",
+      "vendorLineName": "Shipper, biscuits family pack x 24",
+      "native": {
+        "value": 25.93,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "Rs. 25.93",
+      "inrPerPiece": 25.93,
+      "landedPerPiece": 27.07,
+      "trapIds": [
+        "T07",
+        "T08"
+      ]
+    },
+    {
+      "vendorId": "C",
+      "lineId": "PK-SHP-009",
+      "state": "quoted",
+      "vendorLineName": "Shipper, noodles 70g x 96",
+      "native": {
+        "value": 26.55,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "Rs. 26.55",
+      "inrPerPiece": 26.55,
+      "landedPerPiece": 27.62,
+      "trapIds": [
+        "T07",
+        "T08"
+      ]
+    },
+    {
+      "vendorId": "C",
+      "lineId": "PK-SHP-010",
+      "state": "quoted",
+      "vendorLineName": "Shipper, tea 250g carton x 40",
+      "native": {
+        "value": 31.85,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "Rs. 31.85",
+      "inrPerPiece": 31.85,
+      "landedPerPiece": 33.42,
+      "trapIds": [
+        "T07",
+        "T08"
+      ]
+    },
+    {
+      "vendorId": "C",
+      "lineId": "PK-SHP-011",
+      "state": "quoted",
+      "vendorLineName": "Shipper, shampoo 180ml bottle x 36",
+      "native": {
+        "value": 24.99,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "Rs. 24.99",
+      "inrPerPiece": 24.99,
+      "landedPerPiece": 26.16,
+      "trapIds": [
+        "T07",
+        "T08"
+      ]
+    },
+    {
+      "vendorId": "C",
+      "lineId": "PK-SHP-012",
+      "state": "quoted",
+      "vendorLineName": "Shipper, shampoo sachet strips x 20",
+      "native": {
+        "value": 10.55,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "Rs. 10.55",
+      "inrPerPiece": 10.55,
+      "landedPerPiece": 11.02,
+      "trapIds": [
+        "T07",
+        "T08"
+      ]
+    },
+    {
+      "vendorId": "C",
+      "lineId": "PK-SHP-013",
+      "state": "quoted",
+      "vendorLineName": "Shipper, toothpaste 150g x 72",
+      "native": {
+        "value": 32.83,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "Rs. 32.83",
+      "inrPerPiece": 32.83,
+      "landedPerPiece": 34.37,
+      "trapIds": [
+        "T07",
+        "T08"
+      ]
+    },
+    {
+      "vendorId": "C",
+      "lineId": "PK-SHP-014",
+      "state": "quoted",
+      "vendorLineName": "Shipper, soap 100g x 144",
+      "native": {
+        "value": 29.26,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "Rs. 29.26",
+      "inrPerPiece": 29.26,
+      "landedPerPiece": 30.59,
+      "trapIds": [
+        "T07",
+        "T08"
+      ]
+    },
+    {
+      "vendorId": "C",
+      "lineId": "PK-SHP-015",
+      "state": "quoted",
+      "vendorLineName": "Shipper, ketchup 1kg bottle x 12",
+      "native": {
+        "value": 33.55,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "Rs. 33.55",
+      "inrPerPiece": 33.55,
+      "landedPerPiece": 35.19,
+      "trapIds": [
+        "T07",
+        "T08"
+      ]
+    },
+    {
+      "vendorId": "C",
+      "lineId": "PK-SHP-016",
+      "state": "quoted",
+      "vendorLineName": "Shipper, spice powder 100g x 60",
+      "native": {
+        "value": 16.65,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "Rs. 16.65",
+      "inrPerPiece": 16.65,
+      "landedPerPiece": 17.4,
+      "trapIds": [
+        "T07",
+        "T08"
+      ]
+    },
+    {
+      "vendorId": "C",
+      "lineId": "PK-SHP-017",
+      "state": "quoted",
+      "vendorLineName": "Shipper, juice 1L carton x 12",
+      "native": {
+        "value": 25.49,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "Rs. 25.49",
+      "inrPerPiece": 25.49,
+      "landedPerPiece": 26.64,
+      "trapIds": [
+        "T07",
+        "T08"
+      ]
+    },
+    {
+      "vendorId": "C",
+      "lineId": "PK-SHP-018",
+      "state": "quoted",
+      "vendorLineName": "E-com mailer, 3 SKU combo",
+      "native": {
+        "value": 11.51,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "Rs. 11.51",
+      "inrPerPiece": 11.51,
+      "landedPerPiece": 12.38,
+      "trapIds": [
+        "T07",
+        "T08"
+      ]
+    },
+    {
+      "vendorId": "C",
+      "lineId": "PK-SHP-019",
+      "state": "quoted",
+      "vendorLineName": "Export shipper, detergent 1kg x 12 (high BCT)",
+      "native": {
+        "value": 52.98,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "Rs. 52.98",
+      "inrPerPiece": 52.98,
+      "landedPerPiece": 55.41,
+      "trapIds": [
+        "T07",
+        "T08"
+      ]
+    },
+    {
+      "vendorId": "C",
+      "lineId": "PK-SHP-020",
+      "state": "quoted",
+      "vendorLineName": "Club-store multipack shipper",
+      "native": {
+        "value": 84.76,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "Rs. 84.76",
+      "inrPerPiece": 84.76,
+      "landedPerPiece": 87.97,
+      "trapIds": [
+        "T07",
+        "T08",
+        "T21"
+      ]
+    },
+    {
+      "vendorId": "C",
+      "lineId": "PK-DCT-021",
+      "state": "quoted",
+      "vendorLineName": "Die-cut display tray, biscuits (PDQ)",
+      "native": {
+        "value": 9.27,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "Rs. 9.27",
+      "inrPerPiece": 9.27,
+      "landedPerPiece": 11.01,
+      "trapIds": [
+        "T07",
+        "T08"
+      ]
+    },
+    {
+      "vendorId": "C",
+      "lineId": "PK-DCT-022",
+      "state": "quoted",
+      "vendorLineName": "Shrink-wrap tray, juice 200ml x 27",
+      "native": {
+        "value": 6.51,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "Rs. 6.51",
+      "inrPerPiece": 6.51,
+      "landedPerPiece": 7.05,
+      "trapIds": [
+        "T07",
+        "T08"
+      ]
+    },
+    {
+      "vendorId": "C",
+      "lineId": "PK-DCT-023",
+      "state": "quoted",
+      "vendorLineName": "Crash-lock gift box",
+      "native": {
+        "value": 10.81,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "Rs. 10.81",
+      "inrPerPiece": 10.81,
+      "landedPerPiece": 13,
+      "trapIds": [
+        "T07",
+        "T08"
+      ]
+    },
+    {
+      "vendorId": "C",
+      "lineId": "PK-DCT-024",
+      "state": "quoted",
+      "vendorLineName": "Wrap-around tray, oil 1L x 12",
+      "native": {
+        "value": 7.47,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "Rs. 7.47",
+      "inrPerPiece": 7.47,
+      "landedPerPiece": 8.37,
+      "trapIds": [
+        "T07",
+        "T08"
+      ]
+    },
+    {
+      "vendorId": "C",
+      "lineId": "PK-PRT-025",
+      "state": "quoted",
+      "vendorLineName": "Partition set 3x4, ketchup bottles",
+      "native": {
+        "value": 6.93,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "Rs. 6.93",
+      "inrPerPiece": 6.93,
+      "landedPerPiece": 7.21,
+      "trapIds": [
+        "T07",
+        "T08"
+      ]
+    },
+    {
+      "vendorId": "C",
+      "lineId": "PK-PRT-026",
+      "state": "quoted",
+      "vendorLineName": "Partition set 2x2, oil jar 5L",
+      "native": {
+        "value": 3.81,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "Rs. 3.81",
+      "inrPerPiece": 3.81,
+      "landedPerPiece": 3.96,
+      "trapIds": [
+        "T07",
+        "T08"
+      ]
+    },
+    {
+      "vendorId": "C",
+      "lineId": "PK-PRT-027",
+      "state": "quoted",
+      "vendorLineName": "Partition set 4x6, shampoo bottles",
+      "native": {
+        "value": 9.27,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "Rs. 9.27",
+      "inrPerPiece": 9.27,
+      "landedPerPiece": 9.62,
+      "trapIds": [
+        "T07",
+        "T08"
+      ]
+    },
+    {
+      "vendorId": "C",
+      "lineId": "PK-PAD-028",
+      "state": "quoted",
+      "vendorLineName": "Layer pad 400x300, biscuits shipper",
+      "native": {
+        "value": 2.35,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "Rs. 2.35",
+      "inrPerPiece": 2.35,
+      "landedPerPiece": 2.44,
+      "trapIds": [
+        "T07",
+        "T08"
+      ]
+    },
+    {
+      "vendorId": "C",
+      "lineId": "PK-PAD-029",
+      "state": "quoted",
+      "vendorLineName": "Pallet tier sheet 1200x1000",
+      "native": {
+        "value": 48.58,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "Rs. 48.58",
+      "inrPerPiece": 48.58,
+      "landedPerPiece": 50.49,
+      "trapIds": [
+        "T07",
+        "T08"
+      ]
+    },
+    {
+      "vendorId": "C",
+      "lineId": "PK-SHP-030",
+      "state": "quoted",
+      "vendorLineName": "Trade-promo sample carton",
+      "native": {
+        "value": 8.81,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "Rs. 8.81",
+      "inrPerPiece": 8.81,
+      "landedPerPiece": 9.43,
+      "trapIds": [
+        "T07",
+        "T08"
+      ]
+    },
+    {
+      "vendorId": "D",
+      "lineId": "PK-SHP-001",
+      "state": "quoted",
+      "vendorLineName": "5 Ply Box 410x310x260 (Detergent 1 Kg)",
+      "native": {
+        "value": 43.32,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "43.32",
+      "inrPerPiece": 43.32,
+      "landedPerPiece": 43.32,
+      "trapIds": [
+        "T13"
+      ]
+    },
+    {
+      "vendorId": "D",
+      "lineId": "PK-SHP-002",
+      "state": "quoted",
+      "vendorLineName": "5 Ply Box 420x300x240 (Detergent 500g)",
+      "native": {
+        "value": 37.54,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "37.54",
+      "inrPerPiece": 37.54,
+      "landedPerPiece": 37.54,
+      "trapIds": [
+        "T13"
+      ]
+    },
+    {
+      "vendorId": "D",
+      "lineId": "PK-SHP-003",
+      "state": "quoted",
+      "vendorLineName": "5 Ply Box 380x260x180 (Bar Soap)",
+      "native": {
+        "value": 23.74,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "23.74",
+      "inrPerPiece": 23.74,
+      "landedPerPiece": 23.74,
+      "trapIds": [
+        "T13"
+      ]
+    },
+    {
+      "vendorId": "D",
+      "lineId": "PK-SHP-004",
+      "state": "quoted",
+      "vendorLineName": "5 Ply Box 400x270x230 (Dishwash)",
+      "native": {
+        "value": 35.71,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "35.71",
+      "inrPerPiece": 35.71,
+      "landedPerPiece": 35.71,
+      "trapIds": [
+        "T13"
+      ]
+    },
+    {
+      "vendorId": "D",
+      "lineId": "PK-SHP-005",
+      "state": "quoted",
+      "vendorLineName": "5 Ply Box 330x250x230 (Oil Pouch)",
+      "native": {
+        "value": 30.29,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "30.29",
+      "inrPerPiece": 30.29,
+      "landedPerPiece": 30.29,
+      "trapIds": [
+        "T13"
+      ]
+    },
+    {
+      "vendorId": "D",
+      "lineId": "PK-SHP-006",
+      "state": "quoted",
+      "vendorLineName": "7 Ply Box 340x330x310 (Oil Jar 5L)",
+      "native": {
+        "value": 63.23,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "63.23",
+      "inrPerPiece": 63.23,
+      "landedPerPiece": 63.23,
+      "trapIds": [
+        "T13"
+      ]
+    },
+    {
+      "vendorId": "D",
+      "lineId": "PK-SHP-007",
+      "state": "quoted",
+      "vendorLineName": "3 Ply Box 440x300x250 (Biscuit)",
+      "native": {
+        "value": 21.11,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "21.11",
+      "inrPerPiece": 21.11,
+      "landedPerPiece": 21.11,
+      "trapIds": [
+        "T13"
+      ]
+    },
+    {
+      "vendorId": "D",
+      "lineId": "PK-SHP-008",
+      "state": "quoted",
+      "vendorLineName": "3 Ply Box 470x330x280 (Biscuit Family)",
+      "native": {
+        "value": 26.59,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "26.59",
+      "inrPerPiece": 26.59,
+      "landedPerPiece": 26.59,
+      "trapIds": [
+        "T13"
+      ]
+    },
+    {
+      "vendorId": "D",
+      "lineId": "PK-SHP-009",
+      "state": "quoted",
+      "vendorLineName": "3 Ply Box 450x330x300 (Noodles)",
+      "native": {
+        "value": 25.43,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "25.43",
+      "inrPerPiece": 25.43,
+      "landedPerPiece": 25.43,
+      "trapIds": [
+        "T13",
+        "T11"
+      ]
+    },
+    {
+      "vendorId": "D",
+      "lineId": "PK-SHP-010",
+      "state": "quoted",
+      "vendorLineName": "5 Ply Box 400x300x270 (Tea)",
+      "native": {
+        "value": 32.86,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "32.86",
+      "inrPerPiece": 32.86,
+      "landedPerPiece": 32.86,
+      "trapIds": [
+        "T13"
+      ]
+    },
+    {
+      "vendorId": "D",
+      "lineId": "PK-SHP-011",
+      "state": "quoted",
+      "vendorLineName": "5 Ply Box 360x270x200 (Shampoo Btl)",
+      "native": {
+        "value": 24.19,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "24.19",
+      "inrPerPiece": 24.19,
+      "landedPerPiece": 24.19,
+      "trapIds": [
+        "T13"
+      ]
+    },
+    {
+      "vendorId": "D",
+      "lineId": "PK-SHP-012",
+      "state": "quoted",
+      "vendorLineName": "3 Ply Box 300x220x180 (Sachet)",
+      "native": {
+        "value": 10.67,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "10.67",
+      "inrPerPiece": 10.67,
+      "landedPerPiece": 10.67,
+      "trapIds": [
+        "T13"
+      ]
+    },
+    {
+      "vendorId": "D",
+      "lineId": "PK-SHP-013",
+      "state": "quoted",
+      "vendorLineName": "5 Ply Box 420x320x220 (Toothpaste)",
+      "native": {
+        "value": 33.26,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "33.26",
+      "inrPerPiece": 33.26,
+      "landedPerPiece": 33.26,
+      "trapIds": [
+        "T13"
+      ]
+    },
+    {
+      "vendorId": "D",
+      "lineId": "PK-SHP-014",
+      "state": "quoted",
+      "vendorLineName": "5 Ply Box 400x300x230 (Soap)",
+      "native": {
+        "value": 29.83,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "29.83",
+      "inrPerPiece": 29.83,
+      "landedPerPiece": 29.83,
+      "trapIds": [
+        "T13",
+        "T11"
+      ]
+    },
+    {
+      "vendorId": "D",
+      "lineId": "PK-SHP-015",
+      "state": "quoted",
+      "vendorLineName": "5 Ply Box 350x270x250 (Ketchup)",
+      "native": {
+        "value": 35.12,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "35.12",
+      "inrPerPiece": 35.12,
+      "landedPerPiece": 35.12,
+      "trapIds": [
+        "T13"
+      ]
+    },
+    {
+      "vendorId": "D",
+      "lineId": "PK-SHP-016",
+      "state": "quoted",
+      "vendorLineName": "3 Ply Box 380x280x200 (Masala)",
+      "native": {
+        "value": 16.47,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "16.47",
+      "inrPerPiece": 16.47,
+      "landedPerPiece": 16.47,
+      "trapIds": [
+        "T13"
+      ]
+    },
+    {
+      "vendorId": "D",
+      "lineId": "PK-SHP-017",
+      "state": "quoted",
+      "vendorLineName": "5 Ply Box 290x220x250 (Juice 1L)",
+      "native": {
+        "value": 26.13,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "26.13",
+      "inrPerPiece": 26.13,
+      "landedPerPiece": 26.13,
+      "trapIds": [
+        "T13"
+      ]
+    },
+    {
+      "vendorId": "D",
+      "lineId": "PK-SHP-018",
+      "state": "quoted",
+      "vendorLineName": "3 Ply E-Flute Mailer 300x250x120",
+      "native": {
+        "value": 10.92,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "10.92",
+      "inrPerPiece": 10.92,
+      "landedPerPiece": 10.92,
+      "trapIds": [
+        "T13"
+      ]
+    },
+    {
+      "vendorId": "D",
+      "lineId": "PK-SHP-019",
+      "state": "quoted",
+      "vendorLineName": "5 Ply Export Box 410x310x260 28BF",
+      "native": {
+        "value": 53.57,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "53.57",
+      "inrPerPiece": 53.57,
+      "landedPerPiece": 53.57,
+      "trapIds": [
+        "T13"
+      ]
+    },
+    {
+      "vendorId": "D",
+      "lineId": "PK-SHP-020",
+      "state": "quoted",
+      "vendorLineName": "5 Ply Jumbo Box 560x380x300",
+      "native": {
+        "value": 65.03,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "65.03",
+      "inrPerPiece": 65.03,
+      "landedPerPiece": 65.03,
+      "trapIds": [
+        "T13"
+      ]
+    },
+    {
+      "vendorId": "D",
+      "lineId": "PK-DCT-021",
+      "state": "quoted",
+      "vendorLineName": "Display Tray 400x300x90 4 Clr",
+      "native": {
+        "value": 9.14,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "9.14",
+      "inrPerPiece": 9.14,
+      "landedPerPiece": 9.14,
+      "trapIds": [
+        "T13"
+      ]
+    },
+    {
+      "vendorId": "D",
+      "lineId": "PK-DCT-022",
+      "state": "quoted",
+      "vendorLineName": "Juice Tray 380x260x70",
+      "native": {
+        "value": 6.65,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "6.65",
+      "inrPerPiece": 6.65,
+      "landedPerPiece": 6.65,
+      "trapIds": [
+        "T13"
+      ]
+    },
+    {
+      "vendorId": "D",
+      "lineId": "PK-DCT-023",
+      "state": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "trapIds": [
+        "T12"
+      ]
+    },
+    {
+      "vendorId": "D",
+      "lineId": "PK-DCT-024",
+      "state": "quoted",
+      "vendorLineName": "Oil Tray 330x250x100",
+      "native": {
+        "value": 7.33,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "7.33",
+      "inrPerPiece": 7.33,
+      "landedPerPiece": 7.33,
+      "trapIds": [
+        "T13"
+      ]
+    },
+    {
+      "vendorId": "D",
+      "lineId": "PK-PRT-025",
+      "state": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "trapIds": [
+        "T12"
+      ]
+    },
+    {
+      "vendorId": "D",
+      "lineId": "PK-PRT-026",
+      "state": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "trapIds": [
+        "T12"
+      ]
+    },
+    {
+      "vendorId": "D",
+      "lineId": "PK-PRT-027",
+      "state": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "trapIds": [
+        "T12"
+      ]
+    },
+    {
+      "vendorId": "D",
+      "lineId": "PK-PAD-028",
+      "state": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "trapIds": [
+        "T12"
+      ]
+    },
+    {
+      "vendorId": "D",
+      "lineId": "PK-PAD-029",
+      "state": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "trapIds": [
+        "T12"
+      ]
+    },
+    {
+      "vendorId": "D",
+      "lineId": "PK-SHP-030",
+      "state": "quoted",
+      "vendorLineName": "3 Ply Small Box 250x200x150",
+      "native": {
+        "value": 8.58,
+        "basis": "per_piece",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "8.58",
+      "inrPerPiece": 8.58,
+      "landedPerPiece": 8.58,
+      "trapIds": [
+        "T13"
+      ]
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-001",
+      "state": "quoted",
+      "native": {
+        "value": 42,
+        "basis": "per_kg",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "₹42/kg for the 5-ply",
+      "inrPerPiece": 33.93,
+      "landedPerPiece": null,
+      "landedRange": [
+        35.14,
+        36.35
+      ],
+      "specDeviation": "GSM and BF not stated; per-kg rate may assume lighter board than spec",
+      "trapIds": [
+        "T15",
+        "T17"
+      ]
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-002",
+      "state": "quoted",
+      "native": {
+        "value": 42,
+        "basis": "per_kg",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "₹42/kg for the 5-ply",
+      "inrPerPiece": 30.88,
+      "landedPerPiece": null,
+      "landedRange": [
+        31.98,
+        33.09
+      ],
+      "specDeviation": "GSM and BF not stated; per-kg rate may assume lighter board than spec",
+      "trapIds": [
+        "T15",
+        "T17"
+      ]
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-003",
+      "state": "quoted",
+      "native": {
+        "value": 42,
+        "basis": "per_kg",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "₹42/kg for the 5-ply",
+      "inrPerPiece": 19.14,
+      "landedPerPiece": null,
+      "landedRange": [
+        19.82,
+        20.51
+      ],
+      "specDeviation": "GSM and BF not stated; per-kg rate may assume lighter board than spec",
+      "trapIds": [
+        "T15",
+        "T17"
+      ]
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-004",
+      "state": "quoted",
+      "native": {
+        "value": 42,
+        "basis": "per_kg",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "₹42/kg for the 5-ply",
+      "inrPerPiece": 27.86,
+      "landedPerPiece": null,
+      "landedRange": [
+        28.86,
+        29.85
+      ],
+      "specDeviation": "GSM and BF not stated; per-kg rate may assume lighter board than spec",
+      "trapIds": [
+        "T15",
+        "T17"
+      ]
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-005",
+      "state": "quoted",
+      "native": {
+        "value": 42,
+        "basis": "per_kg",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "₹42/kg for the 5-ply",
+      "inrPerPiece": 23.3,
+      "landedPerPiece": null,
+      "landedRange": [
+        24.13,
+        24.96
+      ],
+      "specDeviation": "GSM and BF not stated; per-kg rate may assume lighter board than spec",
+      "trapIds": [
+        "T15",
+        "T17"
+      ]
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-006",
+      "state": "carried",
+      "asWritten": "rest same as last year",
+      "inrPerPiece": 63.88,
+      "landedPerPiece": null,
+      "landedRange": [
+        65.68,
+        67.48
+      ],
+      "trapIds": [
+        "T16",
+        "T17",
+        "T18"
+      ]
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-007",
+      "state": "quoted",
+      "native": {
+        "value": 38,
+        "basis": "per_kg",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "38 for the 3-ply",
+      "inrPerPiece": 15.13,
+      "landedPerPiece": null,
+      "landedRange": [
+        15.73,
+        16.32
+      ],
+      "specDeviation": "GSM and BF not stated; per-kg rate may assume lighter board than spec",
+      "trapIds": [
+        "T15",
+        "T17"
+      ]
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-008",
+      "state": "quoted",
+      "native": {
+        "value": 38,
+        "basis": "per_kg",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "38 for the 3-ply",
+      "inrPerPiece": 18.52,
+      "landedPerPiece": null,
+      "landedRange": [
+        19.25,
+        19.98
+      ],
+      "specDeviation": "GSM and BF not stated; per-kg rate may assume lighter board than spec",
+      "trapIds": [
+        "T15",
+        "T17"
+      ]
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-009",
+      "state": "quoted",
+      "native": {
+        "value": 38,
+        "basis": "per_kg",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "38 for the 3-ply",
+      "inrPerPiece": 18.65,
+      "landedPerPiece": null,
+      "landedRange": [
+        19.39,
+        20.12
+      ],
+      "specDeviation": "GSM and BF not stated; per-kg rate may assume lighter board than spec",
+      "trapIds": [
+        "T15",
+        "T17"
+      ]
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-010",
+      "state": "quoted",
+      "native": {
+        "value": 42,
+        "basis": "per_kg",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "₹42/kg for the 5-ply",
+      "inrPerPiece": 26.84,
+      "landedPerPiece": null,
+      "landedRange": [
+        27.8,
+        28.76
+      ],
+      "specDeviation": "GSM and BF not stated; per-kg rate may assume lighter board than spec",
+      "trapIds": [
+        "T15",
+        "T17"
+      ]
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-011",
+      "state": "quoted",
+      "native": {
+        "value": 42,
+        "basis": "per_kg",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "₹42/kg for the 5-ply",
+      "inrPerPiece": 20.1,
+      "landedPerPiece": null,
+      "landedRange": [
+        20.82,
+        21.54
+      ],
+      "specDeviation": "GSM and BF not stated; per-kg rate may assume lighter board than spec",
+      "trapIds": [
+        "T15",
+        "T17"
+      ]
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-012",
+      "state": "quoted",
+      "native": {
+        "value": 38,
+        "basis": "per_kg",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "38 for the 3-ply",
+      "inrPerPiece": 7.56,
+      "landedPerPiece": null,
+      "landedRange": [
+        7.86,
+        8.16
+      ],
+      "specDeviation": "GSM and BF not stated; per-kg rate may assume lighter board than spec",
+      "trapIds": [
+        "T15",
+        "T17"
+      ]
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-013",
+      "state": "quoted",
+      "native": {
+        "value": 42,
+        "basis": "per_kg",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "₹42/kg for the 5-ply",
+      "inrPerPiece": 26.87,
+      "landedPerPiece": null,
+      "landedRange": [
+        27.83,
+        28.79
+      ],
+      "specDeviation": "GSM and BF not stated; per-kg rate may assume lighter board than spec",
+      "trapIds": [
+        "T15",
+        "T17"
+      ]
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-014",
+      "state": "quoted",
+      "native": {
+        "value": 42,
+        "basis": "per_kg",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "₹42/kg for the 5-ply",
+      "inrPerPiece": 25.01,
+      "landedPerPiece": null,
+      "landedRange": [
+        25.9,
+        26.8
+      ],
+      "specDeviation": "GSM and BF not stated; per-kg rate may assume lighter board than spec",
+      "trapIds": [
+        "T15",
+        "T17"
+      ]
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-015",
+      "state": "quoted",
+      "native": {
+        "value": 42,
+        "basis": "per_kg",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "₹42/kg for the 5-ply",
+      "inrPerPiece": 26.85,
+      "landedPerPiece": null,
+      "landedRange": [
+        27.81,
+        28.77
+      ],
+      "specDeviation": "GSM and BF not stated; per-kg rate may assume lighter board than spec",
+      "trapIds": [
+        "T15",
+        "T17"
+      ]
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-016",
+      "state": "quoted",
+      "native": {
+        "value": 38,
+        "basis": "per_kg",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "38 for the 3-ply",
+      "inrPerPiece": 11.86,
+      "landedPerPiece": null,
+      "landedRange": [
+        12.33,
+        12.8
+      ],
+      "specDeviation": "GSM and BF not stated; per-kg rate may assume lighter board than spec",
+      "trapIds": [
+        "T15",
+        "T17"
+      ]
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-017",
+      "state": "quoted",
+      "native": {
+        "value": 42,
+        "basis": "per_kg",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "₹42/kg for the 5-ply",
+      "inrPerPiece": 20.18,
+      "landedPerPiece": null,
+      "landedRange": [
+        20.9,
+        21.62
+      ],
+      "specDeviation": "GSM and BF not stated; per-kg rate may assume lighter board than spec",
+      "trapIds": [
+        "T15",
+        "T17"
+      ]
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-018",
+      "state": "quoted",
+      "native": {
+        "value": 38,
+        "basis": "per_kg",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "38 for the 3-ply",
+      "inrPerPiece": 7.54,
+      "landedPerPiece": null,
+      "landedRange": [
+        7.84,
+        8.14
+      ],
+      "specDeviation": "GSM and BF not stated; per-kg rate may assume lighter board than spec",
+      "trapIds": [
+        "T15",
+        "T17"
+      ]
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-019",
+      "state": "quoted",
+      "native": {
+        "value": 42,
+        "basis": "per_kg",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "₹42/kg for the 5-ply",
+      "inrPerPiece": 39.55,
+      "landedPerPiece": null,
+      "landedRange": [
+        40.96,
+        42.38
+      ],
+      "specDeviation": "GSM and BF not stated; per-kg rate may assume lighter board than spec",
+      "trapIds": [
+        "T15",
+        "T17"
+      ]
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-020",
+      "state": "quoted",
+      "native": {
+        "value": 42,
+        "basis": "per_kg",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "₹42/kg for the 5-ply",
+      "inrPerPiece": 52.26,
+      "landedPerPiece": null,
+      "landedRange": [
+        54.13,
+        55.99
+      ],
+      "specDeviation": "GSM and BF not stated; per-kg rate may assume lighter board than spec",
+      "trapIds": [
+        "T15",
+        "T17"
+      ]
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-DCT-021",
+      "state": "missing",
+      "asWritten": "rest same as last year",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "trapIds": [
+        "T16",
+        "T18"
+      ]
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-DCT-022",
+      "state": "carried",
+      "asWritten": "rest same as last year",
+      "inrPerPiece": 6.51,
+      "landedPerPiece": null,
+      "landedRange": [
+        6.67,
+        6.82
+      ],
+      "trapIds": [
+        "T16",
+        "T17",
+        "T18"
+      ]
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-DCT-023",
+      "state": "missing",
+      "asWritten": "rest same as last year",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "trapIds": [
+        "T16",
+        "T18"
+      ]
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-DCT-024",
+      "state": "carried",
+      "asWritten": "rest same as last year",
+      "inrPerPiece": 7.54,
+      "landedPerPiece": null,
+      "landedRange": [
+        7.73,
+        7.91
+      ],
+      "trapIds": [
+        "T16",
+        "T17",
+        "T18"
+      ]
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-PRT-025",
+      "state": "missing",
+      "asWritten": "rest same as last year",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "trapIds": [
+        "T16",
+        "T18"
+      ]
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-PRT-026",
+      "state": "missing",
+      "asWritten": "rest same as last year",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "trapIds": [
+        "T16",
+        "T18"
+      ]
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-PRT-027",
+      "state": "missing",
+      "asWritten": "rest same as last year",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "trapIds": [
+        "T16",
+        "T18"
+      ]
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-PAD-028",
+      "state": "carried",
+      "asWritten": "rest same as last year",
+      "inrPerPiece": 2.34,
+      "landedPerPiece": null,
+      "landedRange": [
+        2.41,
+        2.47
+      ],
+      "trapIds": [
+        "T16",
+        "T17",
+        "T18"
+      ]
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-PAD-029",
+      "state": "missing",
+      "asWritten": "rest same as last year",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "trapIds": [
+        "T16",
+        "T18"
+      ]
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-030",
+      "state": "quoted",
+      "native": {
+        "value": 38,
+        "basis": "per_kg",
+        "currency": "INR",
+        "basisStated": true
+      },
+      "asWritten": "38 for the 3-ply",
+      "inrPerPiece": 5.79,
+      "landedPerPiece": null,
+      "landedRange": [
+        6.02,
+        6.25
+      ],
+      "specDeviation": "GSM and BF not stated; per-kg rate may assume lighter board than spec",
+      "trapIds": [
+        "T15",
+        "T17"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-001",
+      "inrPerPiece": 42.62,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-002",
+      "inrPerPiece": 38.08,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-003",
+      "inrPerPiece": 22.68,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-004",
+      "inrPerPiece": 35.06,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-005",
+      "inrPerPiece": 30.24,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-006",
+      "inrPerPiece": 63.23,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-007",
+      "inrPerPiece": 22.31,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-008",
+      "inrPerPiece": 25.95,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-009",
+      "inrPerPiece": 26.08,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-010",
+      "inrPerPiece": 31.8,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-011",
+      "inrPerPiece": 24.93,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-012",
+      "inrPerPiece": 10.73,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-013",
+      "inrPerPiece": 34.5,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-014",
+      "inrPerPiece": 30.25,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-015",
+      "inrPerPiece": 33.53,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-016",
+      "inrPerPiece": 17.72,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-017",
+      "inrPerPiece": 27.33,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-018",
+      "inrPerPiece": 10.98,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-019",
+      "inrPerPiece": 55.27,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-020",
+      "inrPerPiece": 68.48,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-DCT-024",
+      "inrPerPiece": 7.52,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-PRT-025",
+      "inrPerPiece": 6.72,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-PRT-026",
+      "inrPerPiece": 3.74,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-PRT-027",
+      "inrPerPiece": 9.18,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-PAD-028",
+      "inrPerPiece": 2.41,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-PAD-029",
+      "inrPerPiece": 47.62,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "A",
+      "lineId": "PK-SHP-030",
+      "inrPerPiece": 8.15,
+      "ref": "PO-2025-118 (FY 2025-26 contract)"
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-006",
+      "inrPerPiece": 63.88,
+      "ref": "PO-2025-131 (FY 2025-26)"
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-DCT-022",
+      "inrPerPiece": 6.51,
+      "ref": "PO-2025-131 (FY 2025-26)"
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-DCT-024",
+      "inrPerPiece": 7.54,
+      "ref": "PO-2025-131 (FY 2025-26)"
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-PAD-028",
+      "inrPerPiece": 2.34,
+      "ref": "PO-2025-131 (FY 2025-26)"
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-001",
+      "inrPerPiece": 40.99,
+      "ref": "PO-2025-131 (FY 2025-26)"
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-002",
+      "inrPerPiece": 36,
+      "ref": "PO-2025-131 (FY 2025-26)"
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-003",
+      "inrPerPiece": 22.29,
+      "ref": "PO-2025-131 (FY 2025-26)"
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-004",
+      "inrPerPiece": 33.7,
+      "ref": "PO-2025-131 (FY 2025-26)"
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-005",
+      "inrPerPiece": 28.09,
+      "ref": "PO-2025-131 (FY 2025-26)"
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-007",
+      "inrPerPiece": 20.33,
+      "ref": "PO-2025-131 (FY 2025-26)"
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-008",
+      "inrPerPiece": 24.83,
+      "ref": "PO-2025-131 (FY 2025-26)"
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-009",
+      "inrPerPiece": 24.87,
+      "ref": "PO-2025-131 (FY 2025-26)"
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-010",
+      "inrPerPiece": 31.33,
+      "ref": "PO-2025-131 (FY 2025-26)"
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-011",
+      "inrPerPiece": 23.52,
+      "ref": "PO-2025-131 (FY 2025-26)"
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-012",
+      "inrPerPiece": 10.17,
+      "ref": "PO-2025-131 (FY 2025-26)"
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-013",
+      "inrPerPiece": 31.37,
+      "ref": "PO-2025-131 (FY 2025-26)"
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-014",
+      "inrPerPiece": 29.07,
+      "ref": "PO-2025-131 (FY 2025-26)"
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-015",
+      "inrPerPiece": 32.49,
+      "ref": "PO-2025-131 (FY 2025-26)"
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-016",
+      "inrPerPiece": 15.87,
+      "ref": "PO-2025-131 (FY 2025-26)"
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-017",
+      "inrPerPiece": 24.48,
+      "ref": "PO-2025-131 (FY 2025-26)"
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-018",
+      "inrPerPiece": 10.54,
+      "ref": "PO-2025-131 (FY 2025-26)"
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-019",
+      "inrPerPiece": 51.12,
+      "ref": "PO-2025-131 (FY 2025-26)"
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-020",
+      "inrPerPiece": 62.98,
+      "ref": "PO-2025-131 (FY 2025-26)"
+    },
+    {
+      "vendorId": "E",
+      "lineId": "PK-SHP-030",
+      "inrPerPiece": 7.95,
+      "ref": "PO-2025-131 (FY 2025-26)"
+    }
+  ],
+  "traps": [
+    {
+      "id": "T01",
+      "vendorId": "A",
+      "lineIds": [
+        "PK-PRT-025",
+        "PK-PRT-026",
+        "PK-PRT-027",
+        "PK-PAD-029"
+      ],
+      "what": "Priced per 100 pieces (unit stated)",
+      "expected": "convert_and_show"
+    },
+    {
+      "id": "T02",
+      "vendorId": "A",
+      "lineIds": [
+        "PK-PAD-028"
+      ],
+      "what": "Per-100 price with no unit written (100x the others)",
+      "expected": "flag"
+    },
+    {
+      "id": "T03",
+      "vendorId": "A",
+      "lineIds": [
+        "PK-DCT-021",
+        "PK-DCT-022",
+        "PK-DCT-023"
+      ],
+      "what": "Quoted 27 of 30 lines",
+      "expected": "missing_not_zero"
+    },
+    {
+      "id": "T04",
+      "vendorId": "A",
+      "lineIds": [],
+      "what": "States GST 12% (stale; boxes are 5% since 22 Sep 2025)",
+      "expected": "flag"
+    },
+    {
+      "id": "T05",
+      "vendorId": "B",
+      "lineIds": [
+        "PK-SHP-001",
+        "PK-SHP-002",
+        "PK-SHP-003",
+        "PK-SHP-004",
+        "PK-SHP-005",
+        "PK-SHP-006",
+        "PK-SHP-007",
+        "PK-SHP-008",
+        "PK-SHP-009",
+        "PK-SHP-010",
+        "PK-SHP-011",
+        "PK-SHP-012",
+        "PK-SHP-013",
+        "PK-SHP-014",
+        "PK-SHP-015",
+        "PK-SHP-016",
+        "PK-SHP-017",
+        "PK-SHP-018",
+        "PK-SHP-019",
+        "PK-SHP-020",
+        "PK-DCT-021",
+        "PK-DCT-022",
+        "PK-DCT-023",
+        "PK-DCT-024",
+        "PK-PRT-025",
+        "PK-PRT-026",
+        "PK-PRT-027",
+        "PK-PAD-028",
+        "PK-PAD-029",
+        "PK-SHP-030"
+      ],
+      "what": "Quoted in USD",
+      "expected": "convert_and_show"
+    },
+    {
+      "id": "T06",
+      "vendorId": "B",
+      "lineIds": [],
+      "what": "3% discount in a footnote, conditional on monthly offtake above 5 MT",
+      "expected": "condition_not_baked_in"
+    },
+    {
+      "id": "T07",
+      "vendorId": "C",
+      "lineIds": [
+        "PK-SHP-001",
+        "PK-SHP-002",
+        "PK-SHP-003",
+        "PK-SHP-004",
+        "PK-SHP-005",
+        "PK-SHP-006",
+        "PK-SHP-007",
+        "PK-SHP-008",
+        "PK-SHP-009",
+        "PK-SHP-010",
+        "PK-SHP-011",
+        "PK-SHP-012",
+        "PK-SHP-013",
+        "PK-SHP-014",
+        "PK-SHP-015",
+        "PK-SHP-016",
+        "PK-SHP-017",
+        "PK-SHP-018",
+        "PK-SHP-019",
+        "PK-SHP-020",
+        "PK-DCT-021",
+        "PK-DCT-022",
+        "PK-DCT-023",
+        "PK-DCT-024",
+        "PK-PRT-025",
+        "PK-PRT-026",
+        "PK-PRT-027",
+        "PK-PAD-028",
+        "PK-PAD-029",
+        "PK-SHP-030"
+      ],
+      "what": "Ex-works; freight about ₹2.10/kg stated in prose",
+      "expected": "landed_cost"
+    },
+    {
+      "id": "T08",
+      "vendorId": "C",
+      "lineIds": [
+        "PK-SHP-001",
+        "PK-SHP-002",
+        "PK-SHP-003",
+        "PK-SHP-004",
+        "PK-SHP-005",
+        "PK-SHP-006",
+        "PK-SHP-007",
+        "PK-SHP-008",
+        "PK-SHP-009",
+        "PK-SHP-010",
+        "PK-SHP-011",
+        "PK-SHP-012",
+        "PK-SHP-013",
+        "PK-SHP-014",
+        "PK-SHP-015",
+        "PK-SHP-016",
+        "PK-SHP-017",
+        "PK-SHP-018",
+        "PK-SHP-019",
+        "PK-SHP-020",
+        "PK-DCT-021",
+        "PK-DCT-022",
+        "PK-DCT-023",
+        "PK-DCT-024",
+        "PK-PRT-025",
+        "PK-PRT-026",
+        "PK-PRT-027",
+        "PK-PAD-028",
+        "PK-PAD-029",
+        "PK-SHP-030"
+      ],
+      "what": "Plate and die charges extra, stated in prose",
+      "expected": "landed_cost"
+    },
+    {
+      "id": "T09",
+      "vendorId": "C",
+      "lineIds": [
+        "PK-SHP-001",
+        "PK-SHP-004"
+      ],
+      "what": "GSM downgrade vs spec",
+      "expected": "flag"
+    },
+    {
+      "id": "T10",
+      "vendorId": "C",
+      "lineIds": [],
+      "what": "Validity only 7 days",
+      "expected": "flag"
+    },
+    {
+      "id": "T11",
+      "vendorId": "D",
+      "lineIds": [
+        "PK-SHP-009",
+        "PK-SHP-014"
+      ],
+      "what": "Smudged digit on the photo",
+      "expected": "flag"
+    },
+    {
+      "id": "T12",
+      "vendorId": "D",
+      "lineIds": [
+        "PK-DCT-023",
+        "PK-PRT-025",
+        "PK-PRT-026",
+        "PK-PRT-027",
+        "PK-PAD-028",
+        "PK-PAD-029"
+      ],
+      "what": "Rate card covers 24 of 30 lines",
+      "expected": "missing_not_zero"
+    },
+    {
+      "id": "T13",
+      "vendorId": "D",
+      "lineIds": [
+        "PK-SHP-001",
+        "PK-SHP-002",
+        "PK-SHP-003",
+        "PK-SHP-004",
+        "PK-SHP-005",
+        "PK-SHP-006",
+        "PK-SHP-007",
+        "PK-SHP-008",
+        "PK-SHP-009",
+        "PK-SHP-010",
+        "PK-SHP-011",
+        "PK-SHP-012",
+        "PK-SHP-013",
+        "PK-SHP-014",
+        "PK-SHP-015",
+        "PK-SHP-016",
+        "PK-SHP-017",
+        "PK-SHP-018",
+        "PK-SHP-019",
+        "PK-SHP-020",
+        "PK-DCT-021",
+        "PK-DCT-022",
+        "PK-DCT-024",
+        "PK-SHP-030"
+      ],
+      "what": "Own item names, no buyer codes (line matching)",
+      "expected": "convert_and_show"
+    },
+    {
+      "id": "T14",
+      "vendorId": "D",
+      "lineIds": [],
+      "what": "Says ISO certified, attached certificate expired 31-03-2026",
+      "expected": "fail_questionnaire"
+    },
+    {
+      "id": "T15",
+      "vendorId": "E",
+      "lineIds": [
+        "PK-SHP-001",
+        "PK-SHP-002",
+        "PK-SHP-003",
+        "PK-SHP-004",
+        "PK-SHP-005",
+        "PK-SHP-007",
+        "PK-SHP-008",
+        "PK-SHP-009",
+        "PK-SHP-010",
+        "PK-SHP-011",
+        "PK-SHP-012",
+        "PK-SHP-013",
+        "PK-SHP-014",
+        "PK-SHP-015",
+        "PK-SHP-016",
+        "PK-SHP-017",
+        "PK-SHP-018",
+        "PK-SHP-019",
+        "PK-SHP-020",
+        "PK-SHP-030"
+      ],
+      "what": "Per-kg rate; needs box weight from spec",
+      "expected": "convert_and_show"
+    },
+    {
+      "id": "T16",
+      "vendorId": "E",
+      "lineIds": [
+        "PK-SHP-006",
+        "PK-DCT-022",
+        "PK-DCT-024",
+        "PK-PAD-028"
+      ],
+      "what": "'Rest same as last year'",
+      "expected": "carried_and_flag"
+    },
+    {
+      "id": "T17",
+      "vendorId": "E",
+      "lineIds": [],
+      "what": "Freight extra, amount unknown",
+      "expected": "landed_cost"
+    },
+    {
+      "id": "T18",
+      "vendorId": "E",
+      "lineIds": [
+        "PK-SHP-006",
+        "PK-DCT-021",
+        "PK-DCT-022",
+        "PK-DCT-023",
+        "PK-DCT-024",
+        "PK-PRT-025",
+        "PK-PRT-026",
+        "PK-PRT-027",
+        "PK-PAD-028",
+        "PK-PAD-029"
+      ],
+      "what": "Ambiguous scope: does '3-ply'/'5-ply' include trays, partitions and pads?",
+      "expected": "flag"
+    },
+    {
+      "id": "T19",
+      "vendorId": "E",
+      "lineIds": [],
+      "what": "Questionnaire not answered",
+      "expected": "fail_questionnaire"
+    },
+    {
+      "id": "T20",
+      "vendorId": "C",
+      "lineIds": [],
+      "what": "Fails must-haves: no in-house bursting test, capacity, lead time",
+      "expected": "fail_questionnaire"
+    },
+    {
+      "id": "T21",
+      "vendorId": "C",
+      "lineIds": [
+        "PK-SHP-020"
+      ],
+      "what": "Price 22% above the market for this line",
+      "expected": "flag"
+    }
+  ]
+}

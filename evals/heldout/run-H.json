@@ -1,0 +1,1418 @@
+{
+  "ranAt": "2026-10-09T15:09:03.400Z",
+  "extraction": {
+    "vendor_name": "Unique Cartons",
+    "lines": [
+      {
+        "rfx_line_id": "PK-SHP-001",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-002",
+        "source_ref": "Sheet1!H3",
+        "source_quote": "39.80",
+        "vendor_item_text": "Detergent 500g x 24 shipper",
+        "match_basis": "buyer_code",
+        "scope": "explicit_line",
+        "price_status": "read_clearly",
+        "price_text": "39.80",
+        "price_value": 39.8,
+        "unit_basis": "per_piece",
+        "unit_inferred": false,
+        "currency": "INR",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-003",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-004",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-005",
+        "source_ref": "Sheet1!H4",
+        "source_quote": "30.40",
+        "vendor_item_text": "Edible oil 1L pouch x 12 shipper",
+        "match_basis": "buyer_code",
+        "scope": "explicit_line",
+        "price_status": "read_clearly",
+        "price_text": "30.40",
+        "price_value": 30.4,
+        "unit_basis": "per_piece",
+        "unit_inferred": false,
+        "currency": "INR",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-006",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-007",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-008",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-009",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-010",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-011",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-012",
+        "source_ref": "Sheet1!H5",
+        "source_quote": "31.90",
+        "vendor_item_text": "Soap 100g x 144 shipper",
+        "match_basis": "buyer_code",
+        "scope": "explicit_line",
+        "price_status": "read_clearly",
+        "price_text": "31.90",
+        "price_value": 31.9,
+        "unit_basis": "per_piece",
+        "unit_inferred": false,
+        "currency": "INR",
+        "spec_deviation": "Vendor assigns PK-SHP-012 to 'Soap 100g x 144 shipper', with dimensions 400x300x230 mm and 5 ply; RFQ PK-SHP-012 is shampoo sachet strips x 20, 300x220x180 mm, 3-ply B.",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-013",
+        "source_ref": "Sheet1!H6",
+        "source_quote": "34.10",
+        "vendor_item_text": "Toothpaste 150g x 72 shipper",
+        "match_basis": "dimensions_and_ply",
+        "scope": "explicit_line",
+        "price_status": "read_clearly",
+        "price_text": "34.10",
+        "price_value": 34.1,
+        "unit_basis": "per_piece",
+        "unit_inferred": false,
+        "currency": "INR",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-014",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-015",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-016",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-017",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-018",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-019",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-020",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-DCT-021",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-DCT-022",
+        "source_ref": "Sheet1!H10",
+        "source_quote": "6.85",
+        "vendor_item_text": "Juice 200ml shrink tray",
+        "match_basis": "dimensions_and_ply",
+        "scope": "explicit_line",
+        "price_status": "read_clearly",
+        "price_text": "6.85",
+        "price_value": 6.85,
+        "unit_basis": "per_piece",
+        "unit_inferred": false,
+        "currency": "INR",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-DCT-023",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-DCT-024",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-PRT-025",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-PRT-026",
+        "source_ref": "Sheet1!H8",
+        "source_quote": "on request",
+        "vendor_item_text": "Partition set 2x2 oil jar",
+        "match_basis": "dimensions_and_ply",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "on request",
+        "price_value": -1,
+        "unit_basis": "per_100",
+        "unit_inferred": false,
+        "currency": "INR",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-PRT-027",
+        "source_ref": "Sheet1!H7",
+        "source_quote": "960",
+        "vendor_item_text": "Partition set 4x6 shampoo",
+        "match_basis": "dimensions_and_ply",
+        "scope": "explicit_line",
+        "price_status": "read_clearly",
+        "price_text": "960",
+        "price_value": 960,
+        "unit_basis": "per_100",
+        "unit_inferred": false,
+        "currency": "INR",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-PAD-028",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-PAD-029",
+        "source_ref": "Sheet1!H9",
+        "source_quote": "47.50",
+        "vendor_item_text": "Pallet tier sheet",
+        "match_basis": "buyer_code",
+        "scope": "explicit_line",
+        "price_status": "read_clearly",
+        "price_text": "47.50",
+        "price_value": 47.5,
+        "unit_basis": "per_piece",
+        "unit_inferred": false,
+        "currency": "INR",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-030",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      }
+    ],
+    "conditions": [
+      {
+        "kind": "gst",
+        "source_ref": "Sheet1!A12",
+        "source_quote": "Rates excl. GST 5%.",
+        "summary": "Rates exclude GST; GST is 5%.",
+        "percent": 5,
+        "amount_inr": -1,
+        "amount_basis": "not_applicable",
+        "days": -1,
+        "condition": "",
+        "gst_basis": "prices_exclude_gst",
+        "freight_basis": "not_about_freight"
+      },
+      {
+        "kind": "freight",
+        "source_ref": "Sheet1!A12",
+        "source_quote": "Freight extra @ Rs 2.50 per kg.",
+        "summary": "Freight charged extra at Rs 2.50 per kg.",
+        "percent": -1,
+        "amount_inr": 2.5,
+        "amount_basis": "per_kg",
+        "days": -1,
+        "condition": "",
+        "gst_basis": "not_about_gst",
+        "freight_basis": "extra_amount_stated"
+      },
+      {
+        "kind": "validity",
+        "source_ref": "Sheet1!A12",
+        "source_quote": "Validity 20 days.",
+        "summary": "Quotation valid for 20 days.",
+        "percent": -1,
+        "amount_inr": -1,
+        "amount_basis": "not_applicable",
+        "days": 20,
+        "condition": "",
+        "gst_basis": "not_about_gst",
+        "freight_basis": "not_about_freight"
+      },
+      {
+        "kind": "payment",
+        "source_ref": "Sheet1!A12",
+        "source_quote": "Payment 60 days.",
+        "summary": "Payment term is 60 days; starting event not stated.",
+        "percent": -1,
+        "amount_inr": -1,
+        "amount_basis": "not_applicable",
+        "days": 60,
+        "condition": "",
+        "gst_basis": "not_about_gst",
+        "freight_basis": "not_about_freight"
+      }
+    ],
+    "answers": [
+      {
+        "question_id": "Q01",
+        "answer_text": "",
+        "source_quote": ""
+      },
+      {
+        "question_id": "Q02",
+        "answer_text": "",
+        "source_quote": ""
+      },
+      {
+        "question_id": "Q03",
+        "answer_text": "",
+        "source_quote": ""
+      },
+      {
+        "question_id": "Q04",
+        "answer_text": "",
+        "source_quote": ""
+      },
+      {
+        "question_id": "Q05",
+        "answer_text": "",
+        "source_quote": ""
+      },
+      {
+        "question_id": "Q06",
+        "answer_text": "",
+        "source_quote": ""
+      },
+      {
+        "question_id": "Q07",
+        "answer_text": "",
+        "source_quote": ""
+      },
+      {
+        "question_id": "Q08",
+        "answer_text": "",
+        "source_quote": ""
+      },
+      {
+        "question_id": "Q09",
+        "answer_text": "",
+        "source_quote": ""
+      },
+      {
+        "question_id": "Q10",
+        "answer_text": "",
+        "source_quote": ""
+      }
+    ],
+    "attachments_mentioned": []
+  },
+  "cells": [
+    {
+      "vendorId": "H",
+      "lineId": "PK-SHP-001",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "H_UniqueCartons_quote.csv",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "H",
+      "lineId": "PK-SHP-002",
+      "status": "verified",
+      "inrPerPiece": 39.8,
+      "landedPerPiece": 41.64,
+      "conversion": [],
+      "checks": [
+        {
+          "id": "grounded",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "cell_address",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "quote_value",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "line_match",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "magnitude",
+          "ok": true,
+          "reason": ""
+        }
+      ],
+      "reasons": [],
+      "source": {
+        "file": "H_UniqueCartons_quote.csv",
+        "ref": "Sheet1!H3",
+        "quote": "39.80",
+        "asWritten": "39.80"
+      }
+    },
+    {
+      "vendorId": "H",
+      "lineId": "PK-SHP-003",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "H_UniqueCartons_quote.csv",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "H",
+      "lineId": "PK-SHP-004",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "H_UniqueCartons_quote.csv",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "H",
+      "lineId": "PK-SHP-005",
+      "status": "verified",
+      "inrPerPiece": 30.4,
+      "landedPerPiece": 31.79,
+      "conversion": [],
+      "checks": [
+        {
+          "id": "grounded",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "cell_address",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "quote_value",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "line_match",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "magnitude",
+          "ok": true,
+          "reason": ""
+        }
+      ],
+      "reasons": [],
+      "source": {
+        "file": "H_UniqueCartons_quote.csv",
+        "ref": "Sheet1!H4",
+        "quote": "30.40",
+        "asWritten": "30.40"
+      }
+    },
+    {
+      "vendorId": "H",
+      "lineId": "PK-SHP-006",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "H_UniqueCartons_quote.csv",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "H",
+      "lineId": "PK-SHP-007",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "H_UniqueCartons_quote.csv",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "H",
+      "lineId": "PK-SHP-008",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "H_UniqueCartons_quote.csv",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "H",
+      "lineId": "PK-SHP-009",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "H_UniqueCartons_quote.csv",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "H",
+      "lineId": "PK-SHP-010",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "H_UniqueCartons_quote.csv",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "H",
+      "lineId": "PK-SHP-011",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "H_UniqueCartons_quote.csv",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "H",
+      "lineId": "PK-SHP-012",
+      "status": "needs_review",
+      "inrPerPiece": 31.9,
+      "landedPerPiece": 32.4,
+      "conversion": [],
+      "checks": [
+        {
+          "id": "grounded",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "cell_address",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "quote_value",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "line_match",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "spec_deviation",
+          "ok": false,
+          "reason": "Spec deviation: Vendor assigns PK-SHP-012 to 'Soap 100g x 144 shipper', with dimensions 400x300x230 mm and 5 ply; RFQ PK-SHP-012 is shampoo sachet strips x 20, 300x220x180 mm, 3-ply B."
+        },
+        {
+          "id": "magnitude",
+          "ok": false,
+          "reason": "Works out to ₹160/kg for this box; plausible range is ₹30–90/kg"
+        }
+      ],
+      "reasons": [
+        "Spec deviation: Vendor assigns PK-SHP-012 to 'Soap 100g x 144 shipper', with dimensions 400x300x230 mm and 5 ply; RFQ PK-SHP-012 is shampoo sachet strips x 20, 300x220x180 mm, 3-ply B.",
+        "Works out to ₹160/kg for this box; plausible range is ₹30–90/kg"
+      ],
+      "source": {
+        "file": "H_UniqueCartons_quote.csv",
+        "ref": "Sheet1!H5",
+        "quote": "31.90",
+        "asWritten": "31.90"
+      }
+    },
+    {
+      "vendorId": "H",
+      "lineId": "PK-SHP-013",
+      "status": "verified",
+      "inrPerPiece": 34.1,
+      "landedPerPiece": 35.7,
+      "conversion": [],
+      "checks": [
+        {
+          "id": "grounded",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "cell_address",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "quote_value",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "line_match",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "magnitude",
+          "ok": true,
+          "reason": ""
+        }
+      ],
+      "reasons": [],
+      "source": {
+        "file": "H_UniqueCartons_quote.csv",
+        "ref": "Sheet1!H6",
+        "quote": "34.10",
+        "asWritten": "34.10"
+      }
+    },
+    {
+      "vendorId": "H",
+      "lineId": "PK-SHP-014",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "H_UniqueCartons_quote.csv",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "H",
+      "lineId": "PK-SHP-015",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "H_UniqueCartons_quote.csv",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "H",
+      "lineId": "PK-SHP-016",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "H_UniqueCartons_quote.csv",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "H",
+      "lineId": "PK-SHP-017",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "H_UniqueCartons_quote.csv",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "H",
+      "lineId": "PK-SHP-018",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "H_UniqueCartons_quote.csv",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "H",
+      "lineId": "PK-SHP-019",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "H_UniqueCartons_quote.csv",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "H",
+      "lineId": "PK-SHP-020",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "H_UniqueCartons_quote.csv",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "H",
+      "lineId": "PK-DCT-021",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "H_UniqueCartons_quote.csv",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "H",
+      "lineId": "PK-DCT-022",
+      "status": "verified",
+      "inrPerPiece": 6.85,
+      "landedPerPiece": 7.11,
+      "conversion": [],
+      "checks": [
+        {
+          "id": "grounded",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "cell_address",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "quote_value",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "line_match",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "magnitude",
+          "ok": true,
+          "reason": ""
+        }
+      ],
+      "reasons": [],
+      "source": {
+        "file": "H_UniqueCartons_quote.csv",
+        "ref": "Sheet1!H10",
+        "quote": "6.85",
+        "asWritten": "6.85"
+      }
+    },
+    {
+      "vendorId": "H",
+      "lineId": "PK-DCT-023",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "H_UniqueCartons_quote.csv",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "H",
+      "lineId": "PK-DCT-024",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "H_UniqueCartons_quote.csv",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "H",
+      "lineId": "PK-PRT-025",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "H_UniqueCartons_quote.csv",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "H",
+      "lineId": "PK-PRT-026",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "H_UniqueCartons_quote.csv",
+        "ref": "Sheet1!H8",
+        "quote": "on request",
+        "asWritten": "on request"
+      }
+    },
+    {
+      "vendorId": "H",
+      "lineId": "PK-PRT-027",
+      "status": "converted",
+      "inrPerPiece": 9.6,
+      "landedPerPiece": 10.02,
+      "conversion": [
+        "÷ 100 (quoted per 100)"
+      ],
+      "checks": [
+        {
+          "id": "grounded",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "cell_address",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "quote_value",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "line_match",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "magnitude",
+          "ok": true,
+          "reason": ""
+        }
+      ],
+      "reasons": [],
+      "source": {
+        "file": "H_UniqueCartons_quote.csv",
+        "ref": "Sheet1!H7",
+        "quote": "960",
+        "asWritten": "960"
+      }
+    },
+    {
+      "vendorId": "H",
+      "lineId": "PK-PAD-028",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "H_UniqueCartons_quote.csv",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "H",
+      "lineId": "PK-PAD-029",
+      "status": "verified",
+      "inrPerPiece": 47.5,
+      "landedPerPiece": 49.77,
+      "conversion": [],
+      "checks": [
+        {
+          "id": "grounded",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "cell_address",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "quote_value",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "line_match",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "magnitude",
+          "ok": true,
+          "reason": ""
+        }
+      ],
+      "reasons": [],
+      "source": {
+        "file": "H_UniqueCartons_quote.csv",
+        "ref": "Sheet1!H9",
+        "quote": "47.50",
+        "asWritten": "47.50"
+      }
+    },
+    {
+      "vendorId": "H",
+      "lineId": "PK-SHP-030",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "H_UniqueCartons_quote.csv",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    }
+  ],
+  "terms": {
+    "vendorId": "H",
+    "freight": {
+      "kind": "extra_stated",
+      "inrPerKg": 2.5,
+      "quote": "Freight extra @ Rs 2.50 per kg."
+    },
+    "tooling": {},
+    "discounts": [],
+    "gst": {
+      "basis": "exclusive",
+      "rate": 5,
+      "quote": "Rates excl. GST 5%."
+    },
+    "flags": [],
+    "conditions": [
+      {
+        "kind": "gst",
+        "source_ref": "Sheet1!A12",
+        "source_quote": "Rates excl. GST 5%.",
+        "summary": "Rates exclude GST; GST is 5%.",
+        "percent": 5,
+        "amount_inr": -1,
+        "amount_basis": "not_applicable",
+        "days": -1,
+        "condition": "",
+        "gst_basis": "prices_exclude_gst",
+        "freight_basis": "not_about_freight"
+      },
+      {
+        "kind": "freight",
+        "source_ref": "Sheet1!A12",
+        "source_quote": "Freight extra @ Rs 2.50 per kg.",
+        "summary": "Freight charged extra at Rs 2.50 per kg.",
+        "percent": -1,
+        "amount_inr": 2.5,
+        "amount_basis": "per_kg",
+        "days": -1,
+        "condition": "",
+        "gst_basis": "not_about_gst",
+        "freight_basis": "extra_amount_stated"
+      },
+      {
+        "kind": "validity",
+        "source_ref": "Sheet1!A12",
+        "source_quote": "Validity 20 days.",
+        "summary": "Quotation valid for 20 days.",
+        "percent": -1,
+        "amount_inr": -1,
+        "amount_basis": "not_applicable",
+        "days": 20,
+        "condition": "",
+        "gst_basis": "not_about_gst",
+        "freight_basis": "not_about_freight"
+      },
+      {
+        "kind": "payment",
+        "source_ref": "Sheet1!A12",
+        "source_quote": "Payment 60 days.",
+        "summary": "Payment term is 60 days; starting event not stated.",
+        "percent": -1,
+        "amount_inr": -1,
+        "amount_basis": "not_applicable",
+        "days": 60,
+        "condition": "",
+        "gst_basis": "not_about_gst",
+        "freight_basis": "not_about_freight"
+      }
+    ],
+    "validityDays": 20,
+    "paymentDays": 60
+  },
+  "aiCalls": []
+}

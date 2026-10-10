@@ -1,0 +1,18 @@
+{
+  "note": "Hand-annotated truth for the held-out reply data/heldout/F_GaneshKraft_email.txt. Written by hand, not by the generator. INR per piece, ex-GST, before freight.",
+  "vendorId": "F",
+  "freightInrPerKg": 1.8,
+  "validityDays": 15,
+  "quoted": {
+    "PK-SHP-001": 44.90, "PK-SHP-002": 40.20, "PK-SHP-004": 36.80, "PK-SHP-005": 30.95,
+    "PK-SHP-007": 23.10, "PK-SHP-009": 27.40, "PK-SHP-013": 33.90, "PK-SHP-014": 31.60,
+    "PK-PAD-028": 2.45, "PK-DCT-022": 6.70, "PK-SHP-030": 8.70, "PK-SHP-016": 16.90
+  },
+  "traps": [
+    "Sizes in cm, not mm (line matching by size)",
+    "Layer pad priced per 1000",
+    "Sl 5 revised inside the same email (22.80 superseded by 23.10)",
+    "Freight extra at a stated per-kg rate",
+    "No buyer item codes; 12 of 30 lines; no questionnaire"
+  ]
+}

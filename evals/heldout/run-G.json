@@ -1,0 +1,1481 @@
+{
+  "ranAt": "2026-10-09T15:09:02.362Z",
+  "extraction": {
+    "vendor_name": "Om Sai Packaging Industries",
+    "lines": [
+      {
+        "rfx_line_id": "PK-SHP-001",
+        "source_ref": "L10",
+        "source_quote": "PK-SHP-001  Detergent 1kg shipper  16.1\" x 12.2\" x 10.2\"  5 ply  Rs 47.25",
+        "vendor_item_text": "Detergent 1kg shipper  16.1\" x 12.2\" x 10.2\"  5 ply",
+        "match_basis": "buyer_code",
+        "scope": "explicit_line",
+        "price_status": "read_clearly",
+        "price_text": "Rs 47.25",
+        "price_value": 47.25,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "INR",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-002",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-003",
+        "source_ref": "L11",
+        "source_quote": "Bar soap shipper  15\" x 10.2\" x 7.1\"  5 ply  Rs 26.25",
+        "vendor_item_text": "Bar soap shipper  15\" x 10.2\" x 7.1\"  5 ply",
+        "match_basis": "dimensions_and_ply",
+        "scope": "explicit_line",
+        "price_status": "read_clearly",
+        "price_text": "Rs 26.25",
+        "price_value": 26.25,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "INR",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-004",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-005",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-006",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-007",
+        "source_ref": "L12",
+        "source_quote": "PK-SHP-007  Biscuit 100g shipper  17.3\" x 11.8\" x 9.8\"  3 ply  Rs 24.15",
+        "vendor_item_text": "Biscuit 100g shipper  17.3\" x 11.8\" x 9.8\"  3 ply",
+        "match_basis": "buyer_code",
+        "scope": "explicit_line",
+        "price_status": "read_clearly",
+        "price_text": "Rs 24.15",
+        "price_value": 24.15,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "INR",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-008",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-009",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-010",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-011",
+        "source_ref": "L13",
+        "source_quote": "Shampoo bottle shipper  14.2\" x 10.6\" x 7.9\"  5 ply  Rs 27.30",
+        "vendor_item_text": "Shampoo bottle shipper  14.2\" x 10.6\" x 7.9\"  5 ply",
+        "match_basis": "dimensions_and_ply",
+        "scope": "explicit_line",
+        "price_status": "read_clearly",
+        "price_text": "Rs 27.30",
+        "price_value": 27.3,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "INR",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-012",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-013",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-014",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-015",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-016",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-017",
+        "source_ref": "L14",
+        "source_quote": "PK-SHP-017  Juice 1L shipper  11.4\" x 8.7\" x 9.8\"  5 ply  Rs 28.35",
+        "vendor_item_text": "Juice 1L shipper  11.4\" x 8.7\" x 9.8\"  5 ply",
+        "match_basis": "buyer_code",
+        "scope": "explicit_line",
+        "price_status": "read_clearly",
+        "price_text": "Rs 28.35",
+        "price_value": 28.35,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "INR",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-018",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-019",
+        "source_ref": "L15",
+        "source_quote": "PK-SHP-019  Export detergent shipper 28 BF  16.1\" x 12.2\" x 10.2\"  5 ply  Rs 59.85",
+        "vendor_item_text": "Export detergent shipper 28 BF  16.1\" x 12.2\" x 10.2\"  5 ply",
+        "match_basis": "buyer_code",
+        "scope": "explicit_line",
+        "price_status": "read_clearly",
+        "price_text": "Rs 59.85",
+        "price_value": 59.85,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "INR",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-020",
+        "source_ref": "L16",
+        "source_quote": "Club store jumbo shipper  22\" x 15\" x 11.8\"  5 ply  Rs 72.45",
+        "vendor_item_text": "Club store jumbo shipper  22\" x 15\" x 11.8\"  5 ply",
+        "match_basis": "dimensions_and_ply",
+        "scope": "explicit_line",
+        "price_status": "read_clearly",
+        "price_text": "Rs 72.45",
+        "price_value": 72.45,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "INR",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-DCT-021",
+        "source_ref": "L17",
+        "source_quote": "PK-DCT-021  Biscuit display tray 4 colour  15.7\" x 11.8\" x 3.5\"  3 ply  Rs 10.50",
+        "vendor_item_text": "Biscuit display tray 4 colour  15.7\" x 11.8\" x 3.5\"  3 ply",
+        "match_basis": "buyer_code",
+        "scope": "explicit_line",
+        "price_status": "read_clearly",
+        "price_text": "Rs 10.50",
+        "price_value": 10.5,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "INR",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-DCT-022",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-DCT-023",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-DCT-024",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-PRT-025",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-PRT-026",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-PRT-027",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-PAD-028",
+        "source_ref": "L18",
+        "source_quote": "Layer pad  15.7\" x 11.8\"  3 ply  Rs 2730 per 1000 pcs",
+        "vendor_item_text": "Layer pad  15.7\" x 11.8\"  3 ply",
+        "match_basis": "dimensions_and_ply",
+        "scope": "explicit_line",
+        "price_status": "read_clearly",
+        "price_text": "Rs 2730 per 1000 pcs",
+        "price_value": 2730,
+        "unit_basis": "per_1000",
+        "unit_inferred": false,
+        "currency": "INR",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-PAD-029",
+        "source_ref": "",
+        "source_quote": "",
+        "vendor_item_text": "",
+        "match_basis": "none",
+        "scope": "explicit_line",
+        "price_status": "not_quoted",
+        "price_text": "",
+        "price_value": -1,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "not_stated",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      },
+      {
+        "rfx_line_id": "PK-SHP-030",
+        "source_ref": "L19",
+        "source_quote": "PK-SHP-030  Sample carton  9.8\" x 7.9\" x 5.9\"  3 ply  Rs 9.45",
+        "vendor_item_text": "Sample carton  9.8\" x 7.9\" x 5.9\"  3 ply",
+        "match_basis": "buyer_code",
+        "scope": "explicit_line",
+        "price_status": "read_clearly",
+        "price_text": "Rs 9.45",
+        "price_value": 9.45,
+        "unit_basis": "not_stated",
+        "unit_inferred": false,
+        "currency": "INR",
+        "spec_deviation": "",
+        "photo_row_top": -1,
+        "photo_row_bottom": -1
+      }
+    ],
+    "conditions": [
+      {
+        "kind": "gst",
+        "source_ref": "L8",
+        "source_quote": "All rates are inclusive of GST @5%.",
+        "summary": "All quoted rates include GST at 5%.",
+        "percent": 5,
+        "amount_inr": -1,
+        "amount_basis": "not_applicable",
+        "days": -1,
+        "condition": "",
+        "gst_basis": "prices_include_gst",
+        "freight_basis": "not_about_freight"
+      },
+      {
+        "kind": "freight",
+        "source_ref": "L8",
+        "source_quote": "Door delivery to your Hosur plant, no extra freight.",
+        "summary": "Door delivery to the Hosur plant is included, with no extra freight.",
+        "percent": -1,
+        "amount_inr": -1,
+        "amount_basis": "not_applicable",
+        "days": -1,
+        "condition": "Delivery to your Hosur plant",
+        "gst_basis": "not_about_gst",
+        "freight_basis": "delivered_included"
+      },
+      {
+        "kind": "other",
+        "source_ref": "L8",
+        "source_quote": "MOQ 2000 pcs per order per item.",
+        "summary": "Minimum order quantity is 2000 pieces per order per item.",
+        "percent": -1,
+        "amount_inr": -1,
+        "amount_basis": "not_applicable",
+        "days": -1,
+        "condition": "Per order per item",
+        "gst_basis": "not_about_gst",
+        "freight_basis": "not_about_freight"
+      },
+      {
+        "kind": "payment",
+        "source_ref": "L8",
+        "source_quote": "Payment 45 days.",
+        "summary": "Payment term is 45 days; starting point is not stated.",
+        "percent": -1,
+        "amount_inr": -1,
+        "amount_basis": "not_applicable",
+        "days": 45,
+        "condition": "",
+        "gst_basis": "not_about_gst",
+        "freight_basis": "not_about_freight"
+      },
+      {
+        "kind": "validity",
+        "source_ref": "L8",
+        "source_quote": "Offer valid for 30 days.",
+        "summary": "Offer validity is 30 days.",
+        "percent": -1,
+        "amount_inr": -1,
+        "amount_basis": "not_applicable",
+        "days": 30,
+        "condition": "",
+        "gst_basis": "not_about_gst",
+        "freight_basis": "not_about_freight"
+      }
+    ],
+    "answers": [
+      {
+        "question_id": "Q01",
+        "answer_text": "",
+        "source_quote": ""
+      },
+      {
+        "question_id": "Q02",
+        "answer_text": "",
+        "source_quote": ""
+      },
+      {
+        "question_id": "Q03",
+        "answer_text": "",
+        "source_quote": ""
+      },
+      {
+        "question_id": "Q04",
+        "answer_text": "",
+        "source_quote": ""
+      },
+      {
+        "question_id": "Q05",
+        "answer_text": "",
+        "source_quote": ""
+      },
+      {
+        "question_id": "Q06",
+        "answer_text": "",
+        "source_quote": ""
+      },
+      {
+        "question_id": "Q07",
+        "answer_text": "",
+        "source_quote": ""
+      },
+      {
+        "question_id": "Q08",
+        "answer_text": "",
+        "source_quote": ""
+      },
+      {
+        "question_id": "Q09",
+        "answer_text": "",
+        "source_quote": ""
+      },
+      {
+        "question_id": "Q10",
+        "answer_text": "",
+        "source_quote": ""
+      }
+    ],
+    "attachments_mentioned": []
+  },
+  "cells": [
+    {
+      "vendorId": "G",
+      "lineId": "PK-SHP-001",
+      "status": "converted",
+      "inrPerPiece": 45,
+      "landedPerPiece": 45,
+      "conversion": [
+        "÷ 1.05 (quoted inclusive of 5% GST)"
+      ],
+      "checks": [
+        {
+          "id": "grounded",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "quote_value",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "line_match",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "magnitude",
+          "ok": true,
+          "reason": ""
+        }
+      ],
+      "reasons": [],
+      "source": {
+        "file": "G_OmSai_email.txt",
+        "ref": "L10",
+        "quote": "PK-SHP-001  Detergent 1kg shipper  16.1\" x 12.2\" x 10.2\"  5 ply  Rs 47.25",
+        "asWritten": "Rs 47.25"
+      }
+    },
+    {
+      "vendorId": "G",
+      "lineId": "PK-SHP-002",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "G_OmSai_email.txt",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "G",
+      "lineId": "PK-SHP-003",
+      "status": "converted",
+      "inrPerPiece": 25,
+      "landedPerPiece": 25,
+      "conversion": [
+        "÷ 1.05 (quoted inclusive of 5% GST)"
+      ],
+      "checks": [
+        {
+          "id": "grounded",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "quote_value",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "line_match",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "magnitude",
+          "ok": true,
+          "reason": ""
+        }
+      ],
+      "reasons": [],
+      "source": {
+        "file": "G_OmSai_email.txt",
+        "ref": "L11",
+        "quote": "Bar soap shipper  15\" x 10.2\" x 7.1\"  5 ply  Rs 26.25",
+        "asWritten": "Rs 26.25"
+      }
+    },
+    {
+      "vendorId": "G",
+      "lineId": "PK-SHP-004",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "G_OmSai_email.txt",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "G",
+      "lineId": "PK-SHP-005",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "G_OmSai_email.txt",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "G",
+      "lineId": "PK-SHP-006",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "G_OmSai_email.txt",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "G",
+      "lineId": "PK-SHP-007",
+      "status": "converted",
+      "inrPerPiece": 23,
+      "landedPerPiece": 23,
+      "conversion": [
+        "÷ 1.05 (quoted inclusive of 5% GST)"
+      ],
+      "checks": [
+        {
+          "id": "grounded",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "quote_value",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "line_match",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "magnitude",
+          "ok": true,
+          "reason": ""
+        }
+      ],
+      "reasons": [],
+      "source": {
+        "file": "G_OmSai_email.txt",
+        "ref": "L12",
+        "quote": "PK-SHP-007  Biscuit 100g shipper  17.3\" x 11.8\" x 9.8\"  3 ply  Rs 24.15",
+        "asWritten": "Rs 24.15"
+      }
+    },
+    {
+      "vendorId": "G",
+      "lineId": "PK-SHP-008",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "G_OmSai_email.txt",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "G",
+      "lineId": "PK-SHP-009",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "G_OmSai_email.txt",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "G",
+      "lineId": "PK-SHP-010",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "G_OmSai_email.txt",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "G",
+      "lineId": "PK-SHP-011",
+      "status": "converted",
+      "inrPerPiece": 26,
+      "landedPerPiece": 26,
+      "conversion": [
+        "÷ 1.05 (quoted inclusive of 5% GST)"
+      ],
+      "checks": [
+        {
+          "id": "grounded",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "quote_value",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "line_match",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "magnitude",
+          "ok": true,
+          "reason": ""
+        }
+      ],
+      "reasons": [],
+      "source": {
+        "file": "G_OmSai_email.txt",
+        "ref": "L13",
+        "quote": "Shampoo bottle shipper  14.2\" x 10.6\" x 7.9\"  5 ply  Rs 27.30",
+        "asWritten": "Rs 27.30"
+      }
+    },
+    {
+      "vendorId": "G",
+      "lineId": "PK-SHP-012",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "G_OmSai_email.txt",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "G",
+      "lineId": "PK-SHP-013",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "G_OmSai_email.txt",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "G",
+      "lineId": "PK-SHP-014",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "G_OmSai_email.txt",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "G",
+      "lineId": "PK-SHP-015",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "G_OmSai_email.txt",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "G",
+      "lineId": "PK-SHP-016",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "G_OmSai_email.txt",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "G",
+      "lineId": "PK-SHP-017",
+      "status": "converted",
+      "inrPerPiece": 27,
+      "landedPerPiece": 27,
+      "conversion": [
+        "÷ 1.05 (quoted inclusive of 5% GST)"
+      ],
+      "checks": [
+        {
+          "id": "grounded",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "quote_value",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "line_match",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "magnitude",
+          "ok": true,
+          "reason": ""
+        }
+      ],
+      "reasons": [],
+      "source": {
+        "file": "G_OmSai_email.txt",
+        "ref": "L14",
+        "quote": "PK-SHP-017  Juice 1L shipper  11.4\" x 8.7\" x 9.8\"  5 ply  Rs 28.35",
+        "asWritten": "Rs 28.35"
+      }
+    },
+    {
+      "vendorId": "G",
+      "lineId": "PK-SHP-018",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "G_OmSai_email.txt",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "G",
+      "lineId": "PK-SHP-019",
+      "status": "converted",
+      "inrPerPiece": 57,
+      "landedPerPiece": 57,
+      "conversion": [
+        "÷ 1.05 (quoted inclusive of 5% GST)"
+      ],
+      "checks": [
+        {
+          "id": "grounded",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "quote_value",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "line_match",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "magnitude",
+          "ok": true,
+          "reason": ""
+        }
+      ],
+      "reasons": [],
+      "source": {
+        "file": "G_OmSai_email.txt",
+        "ref": "L15",
+        "quote": "PK-SHP-019  Export detergent shipper 28 BF  16.1\" x 12.2\" x 10.2\"  5 ply  Rs 59.85",
+        "asWritten": "Rs 59.85"
+      }
+    },
+    {
+      "vendorId": "G",
+      "lineId": "PK-SHP-020",
+      "status": "converted",
+      "inrPerPiece": 69,
+      "landedPerPiece": 69,
+      "conversion": [
+        "÷ 1.05 (quoted inclusive of 5% GST)"
+      ],
+      "checks": [
+        {
+          "id": "grounded",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "quote_value",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "line_match",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "magnitude",
+          "ok": true,
+          "reason": ""
+        }
+      ],
+      "reasons": [],
+      "source": {
+        "file": "G_OmSai_email.txt",
+        "ref": "L16",
+        "quote": "Club store jumbo shipper  22\" x 15\" x 11.8\"  5 ply  Rs 72.45",
+        "asWritten": "Rs 72.45"
+      }
+    },
+    {
+      "vendorId": "G",
+      "lineId": "PK-DCT-021",
+      "status": "converted",
+      "inrPerPiece": 10,
+      "landedPerPiece": 10,
+      "conversion": [
+        "÷ 1.05 (quoted inclusive of 5% GST)"
+      ],
+      "checks": [
+        {
+          "id": "grounded",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "quote_value",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "line_match",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "magnitude",
+          "ok": true,
+          "reason": ""
+        }
+      ],
+      "reasons": [],
+      "source": {
+        "file": "G_OmSai_email.txt",
+        "ref": "L17",
+        "quote": "PK-DCT-021  Biscuit display tray 4 colour  15.7\" x 11.8\" x 3.5\"  3 ply  Rs 10.50",
+        "asWritten": "Rs 10.50"
+      }
+    },
+    {
+      "vendorId": "G",
+      "lineId": "PK-DCT-022",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "G_OmSai_email.txt",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "G",
+      "lineId": "PK-DCT-023",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "G_OmSai_email.txt",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "G",
+      "lineId": "PK-DCT-024",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "G_OmSai_email.txt",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "G",
+      "lineId": "PK-PRT-025",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "G_OmSai_email.txt",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "G",
+      "lineId": "PK-PRT-026",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "G_OmSai_email.txt",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "G",
+      "lineId": "PK-PRT-027",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "G_OmSai_email.txt",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "G",
+      "lineId": "PK-PAD-028",
+      "status": "converted",
+      "inrPerPiece": 2.6,
+      "landedPerPiece": 2.6,
+      "conversion": [
+        "÷ 1.05 (quoted inclusive of 5% GST)",
+        "÷ 1000 (quoted per 1000)"
+      ],
+      "checks": [
+        {
+          "id": "grounded",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "quote_value",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "line_match",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "magnitude",
+          "ok": true,
+          "reason": ""
+        }
+      ],
+      "reasons": [],
+      "source": {
+        "file": "G_OmSai_email.txt",
+        "ref": "L18",
+        "quote": "Layer pad  15.7\" x 11.8\"  3 ply  Rs 2730 per 1000 pcs",
+        "asWritten": "Rs 2730 per 1000 pcs"
+      }
+    },
+    {
+      "vendorId": "G",
+      "lineId": "PK-PAD-029",
+      "status": "missing",
+      "inrPerPiece": null,
+      "landedPerPiece": null,
+      "conversion": [],
+      "checks": [],
+      "reasons": [
+        "Not quoted"
+      ],
+      "source": {
+        "file": "G_OmSai_email.txt",
+        "ref": "",
+        "quote": "",
+        "asWritten": ""
+      }
+    },
+    {
+      "vendorId": "G",
+      "lineId": "PK-SHP-030",
+      "status": "converted",
+      "inrPerPiece": 9,
+      "landedPerPiece": 9,
+      "conversion": [
+        "÷ 1.05 (quoted inclusive of 5% GST)"
+      ],
+      "checks": [
+        {
+          "id": "grounded",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "quote_value",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "line_match",
+          "ok": true,
+          "reason": ""
+        },
+        {
+          "id": "magnitude",
+          "ok": true,
+          "reason": ""
+        }
+      ],
+      "reasons": [],
+      "source": {
+        "file": "G_OmSai_email.txt",
+        "ref": "L19",
+        "quote": "PK-SHP-030  Sample carton  9.8\" x 7.9\" x 5.9\"  3 ply  Rs 9.45",
+        "asWritten": "Rs 9.45"
+      }
+    }
+  ],
+  "terms": {
+    "vendorId": "G",
+    "freight": {
+      "kind": "delivered",
+      "quote": "Door delivery to your Hosur plant, no extra freight."
+    },
+    "tooling": {},
+    "discounts": [],
+    "gst": {
+      "basis": "inclusive",
+      "rate": 5,
+      "quote": "All rates are inclusive of GST @5%."
+    },
+    "flags": [
+      "MOQ 2,000 pieces per order per item: lines with smaller monthly call-offs need less frequent orders (shown in the award).",
+      "Prices are quoted inclusive of GST at 5%; converted to ex-GST for a fair comparison."
+    ],
+    "conditions": [
+      {
+        "kind": "gst",
+        "source_ref": "L8",
+        "source_quote": "All rates are inclusive of GST @5%.",
+        "summary": "All quoted rates include GST at 5%.",
+        "percent": 5,
+        "amount_inr": -1,
+        "amount_basis": "not_applicable",
+        "days": -1,
+        "condition": "",
+        "gst_basis": "prices_include_gst",
+        "freight_basis": "not_about_freight"
+      },
+      {
+        "kind": "freight",
+        "source_ref": "L8",
+        "source_quote": "Door delivery to your Hosur plant, no extra freight.",
+        "summary": "Door delivery to the Hosur plant is included, with no extra freight.",
+        "percent": -1,
+        "amount_inr": -1,
+        "amount_basis": "not_applicable",
+        "days": -1,
+        "condition": "Delivery to your Hosur plant",
+        "gst_basis": "not_about_gst",
+        "freight_basis": "delivered_included"
+      },
+      {
+        "kind": "other",
+        "source_ref": "L8",
+        "source_quote": "MOQ 2000 pcs per order per item.",
+        "summary": "Minimum order quantity is 2000 pieces per order per item.",
+        "percent": -1,
+        "amount_inr": -1,
+        "amount_basis": "not_applicable",
+        "days": -1,
+        "condition": "Per order per item",
+        "gst_basis": "not_about_gst",
+        "freight_basis": "not_about_freight"
+      },
+      {
+        "kind": "payment",
+        "source_ref": "L8",
+        "source_quote": "Payment 45 days.",
+        "summary": "Payment term is 45 days; starting point is not stated.",
+        "percent": -1,
+        "amount_inr": -1,
+        "amount_basis": "not_applicable",
+        "days": 45,
+        "condition": "",
+        "gst_basis": "not_about_gst",
+        "freight_basis": "not_about_freight"
+      },
+      {
+        "kind": "validity",
+        "source_ref": "L8",
+        "source_quote": "Offer valid for 30 days.",
+        "summary": "Offer validity is 30 days.",
+        "percent": -1,
+        "amount_inr": -1,
+        "amount_basis": "not_applicable",
+        "days": 30,
+        "condition": "",
+        "gst_basis": "not_about_gst",
+        "freight_basis": "not_about_freight"
+      }
+    ],
+    "moqPcs": 2000,
+    "moqQuote": "MOQ 2000 pcs per order per item.",
+    "paymentDays": 45,
+    "validityDays": 30
+  },
+  "aiCalls": []
+}

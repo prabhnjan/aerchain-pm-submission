@@ -1,0 +1,50 @@
+{
+  "name": "prototype",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "data:truth": "tsx data/truth/build-truth.ts",
+    "data:render": "tsx data/generate/render-replies.ts",
+    "pipeline": "tsx --env-file=.env.local scripts/run-pipeline.ts",
+    "pipeline:cached": "tsx scripts/run-pipeline.ts --cached",
+    "eval:cells": "tsx evals/cells.eval.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "0.128.0",
+    "@neondatabase/serverless": "1.1.0",
+    "@vercel/blob": "2.8.0",
+    "drizzle-orm": "0.45.3",
+    "mammoth": "1.12.3",
+    "next": "16.3.6",
+    "openai": "7.23.0",
+    "react": "19.2.8",
+    "react-dom": "19.2.8",
+    "tesseract.js": "7.0.0",
+    "unpdf": "1.8.1",
+    "vega": "6.4.0",
+    "vega-embed": "7.2.0",
+    "vega-lite": "6.4.3",
+    "xlsx": "https://cdn.sheetjs.com/xlsx-0.20.3/xlsx-0.20.3.tgz",
+    "zod": "4.6.5"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "docx": "9.7.2",
+    "drizzle-kit": "0.31.11",
+    "eslint": "^9",
+    "eslint-config-next": "16.3.6",
+    "playwright": "1.63.0",
+    "sharp": "0.35.4",
+    "tailwindcss": "^4",
+    "tsx": "4.23.15",
+    "typescript": "^5"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "note": "Hand-annotated truth for held-out reply G (written after the second freeze). INR per piece EX-GST: quoted prices include 5% GST, so truth = quoted / 1.05.",
+  "vendorId": "G",
+  "freight": "delivered",
+  "validityDays": 30,
+  "quoted": {
+    "PK-SHP-001": 45.00, "PK-SHP-003": 25.00, "PK-SHP-007": 23.00, "PK-SHP-011": 26.00, "PK-SHP-017": 27.00,
+    "PK-SHP-019": 57.00, "PK-SHP-020": 69.00, "PK-DCT-021": 10.00, "PK-PAD-028": 2.60, "PK-SHP-030": 9.00
+  },
+  "traps": ["Prices include 5% GST (must be removed for an ex-GST comparison)", "Sizes in inches", "Pad per 1000", "Buyer codes on only some lines", "MOQ 2000 pcs per order per item"]
+}

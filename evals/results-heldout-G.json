@@ -1,0 +1,255 @@
+{
+  "summary": {
+    "cells": 30,
+    "quoted_in_truth": 10,
+    "quiet_and_right": 10,
+    "flags_on_right_values": 0,
+    "missing_shown_correctly": 20,
+    "wrong_but_caught": 0,
+    "SILENT_ERRORS": 0,
+    "freight_read": true,
+    "validity_read": true
+  },
+  "rows": [
+    {
+      "line": "PK-SHP-001",
+      "truth": 45,
+      "got": 45,
+      "status": "converted",
+      "bucket": "quiet_right",
+      "why": ""
+    },
+    {
+      "line": "PK-SHP-002",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "bucket": "justified_flag",
+      "why": "Not quoted"
+    },
+    {
+      "line": "PK-SHP-003",
+      "truth": 25,
+      "got": 25,
+      "status": "converted",
+      "bucket": "quiet_right",
+      "why": ""
+    },
+    {
+      "line": "PK-SHP-004",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "bucket": "justified_flag",
+      "why": "Not quoted"
+    },
+    {
+      "line": "PK-SHP-005",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "bucket": "justified_flag",
+      "why": "Not quoted"
+    },
+    {
+      "line": "PK-SHP-006",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "bucket": "justified_flag",
+      "why": "Not quoted"
+    },
+    {
+      "line": "PK-SHP-007",
+      "truth": 23,
+      "got": 23,
+      "status": "converted",
+      "bucket": "quiet_right",
+      "why": ""
+    },
+    {
+      "line": "PK-SHP-008",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "bucket": "justified_flag",
+      "why": "Not quoted"
+    },
+    {
+      "line": "PK-SHP-009",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "bucket": "justified_flag",
+      "why": "Not quoted"
+    },
+    {
+      "line": "PK-SHP-010",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "bucket": "justified_flag",
+      "why": "Not quoted"
+    },
+    {
+      "line": "PK-SHP-011",
+      "truth": 26,
+      "got": 26,
+      "status": "converted",
+      "bucket": "quiet_right",
+      "why": ""
+    },
+    {
+      "line": "PK-SHP-012",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "bucket": "justified_flag",
+      "why": "Not quoted"
+    },
+    {
+      "line": "PK-SHP-013",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "bucket": "justified_flag",
+      "why": "Not quoted"
+    },
+    {
+      "line": "PK-SHP-014",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "bucket": "justified_flag",
+      "why": "Not quoted"
+    },
+    {
+      "line": "PK-SHP-015",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "bucket": "justified_flag",
+      "why": "Not quoted"
+    },
+    {
+      "line": "PK-SHP-016",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "bucket": "justified_flag",
+      "why": "Not quoted"
+    },
+    {
+      "line": "PK-SHP-017",
+      "truth": 27,
+      "got": 27,
+      "status": "converted",
+      "bucket": "quiet_right",
+      "why": ""
+    },
+    {
+      "line": "PK-SHP-018",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "bucket": "justified_flag",
+      "why": "Not quoted"
+    },
+    {
+      "line": "PK-SHP-019",
+      "truth": 57,
+      "got": 57,
+      "status": "converted",
+      "bucket": "quiet_right",
+      "why": ""
+    },
+    {
+      "line": "PK-SHP-020",
+      "truth": 69,
+      "got": 69,
+      "status": "converted",
+      "bucket": "quiet_right",
+      "why": ""
+    },
+    {
+      "line": "PK-DCT-021",
+      "truth": 10,
+      "got": 10,
+      "status": "converted",
+      "bucket": "quiet_right",
+      "why": ""
+    },
+    {
+      "line": "PK-DCT-022",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "bucket": "justified_flag",
+      "why": "Not quoted"
+    },
+    {
+      "line": "PK-DCT-023",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "bucket": "justified_flag",
+      "why": "Not quoted"
+    },
+    {
+      "line": "PK-DCT-024",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "bucket": "justified_flag",
+      "why": "Not quoted"
+    },
+    {
+      "line": "PK-PRT-025",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "bucket": "justified_flag",
+      "why": "Not quoted"
+    },
+    {
+      "line": "PK-PRT-026",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "bucket": "justified_flag",
+      "why": "Not quoted"
+    },
+    {
+      "line": "PK-PRT-027",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "bucket": "justified_flag",
+      "why": "Not quoted"
+    },
+    {
+      "line": "PK-PAD-028",
+      "truth": 2.6,
+      "got": 2.6,
+      "status": "converted",
+      "bucket": "quiet_right",
+      "why": ""
+    },
+    {
+      "line": "PK-PAD-029",
+      "truth": null,
+      "got": null,
+      "status": "missing",
+      "bucket": "justified_flag",
+      "why": "Not quoted"
+    },
+    {
+      "line": "PK-SHP-030",
+      "truth": 9,
+      "got": 9,
+      "status": "converted",
+      "bucket": "quiet_right",
+      "why": ""
+    }
+  ]
+}

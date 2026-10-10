@@ -1,0 +1,23 @@
+{
+  "frozenAt": "2026-10-09T11:58:06.160Z",
+  "note": "Frozen BEFORE authoring or opening the held-out reply (audit F09). Any change after this is logged as a post-held-out fix.",
+  "files": {
+    "lib/extract/prompt.ts": "de44b0ce553bfed0",
+    "lib/extract/schema.ts": "f5636c900f2c892c",
+    "lib/pipeline/normalise.ts": "a2b5534c3437621b",
+    "config/categories/corrugated.ts": "1944e9638b8ff4f8",
+    "lib/extract/index.ts": "24ea2c7309b495e4"
+  },
+  "postFreezeChanges": [
+    {
+      "at": "2026-10-09T11:59:44.739Z",
+      "file": "lib/pipeline/normalise.ts",
+      "change": "dimsMatch accepts cm and inch sizes (×10, ×25.4). Held-out run before the fix: 12/12 correct values falsely flagged by line_match because the reply gave sizes in cm. Extraction itself was not changed or re-run."
+    },
+    {
+      "at": "2026-10-09T12:14:30.112Z",
+      "file": "lib/extract/schema.ts",
+      "change": "Added photo_row_top/bottom (approximate row position for image prices, audit F15). Display only; no check uses it. Vendor D re-extracted; evals re-run."
+    }
+  ]
+}

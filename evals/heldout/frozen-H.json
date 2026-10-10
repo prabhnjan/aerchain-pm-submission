@@ -1,0 +1,23 @@
+{
+  "frozenAt": "2026-10-09T15:04:10.999Z",
+  "note": "Third freeze, AFTER the G fixes and BEFORE writing held-out reply H. H is run once with no changes; its first result is the clean measurement of the fixed pipeline.",
+  "files": {
+    "lib/extract/prompt.ts": "de44b0ce553bfed0",
+    "lib/extract/schema.ts": "f205370627cf8303",
+    "lib/pipeline/normalise.ts": "45c6924bf9365d23",
+    "config/categories/corrugated.ts": "1944e9638b8ff4f8",
+    "lib/extract/index.ts": "24ea2c7309b495e4",
+    "lib/scenario/index.ts": "d4789ee3dd522efa"
+  },
+  "firstRun": {
+    "file": "evals/heldout/results-H-first-run.json",
+    "result": "0 silent errors; code-typo trap caught; 3 false alarms (code-less spreadsheet rows borrowed neighbouring codes)"
+  },
+  "postFreezeChanges": [
+    {
+      "at": "2026-10-09T15:05:44.008Z",
+      "file": "lib/pipeline/normalise.ts",
+      "change": "line_match: spreadsheet rows are self-contained; L|W|H in separate cells count as a size; no neighbour-code fallback for spreadsheet rows. Code only; extraction not re-run."
+    }
+  ]
+}

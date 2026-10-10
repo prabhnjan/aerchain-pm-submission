@@ -1,0 +1,11 @@
+{
+  "note": "Hand-annotated truth for held-out reply H (written after the third freeze). INR per piece ex-GST. The row coded PK-SHP-012 is a vendor typo: its description and size are PK-SHP-014, so the price belongs to 014 and 012 is not quoted.",
+  "vendorId": "H",
+  "freightInrPerKg": 2.5,
+  "validityDays": 20,
+  "quoted": {
+    "PK-SHP-002": 39.80, "PK-SHP-005": 30.40, "PK-SHP-014": 31.90, "PK-SHP-013": 34.10,
+    "PK-PRT-027": 9.60, "PK-PAD-029": 47.50, "PK-DCT-022": 6.85
+  },
+  "traps": ["Buyer code typo: PK-SHP-012 written on the PK-SHP-014 row (size + description)", "Partitions per 100 sets", "One line 'on request' (not quoted)", "Freight Rs 2.50/kg extra", "CSV format"]
+}

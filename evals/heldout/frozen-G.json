@@ -1,0 +1,26 @@
+{
+  "frozenAt": "2026-10-09T14:52:13.051Z",
+  "note": "Second freeze, BEFORE writing held-out reply G. G is run once; its first result is the reported result.",
+  "files": {
+    "lib/extract/prompt.ts": "de44b0ce553bfed0",
+    "lib/extract/schema.ts": "3dcda3fd0ac790a5",
+    "lib/pipeline/normalise.ts": "0716fa555562233d",
+    "config/categories/corrugated.ts": "1944e9638b8ff4f8",
+    "lib/extract/index.ts": "24ea2c7309b495e4",
+    "lib/scenario/index.ts": "88e4504927c805f1"
+  },
+  "firstRun": {
+    "file": "evals/heldout/results-G-first-run.json",
+    "result": "6 silent errors (GST-inclusive prices treated as ex-GST), 4 caught for the wrong reason (neighbouring row codes), 0 quiet-right"
+  },
+  "postFreezeChanges": [
+    {
+      "at": "2026-10-09T14:54:35.285Z",
+      "files": [
+        "lib/extract/schema.ts",
+        "lib/pipeline/normalise.ts"
+      ],
+      "change": "gst_basis label from the reader; inclusive prices ÷ (1+rate); GST-not-stated vendor flag; line_match judges a row on its own size (incl. inches) before borrowing neighbouring codes. Requires re-extraction of all vendors."
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "handled": 21,
+  "total": 21,
+  "rows": [
+    {
+      "id": "T01",
+      "vendor": "A",
+      "trap": "Priced per 100 pieces (unit stated)",
+      "handled": true,
+      "expected": "per-100 prices converted and shown"
+    },
+    {
+      "id": "T02",
+      "vendor": "A",
+      "trap": "Per-100 price with no unit written (100x the others)",
+      "handled": true,
+      "expected": "unit-less per-100 price flagged"
+    },
+    {
+      "id": "T03",
+      "vendor": "A",
+      "trap": "Quoted 27 of 30 lines",
+      "handled": true,
+      "expected": "3 missing lines shown as not quoted, never 0"
+    },
+    {
+      "id": "T04",
+      "vendor": "A",
+      "trap": "States GST 12% (stale; boxes are 5% since 22 Sep 2025)",
+      "handled": true,
+      "expected": "stale GST 12% flagged"
+    },
+    {
+      "id": "T05",
+      "vendor": "B",
+      "trap": "Quoted in USD",
+      "handled": true,
+      "expected": "USD converted at the stated rate, shown on every cell"
+    },
+    {
+      "id": "T06",
+      "vendor": "B",
+      "trap": "3% discount in a footnote, conditional on monthly offtake above 5 MT",
+      "handled": true,
+      "expected": "footnote discount found as a condition, not baked in"
+    },
+    {
+      "id": "T07",
+      "vendor": "C",
+      "trap": "Ex-works; freight about ₹2.10/kg stated in prose",
+      "handled": true,
+      "expected": "ex-works freight ₹2.10/kg read from prose"
+    },
+    {
+      "id": "T08",
+      "vendor": "C",
+      "trap": "Plate and die charges extra, stated in prose",
+      "handled": true,
+      "expected": "plate and die charges read from prose"
+    },
+    {
+      "id": "T09",
+      "vendor": "C",
+      "trap": "GSM downgrade vs spec",
+      "handled": true,
+      "expected": "GSM downgrade flagged"
+    },
+    {
+      "id": "T10",
+      "vendor": "C",
+      "trap": "Validity only 7 days",
+      "handled": true,
+      "expected": "7-day validity flagged"
+    },
+    {
+      "id": "T11",
+      "vendor": "D",
+      "trap": "Smudged digit on the photo",
+      "handled": true,
+      "expected": "smudged digits flagged"
+    },
+    {
+      "id": "T12",
+      "vendor": "D",
+      "trap": "Rate card covers 24 of 30 lines",
+      "handled": true,
+      "expected": "6 lines not on the rate card shown as missing"
+    },
+    {
+      "id": "T13",
+      "vendor": "D",
+      "trap": "Own item names, no buyer codes (line matching)",
+      "handled": true,
+      "expected": "24 rate-card items matched to RFx lines by name and size"
+    },
+    {
+      "id": "T14",
+      "vendor": "D",
+      "trap": "Says ISO certified, attached certificate expired 31-03-2026",
+      "handled": true,
+      "expected": "expired ISO certificate caught from the attachment"
+    },
+    {
+      "id": "T15",
+      "vendor": "E",
+      "trap": "Per-kg rate; needs box weight from spec",
+      "handled": true,
+      "expected": "per-kg rates converted via spec box weight"
+    },
+    {
+      "id": "T16",
+      "vendor": "E",
+      "trap": "'Rest same as last year'",
+      "handled": true,
+      "expected": "'same as last year' lines marked carried or flagged"
+    },
+    {
+      "id": "T17",
+      "vendor": "E",
+      "trap": "Freight extra, amount unknown",
+      "handled": true,
+      "expected": "unknown freight → landed range"
+    },
+    {
+      "id": "T18",
+      "vendor": "E",
+      "trap": "Ambiguous scope: does '3-ply'/'5-ply' include trays, partitions and pads?",
+      "handled": true,
+      "expected": "ambiguous scope lines flagged"
+    },
+    {
+      "id": "T19",
+      "vendor": "E",
+      "trap": "Questionnaire not answered",
+      "handled": true,
+      "expected": "unanswered questionnaire → not cleared"
+    },
+    {
+      "id": "T20",
+      "vendor": "C",
+      "trap": "Fails must-haves: no in-house bursting test, capacity, lead time",
+      "handled": true,
+      "expected": "C fails must-haves"
+    },
+    {
+      "id": "T21",
+      "vendor": "C",
+      "trap": "Price 22% above the market for this line",
+      "handled": true,
+      "expected": "22% outlier flagged"
+    }
+  ]
+}
