@@ -35,7 +35,7 @@
 The last row followed Hamel Husain and Shreya Shankar's error-discovery method. The pass/fail labels are mine (AI-proposed), not human-reviewed. Full reports: [evals/](evals/).
 
 
-# Decisions worth defending, and what's next
+# Decisions worth defending
 
 | Decision | Why |
 |---|---|
@@ -45,10 +45,3 @@ The last row followed Hamel Husain and Shreya Shankar's error-discovery method. 
 | **Discounts on the whole award** | A "3% above 5 MT a month" discount is tested on the tonnage actually awarded. That's how the cheaper single-supplier option surfaces |
 | **A conversation first, detail in place** | The buyer talks to Aera and never loses their place. Evidence opens next to the number, not on another screen |
 | **Spend protection** | AI calls on the public link need a passcode and are rate-limited; browsing is open |
-
-
-**What I'd do next**
-1. **The clarification loop** from the [one-page note](one-page-note.md): send each decisive question to the supplier and read the answer back into the comparison.
-2. **Fix the error-discovery findings:** follow the user's requested length, say when a supplier can't be awarded, give Aera the plant and RFx scope, and route hypotheticals through the calculator.
-3. **Log every AI session as a trace** and repeat error discovery on 100 real sessions, with a human reviewing first.
-4. **Durable RFx records:** saved drafts, revisions, dispatch receipts and an audit trail per request.
